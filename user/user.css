@@ -1,0 +1,40 @@
+h2{
+    font-size: 35px;
+}
+
+.nutzerprofil{
+    padding-left: 20px;
+}
+
+.pers-daten{
+    width: 95%;
+    height: 576px;
+    padding: 15px;
+    font-family: Helvetica, sans-serif;
+    color: white;
+    background: #f5a114;
+    box-sizing: border-box;
+    border-radius: 20px;
+    margin: 0 auto;
+}
+
+.ueberschrift{
+    float: left;
+}
+
+.pers-link{
+text-decoration: underline;
+font-size: 20px;
+}
+
+#aendern-link{
+   display: inline-block;
+   padding-left: 30px;
+   padding-top: 40px;
+   font-size: 20px;
+}
+
+.adress{
+    clear:left;
+    font-size: 20px;
+}

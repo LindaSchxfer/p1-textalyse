@@ -1,79 +1,70 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="style.css">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="pages/home/home.css">
+    <link rel="stylesheet" type="text/css" href="pages/projects/projects.css">
+    <link rel="stylesheet" type="text/css" href="pages/user/user.css">
+    <link rel="stylesheet" type="text/css" href="pages/help/help.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="global.css">
     <title>Document</title>
-</head>
-<body>
-    <!-- Header-->
-    <div class="header">
-        <div class="logo" onclick="location.href='/index.html';">
-          <img src="assets/logo.png" alt="Logo: Textalyse"></img>
-        </div>
-        <div class= "anmeldung">
-          <p>Willkommen!</p>
-          <button onclick="location.href='/anmeldung/anmeldung.html';"><p>Anmelden</p></button>
-          </div>
+  </head>
+  <body onload="loadHome()">
+     <!-- Header-->
+     <div class="header">
+      <div class="logo" onclick="location.href='/index.html';">
+        <img src="assets/logo.png" alt="Logo: Textalyse"></img>
       </div>
-      <div class="headerTeil"></div>
-    <!-- Button-Bar-->
-    <div class="button-bar">
-        <div class="txa-button-wrapper" onclick="location.href='/index.html';">
-            <div class="txa-icon">
-            </div>          
-            <p href="projects/projects.html">Start</p>
-        </div>
-        <div class="txa-button-wrapper" onclick="location.href='/projects/projects.html';">
-            <div class="txa-icon">
-            </div>
-            <p>Projekte</p>
-        </div>
-        <div class="txa-button-wrapper" onclick="location.href='/user/user.html';">
-            <div class="txa-icon">
-            </div>
-            <p>Nutzerprofil</p>
-        </div>
-        <div class="txa-button-wrapper" onclick="location.href='/help/help.html';">
-            <div class="txa-icon">
-            </div>
-            <p>Hilfe</p>
+      <div class= "anmeldung">
+        <p>Willkommen!</p>
+        <button onclick="loadHome()"><p>Anmelden</p></button>
         </div>
     </div>
-    <!-- Image-->
-    <div class="titel">
-        <slot name="titel">
-        <h1 id="headText">WILLKOMMEN BEI TEXTALYSE!</h1>
-          <img class="welcome-image" src="assets/background.jpg" alt="Willkommens Bild" />
-        </slot>
+    <div class="headerTeil"></div>
+  <!-- Button-Bar-->
+  <div class="button-bar">
+      <div class="txa-button-wrapper" onclick="loadHome()">
+          <div class="txa-icon">
+            <span class="material-icons md-light md-36">home</span>
+          </div>          
+          <p href="projects/projects.html">Start</p>
       </div>
-
-      <!--Cards-->
-      <div class="box-wrapper">
-        <div class="box">
-          Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos
-          et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-        </div>
-        <div class="box">
-          Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos
-          et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-        </div>
-        <div class="box">
-          Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos
-          et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
-        </div>
+      <div class="txa-button-wrapper" onclick="loadProjects()">
+          <div class="txa-icon">
+            <span class="material-icons md-light md-36">lightbulb</span>
+          </div>
+          <p>Projekte</p>
       </div>
+      <div class="txa-button-wrapper" onclick="loadUser()">
+          <div class="txa-icon">
+            <span class="material-icons md-light md-36">people</span>
+          </div>
+          <p>Nutzerprofil</p>
+      </div>
+      <div class="txa-button-wrapper" onclick="loadHelp()">
+          <div class="txa-icon">
+            <span class="material-icons md-light md-36">help</span>
+          </div>
+          <p>Hilfe</p>
+      </div>
+    </div>
 
-      <!--Footer-->
-      <div class="footer">
+    <!--Dynamic Content-->
+    <!--<input id="filter"><button type="button" ">Read CSV Data</button>-->
+
+    <div id="content"></div>
+
+       <!--Footer-->
+       <div class="footer">
         <ul>
           <li><a href="#">Impressum</a></li>
           <li><a href="#">Datenschutzerklärung</a></li>
           <li><a href="#">Kontakt</a></li>
         </ul>
-      </div>
-</body>
+    <script src="script.js"></script>
+    <script src="pages/projects/projects.js"></script>
+  </body>
 </html>

@@ -7,7 +7,31 @@ app.get("/", (req, res) => {
   res.send("Hello World!");
 });
 
-app.get("/csvtest", (req, res) => {
+app.get("/home", (req, res) => {
+  const fs = require("fs");
+  
+  res.send(fs.readFileSync("public/pages/home/home.html"));
+});
+
+app.get("/projects", (req, res) => {
+  const fs = require("fs");
+  
+  res.send(fs.readFileSync("public/pages/projects/projects.html"));
+});
+
+app.get("/user", (req, res) => {
+  const fs = require("fs");
+  
+  res.send(fs.readFileSync("public/pages/user/user.html"));
+});
+
+app.get("/help", (req, res) => {
+  const fs = require("fs");
+  
+  res.send(fs.readFileSync("public/pages/help/help.html"));
+});
+
+app.get("/csv", (req, res) => {
   const csv = require("csv-parser");
   const fs = require("fs");
   const results = [];

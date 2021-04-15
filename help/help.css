@@ -1,7 +1,7 @@
 #helpText {
   font-family: Arial, Helvetica, sans-serif;
   position: absolute;
-  top: 80%;
+  top: 55%;
   left: 50%;
   margin: 0%;
   transform: translate(-50%, -50%);
@@ -11,8 +11,13 @@
  
  .welcome-image{
     width: 100%;
+    opacity: 100%;
+  }
+
+  .bildrahmen {
     height: 500px;
-    opacity: 60%;
+    overflow: hidden;
+    margin-bottom: 20px;
   }
 
   .box-wrapper {

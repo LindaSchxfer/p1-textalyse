@@ -13,57 +13,62 @@
     <title>Document</title>
   </head>
   <body onload="loadHome()">
-     <!-- Header-->
-     <div class="header">
-      <div class="logo" onclick="location.href='/index.html';">
-        <img src="assets/logo.png" alt="Logo: Textalyse"></img>
-      </div>
-      <div class= "anmeldung">
-        <p>Willkommen!</p>
-        <button onclick="loadHome()"><p>Anmelden</p></button>
-        </div>
+    <div id="page-container">
+ <!-- Header-->
+ <div class="header-part">
+  <div class="header">
+   <div class="logo" onclick="location.href='/index.html';">
+     <img src="assets/logo.png" alt="Logo: Textalyse"></img>
+   </div>
+   <div class= "anmeldung">
+     <p>Willkommen!</p>
+     <button onclick="loadHome()"><p>Anmelden</p></button>
+     </div>
+ </div>
+ <div class="headerTeil"></div>
+<!-- Button-Bar-->
+<div class="button-bar">
+   <div class="txa-button-wrapper" onclick="loadHome()">
+       <div class="txa-icon">
+         <span class="material-icons md-light md-36">home</span>
+       </div>          
+       <p href="projects/projects.html">Start</p>
+   </div>
+   <div class="txa-button-wrapper" onclick="loadProjects()">
+       <div class="txa-icon">
+         <span class="material-icons md-light md-36">lightbulb</span>
+       </div>
+       <p>Projekte</p>
+   </div>
+   <div class="txa-button-wrapper" onclick="loadUser()">
+       <div class="txa-icon">
+         <span class="material-icons md-light md-36">people</span>
+       </div>
+       <p>Nutzerprofil</p>
+   </div>
+   <div class="txa-button-wrapper" onclick="loadHelp()">
+       <div class="txa-icon">
+         <span class="material-icons md-light md-36">help</span>
+       </div>
+       <p>Hilfe</p>
+   </div>
+ </div>
+</div>
+
+ <!--Dynamic Content-->
+ <!--<input id="filter"><button type="button" ">Read CSV Data</button>-->
+
+ <div id="content"></div>
+
+    <!--Footer-->
+    <div class="footer">
+     <ul>
+       <li><a href="#">Impressum</a></li>
+       <li><a href="#">Datenschutzerklärung</a></li>
+       <li><a href="#">Kontakt</a></li>
+     </ul>
     </div>
-    <div class="headerTeil"></div>
-  <!-- Button-Bar-->
-  <div class="button-bar">
-      <div class="txa-button-wrapper" onclick="loadHome()">
-          <div class="txa-icon">
-            <span class="material-icons md-light md-36">home</span>
-          </div>          
-          <p href="projects/projects.html">Start</p>
-      </div>
-      <div class="txa-button-wrapper" onclick="loadProjects()">
-          <div class="txa-icon">
-            <span class="material-icons md-light md-36">lightbulb</span>
-          </div>
-          <p>Projekte</p>
-      </div>
-      <div class="txa-button-wrapper" onclick="loadUser()">
-          <div class="txa-icon">
-            <span class="material-icons md-light md-36">people</span>
-          </div>
-          <p>Nutzerprofil</p>
-      </div>
-      <div class="txa-button-wrapper" onclick="loadHelp()">
-          <div class="txa-icon">
-            <span class="material-icons md-light md-36">help</span>
-          </div>
-          <p>Hilfe</p>
-      </div>
-    </div>
-
-    <!--Dynamic Content-->
-    <!--<input id="filter"><button type="button" ">Read CSV Data</button>-->
-
-    <div id="content"></div>
-
-       <!--Footer-->
-       <div class="footer">
-        <ul>
-          <li><a href="#">Impressum</a></li>
-          <li><a href="#">Datenschutzerklärung</a></li>
-          <li><a href="#">Kontakt</a></li>
-        </ul>
+    
     <script src="script.js"></script>
     <script src="pages/projects/projects.js"></script>
   </body>

@@ -80,9 +80,9 @@ body {
 
 .projects-box {
   width: 400px;
-  height: 900px;
   margin-top: 20px;
   margin-left: 20px;
+  margin-bottom: 20px;
   padding: 15px;
   position: relative;
   font-family: Helvetica, sans-serif;
@@ -117,6 +117,9 @@ body {
   position: relative;
 }
 
+.undofilter{
+  margin: 0;
+}
 
 ul li {
   list-style: none;

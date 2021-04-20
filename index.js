@@ -31,6 +31,12 @@ app.get("/help", (req, res) => {
   res.send(fs.readFileSync("public/pages/help/help.html"));
 });
 
+app.get("/segmentierer", (req, res) => {
+  const fs = require("fs");
+  
+  res.send(fs.readFileSync("public/pages/segmentierer/segmentierer.html"));
+});
+
 app.get("/csv", (req, res) => {
   const csv = require("csv-parser");
   const fs = require("fs");

@@ -24,7 +24,9 @@ body{
     overflow: hidden;
     background-color: #383635;
   }
-  
+.header-part{
+  height: 120px;
+}
   .headerTeil{
     background-color: #EBEBEB;
     height: 40px;
@@ -58,6 +60,7 @@ body{
     font-size: 12px;
     color: white;
     position: relative;
+    cursor: pointer;
   }
 
 .button-bar{
@@ -73,6 +76,7 @@ body{
   .txa-button-wrapper{
     width: 100px;
     justify-content: center;
+    cursor: pointer;
   }
   .txa-icon{
     width: 50px;
@@ -91,7 +95,6 @@ body{
   }
   
   .pageName {
-    margin-top: -100px;
     text-align: left;
     background-image: url("assets/background.jpg");
     background-size: 100%;
@@ -101,7 +104,7 @@ body{
     text-transform: uppercase;
     font-family: Arial, Helvetica, sans-serif;
     font-style: bold;
-    padding-left: 30px;
+    padding-left: 50px;
     margin-bottom: 20px;
   }
 

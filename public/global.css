@@ -1,6 +1,7 @@
 body{
     padding: 0;
     margin: 0;
+    background-color: white;
 }
 
 #page-container{
@@ -29,6 +30,11 @@ body{
     height: 40px;
     display: block;
   }
+
+  .header-part{
+    height: 120px;
+
+  }
   
   .logo > img{
     height: 80px;
@@ -55,14 +61,13 @@ body{
   }
 
 .button-bar{
-    height: 100px;
     width: 50%;
     display: flex;
     font-family: sans-serif;
     font-size: 12px;
     font-weight: bold;
     position: relative;
-    top: -85px;
+    top: -90px;
     left: 200px;
   }
   .txa-button-wrapper{
@@ -73,6 +78,8 @@ body{
     width: 50px;
     height: 50px;
     margin: 5px auto;
+    position: relative;
+    bottom: 20px;
     border-radius: 100%;
     background-color: #AAA8A7;
     text-align: center;
@@ -137,6 +144,20 @@ body{
     padding-bottom: 75px;
   }
 
+  .box {
+    margin-top: 30px;
+    width: 30%;
+    padding: 15px;
+    font-family: Helvetica, sans-serif;
+    color: white;
+    background: #f5a114;
+    box-sizing: border-box;
+    border-radius: 5px;
+  }
+
+  .shadow {
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  ;}
 
   /* Rules for sizing the icon. */
 .material-icons.md-18 { font-size: 18px; }

@@ -28,17 +28,7 @@
     justify-content: space-between;
     width: 75%;
   }
-  .box {
-    width: 30%;
-    padding: 15px;
-    font-family: Helvetica, sans-serif;
-    color: white;
-    background: #f5a114;
-    box-sizing: border-box;
-    border-radius: 30px;
-    text-align: center;
-  }
-
+  
   .button-hilfe {
     color: white;
     background-color: #383635;

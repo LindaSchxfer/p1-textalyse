@@ -65,6 +65,17 @@ function loadDoc() {
     xhttp.send();
   }
 
+  function loadSegmentierer() {
+    var xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = function () {
+      if (this.readyState == 4 && this.status == 200) {
+        document.getElementById("content").innerHTML = xhttp.responseText;
+      }
+    };
+    xhttp.open("GET", "segmentierer", true);
+    xhttp.send();
+  }
+
   function generateElement(el){
     return `<h1>${el.ID + " " + el.Name + " " + el.Age + " " + el.Description}</h1>`
   }

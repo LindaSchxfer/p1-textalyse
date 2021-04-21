@@ -7,6 +7,8 @@
   transform: translate(-50%, -50%);
   text-align: center;
   color: white;
+  background-color: #38363577;
+  border-radius: 10px;
 } 
  .titelhelp{
 margin-top: -20px;
@@ -43,10 +45,14 @@ margin-top: -20px;
   }
 
   .button-hilfe {
-    color: white;
-    background-color: #383635;
-    border: none;
-    height: 30px;
-    margin-top: 10px;
-    text-decoration: underline;
+  margin: 20px auto;
+  background-color: #383635;
+  border: none;
+  padding: 10px 20px 10px 20px;
+  border-radius: 10px;
+  width: 200px;
+  font-family: sans-serif;
+  font-size: 12px;
+  color: white;
+  cursor: pointer;
   }

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>10</uid>
+   <externalId>10</externalId>
+   <documentDate>2020-01-22T04:07:00Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Spiegel]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Coronavirus]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[China spricht von 440 infizierten Patienten - und neun Toten]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[wissenschaft]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.spiegel.de/wissenschaft/mensch/coronavirus-china-spricht-nun-von-440-faellen-und-neun-toten-a-c2a2fd3c-841f-415c-95ca-7150b07c2687]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Neue Details zum Coronavirus: Laut Chinas Regierung sind mindestens neun Menschen an den Folgen gestorben. Zudem warnen die Behörden, das Virus könne mutieren und sich weiter ausbreiten.]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[In China sind der neuen Lungenkrankheit drei weitere Menschen zum Opfer gefallen. Insgesamt sind nun neun Todesfälle nachgewiesen worden, wie die chinesische Regierung berichtete. Die Zahl der bekannten Infektionen stieg demnach im Vergleich zum Vortag um über hundert auf nun insgesamt 440 Fälle an. Betroffen seien Menschen in 13 Provinzen.
+Der für Gesundheitspolitik zuständige Vizeminister Li Bin warnte, das neuartige Coronavirus könne mutieren und sich weiter ausbreiten. Rund um den chinesischen Neujahrstag am kommenden Samstag werden einige Hundert Millionen Chinesen unterwegs sein.
+Dass ein Coronavirus mutiere, sei normal, sagte der deutsche Virusforscher Christian Drosten dem SPIEGEL. "Wenn ein Virus von Mensch zu Mensch übertragen wird, kommt es zu sogenannten Anpassungsmutationen." Das bedeute allerdings nicht, dass die Erkrankung automatisch gefährlicher wird. Es könne sogar genau das Gegenteil heißen: "Manchmal beobachten wir bei Viren im Rahmen der Anpassung sogar eine Abschwächung der Pathogenese."
+Derzeit befalle das Virus die Lunge und verursache schwere Pneumonien. Wenn das Virus sich so verändere, dass es eher in den oberen Atemwegen, etwa der Nase, vorkomme, würde es zwar leichter übertragen - "dann haben wir aber in der Regel auch einen milderen Krankheitsverlauf", so Drosten.
+Der Gesundheitsausschuss der chinesischen Regierung kündigte verstärkte Vorsorgemaßnahmen während des dichten Reiseverkehrs an, darunter zusätzliche Desinfizierungen von Flughäfen und Bahnhöfen sowie in Einkaufszentren. Falls notwendig könnten in Zonen mit dichtem Andrang auch Temperaturmessungen bei Menschen vorgenommen werden. Diese sind jedoch nur bedingt nützlich, da Menschen in der Inkubationszeit noch keine Symptome haben.
+Erster Fall in den USA nachgewiesen
+Die meisten Infizierten leben in der zentralchinesischen Millionenmetropole Wuhan. Die Behörden rieten den Bewohnern, die Stadt nach Möglichkeit nicht zu verlassen. Einzelne Infektionsfälle wurden auch aus Thailand, Japan, Südkorea und Taiwan gemeldet. Zudem gab die US-Gesundheitsbehörde CDC am Dienstag den ersten Fall einer Infektion mit dem neuartigen Virus in den Vereinigten Staaten bekannt.
+Die EU-Kommission hatte zuvor betont, dass sie gegen eine mögliche Ausbreitung des Virus nach Europa gewappnet sei. Die Brüsseler Behörde sei darauf vorbereitet, rasch "potenzielle Gegenmaßnahmen zu unterstützen und zu koordinieren, sollte dies erforderlich sein", sagte Gesundheitskommissarin Stella Kyriakides der Zeitung "Die Welt". Zusammen mit dem Europäischen Zentrum für die Prävention und Kontrolle von Krankheiten beobachte die Kommission die Ausbreitung des Erregers sehr genau.
+Die Weltgesundheitsorganisation WHO befasst sich am Mittwoch in einer Krisensitzung mit dem Virus. Nach einer Risikobewertung will sie darüber entscheiden, ob sie angesichts der sprunghaft gestiegenen Fallzahlen einen internationalen Gesundheitsnotstand ausruft.
+Reiseagenturen: Nordkorea schließt Grenzen für Touristen
+Zum Schutz gegen die in China ausgebrochene Lungenkrankheit schließt das benachbarte Nordkorea nach Angaben von Reiseagenturen vorerst seine Grenzen für ausländische Touristen. Nordkorea lasse von Mittwoch an keine Touristen mehr einreisen, teilten die in China ansässigen Agenturen Young Pioneer Tours und Koryo Tours auf ihren Internetseiten mit. Von Nordkorea gab es zunächst keine offizielle Bestätigung.
+Es handle sich um eine Vorsichtsmaßnahme gegen das Coronavirus, hieß es bei Young Pioneer Tours. Die Agentur beschreibt sich als Anbieter günstiger Reisen nach Nordkorea - einem der isoliertesten Länder der Welt.
+Nordkorea hatte in der Vergangenheit schon einige Male aus Furcht vor der Einschleppung von Viruskrankheiten vorübergehend seine Grenzen geschlossen, darunter im Fall des Sars-Virus 2003 oder wegen Ebola im Jahr 2014.]]></value>
+        </field>
+   </fields>
+</doc:document>

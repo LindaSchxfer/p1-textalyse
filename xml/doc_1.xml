@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>1</uid>
+   <externalId>1</externalId>
+   <documentDate>2020-01-11T12:29:00Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Spiegel]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Virus in China]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[Erster Todesfall nach Ausbruch von mysteriöser Lungenkrankheit]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[wissenschaft]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.spiegel.de/wissenschaft/medizin/lungenkrankheit-in-china-61-jaehriger-stirbt-an-unbekanntem-virus-a-5ae93cb2-da1a-4c33-a0fa-bcac4cc4600a]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Dutzende Menschen sind in China an einem neuartigen Coronavirus erkrankt, sieben befinden sich in einem kritischen Zustand. Ein 61-jähriger Krebspatient ist jetzt an der Infektion gestorben.]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[Erstmals ist ein Patient an der mysteriösen neuen Lungenkrankheit gestorben, die in China ausgebrochen ist. Wie die Gesundheitskommission der zentralchinesischen Metropole Wuhan am Samstag ferner berichtete, sind sieben Patienten in einem kritischen Zustand. Insgesamt sei bei 41 Erkrankten das neuartige Coronavirus festgestellt worden, das als Auslöser gilt. Zwei Patienten seien bereits aus dem Krankenhaus entlassen worden. Seit einer Woche seien keine neue Infektionen mehr entdeckt worden.
+Nach offiziell unbestätigten Medienberichten in Hongkong soll es sich bei dem gestorbenen Patienten um einen 61-jährigen Mann handeln, der auch an Krebs und einer chronischen Lebererkrankung gelitten habe. Er sei am Donnerstagabend gestorben. Der Mann habe wie die meisten anderen Patienten zu den Besuchern des Marktes gehört, der als Ursprungsort der Krankheit gilt. Auf dem Huanan-Markt, der seit 1. Januar geschlossen ist, wurden neben Fischen auch Wildtiere verkauft.
+Ansteckung unter Menschen bislang nicht bekannt 
+"Es sind keine klaren Erkenntnisse für eine Übertragung von Mensch zu Mensch gefunden worden", teilte die Gesundheitskommission von Wuhan mit. Unter den mehr als 700 Personen, darunter mehr als 400 medizinische Mitarbeiter, die Kontakt zu den Patienten gehabt hätten, seien keine Infektionen festgestellt worden.
+Chinesische Experten haben als Erreger einen neuen Typ aus der Gruppe der Coronaviren ausgemacht, wie die Weltgesundheitsorganisation am Donnerstag mitgeteilt hatte. Solche Viren verursachen oft harmlose Erkältungen, allerdings gehören auch Erreger gefährlicher Atemwegskrankheiten wie Sars und Mers dazu. Verschiedene Erreger kommen bei Menschen und in der Tierwelt vor.
+Ein Überspringen der hochvariablen Viren zwischen Tierarten oder vom Tier auf den Menschen ist nicht ungewöhnlich. Doch gibt jedes neue Virus Anlass zur Besorgnis. Bei Sars (Schweres akutes respiratorisches Syndrom) etwa hatte der Erreger, der normalerweise bei Tieren vorkam, den Sprung auf den Menschen geschafft und konnte in der Folge von Mensch zu Mensch übertragen werden. Im Jahr 2003 kam es daher zu einer schnellen, weltweiten Ausbreitung der Viren mit etwa tausend Todesopfern.
+Fieberkontrolle bei der Einreise
+Zu Beginn der großen Reisewelle vor dem chinesischen Neujahrsfest am 25. Januar verwies die Gesundheitskommission darauf, dass sich in dieser Zeit infektiöse Krankheiten leicht verbreiten. Die Menschen sollten immer gut lüften, überfüllte Orte vermeiden und wenn nötig Mundschutz tragen. Wer unter Fieber oder Atemwegserkrankungen leide, solle umgehend zum Arzt gehen, hieß es weiter.
+Andere asiatische Staaten haben Vorsichtsmaßnahmen bei der Einreise besonders von Reisenden aus Wuhan verstärkt und Fieberkontrollen eingeführt, um eine befürchtete Ausbreitung zu vermeiden. In Südkorea, Singapur und Hongkong gibt es bereits Verdachtsfälle. Die US-Botschaft in Peking gab eine Warnung für Reisende nach Wuhan aus.
+Der Zustand der Patienten sowie die Ausbreitung der Krankheit sei gegenwärtig "kontrollierbar", sagte Wang Guangfa, Mitglied des nationalen Expertenteams in Wuhan, nach Angaben der amtlichen Nachrichtenagentur Xinhua. Der Anteil der schweren Fälle sei auch vergleichbar mit gewöhnlichen Fällen von Lungenentzündungen.]]></value>
+        </field>
+   </fields>
+</doc:document>

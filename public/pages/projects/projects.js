@@ -41,27 +41,6 @@ function loadData() {
   xhttp.send();
 }
 
-function generateElement(el, i) {
-  let color = "lightgray";
-  if (i % 2 == 0) {
-    color = "";
-  }
-  return `<div class="projects-table-row ${color}"><h1>${el.vortitel}</h1></div>`;
-}
-
-function initializeData() {
-  var xhttp = new XMLHttpRequest();
-  xhttp.onreadystatechange = function () {
-    if (this.readyState == 4 && this.status == 200) {
-      document.getElementById("project-list").innerHTML = "";
-      //document.getElementById("demo").innerHTML += this.responseText;
-      data = JSON.parse(this.responseText);
-    }
-  };
-
-  xhttp.open("GET", "xml", true);
-}
-
 function showData() {
   document.getElementById("project-list").innerHTML = "";
 
@@ -76,4 +55,12 @@ function showData() {
       i
     );
   });
+}
+
+function generateElement(el, i) {
+  let color = "lightgray";
+  if (i % 2 == 0) {
+    color = "";
+  }
+  return `<div class="projects-table-row ${color}"><p>${el.vortitel}</p><p></p><p></p><p></p></div>`;
 }

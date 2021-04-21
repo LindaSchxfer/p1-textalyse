@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>4</uid>
+   <externalId>4</externalId>
+   <documentDate>2020-01-19T13:22:00Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Spiegel]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Neuartiges Coronavirus]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[Chinesische Behörden halten Ausbruch für kontrollierbar]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[wissenschaft]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.spiegel.de/wissenschaft/medizin/chinesische-behoerden-halten-ausbruch-fuer-kontrollierbar-a-0b5d371b-e681-4596-83af-21dd6b6d944e]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Während in China die Reisezeit beginnt, gehen Experten davon aus, dass sich das neuartige Coronavirus deutlich stärker verbreitet hat als bisher angenommen. Die Behörden reagieren gelassen.]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[Die rätselhafte Lungenkrankheit in China hat sich möglicherweise stärker ausgebreitet als bisher bekannt. Das britische Zentrum für die Analyse globaler Infektionskrankheiten am Imperial College London schätzt die Zahl der Infizierten auf mehr als 1700. Auch warnen die Experten vor einer möglichen Übertragung von Mensch zu Mensch.
+Die zentralchinesische Metropole Wuhan berichtete am Sonntag, dass bei 17 weiteren Lungenkranken das neue Coronavirus entdeckt worden sei. Die Zahl der in China bestätigten Fälle steigt damit auf 62. Zwei Patienten sind bisher gestorben.
+"Es ist wahrscheinlich, dass der Ausbruch des neuen Coronavirus in Wuhan bedeutend mehr Fälle mit mittleren oder schweren Erkrankungen der Atemwege verursacht hat als bisher berichtet", heißt es in der Studie der Experten vom Imperial College London, das auch die Weltgesundheitsorganisation (WHO) und die britische Regierung berät. Die Schätzung von mehr als 1700 Infektionen geht auf ein Rechenmodell zurück, in dem die Fachleute die drei im Ausland festgestellten Infektionen mit der Zahl der Flugreisenden, der Größe der Bevölkerung und der Inkubationszeit zugrunde gelegt haben. Studienautor Neil Ferguson sagte der BBC: "Ich bin deutlich besorgter als noch vor einer Woche."
+Die Nachricht kommt zu einem schlechten Zeitpunkt: In China hat die Reisewelle zum chinesischen Neujahrsfest am kommenden Samstag bereits begonnen. In dieser Zeit sind einige Hundert Millionen Chinesen unterwegs, was die Gefahr einer Übertragung infektiöser Krankheiten erhöht.
+Begrenzte Übertragung von Mensch zu Mensch könnte vorkommen
+Unter Hinweis auf die Erfahrungen mit ähnlichen Coronaviren wie Sars oder Mers warnen die Experten aus London, "dass eine sich selbst erhaltene Übertragung von Mensch zu Mensch nicht ausgeschlossen werden sollte". Die WHO hat bisher keine Reisewarnung für Touristen ausgesprochen. Die US-Gesundheitsbehörde (CDC) riet Reisenden nach Wuhan, Tiermärkte und den Kontakt mit Tieren oder den Kontakt mit kranken Personen zu meiden. "Eine begrenzte Übertragung von Mensch zu Mensch könnte vorkommen", hieß es in der Mitteilung.
+Die Behörden in Wuhan kündigten an, Großveranstaltungen stärker zu beobachten und öffentliche Veranstaltungen zu reduzieren, wird der stellvertretende Bürgermeister Chen Yanxin von Staatsmedien zitiert. Die nationale chinesische Gesundheitsbehörde sagte am Samstag, der Ausbruch sei kontrollierbar. Man werde den Ausbruch und mögliche Mutationen des Virus genau überwachen, so die Behörde.
+Asiatische Nachbarstaaten haben vorsorglich Fieberkontrollen bei Einreisenden aus China eingeführt. Auch die US-Flughäfen in New York, San Francisco und Los Angeles haben Gesundheitskontrollen für Reisende aus Wuhan eingerichtet.
+Nach dem Ausbruch der neuen Lungenkrankheit wurden bereits Verdachtsfälle aus Hongkong, Taiwan, Südkorea, Singapur, Vietnam und Nepal berichtet. Mindestens drei mögliche Krankheitsfälle gibt es auch in den chinesischen Städten Shenzhen und Shanghai, wie die Hongkonger Zeitung "South China Morning Post" berichtete.
+Das neue Virus stammt aus derselben großen Familie von Coronaviren, die oft harmlose Erkältungen verursachen, zu denen jedoch auch das Sars-Virus zählt. Am Schweren Akuten Atemwegssyndrom (Sars) starben während eines Ausbruchs 2002/2003 weltweit fast 800 Menschen. Der Ausbruch begann in China. Damals war der Ausbruch anfangs vertuscht worden, was eine schnelle Reaktion verhindert und die Verbreitung zunächst begünstigt hatte. Es wird vermutet, dass das neuartige Virus aus der Tierwelt kommt.
+Testverfahren in Deutschland entwickelt
+Die 17 neuen Infektionen in Wuhan seien bei der Untersuchung von weiteren Patienten festgestellt worden, die in verschiedenen Krankenhäusern der Stadt mit Lungenleiden unbekannter Ursache behandelt worden seien, berichtete das Gesundheitsamt. Drei von ihnen seien ernsthaft erkrankt. Die anderen seien stabil. Somit steigt die Gesamtzahl der Patienten im kritischen Zustand auf acht.
+Das Alter der neu identifizierten Patienten reiche von 30 bis 79 Jahren, hieß es. Wie die anderen Erkrankten seien sie auch in Quarantäne gekommen. Die Behörden verfolgten jetzt, welche Personen mit ihnen engen Kontakt gehabt hätten. Von den 62 bestätigten Patienten seien bisher 19 als geheilt entlassen worden.
+Das Deutsche Zentrum für Infektionsforschung (DZIF) an der Berliner Charité berichtete, dass es ein Nachweisverfahren für das neuartige Coronavirus entwickelt habe. "Ich gehe davon aus, dass die breite Verfügbarkeit des Diagnostiktests nun in kurzer Zeit helfen wird, Verdachtsfälle zweifelsfrei aufzuklären und zu bestimmen, ob eine Mensch-zu-Mensch-Übertragung des neuen Virus möglich ist", sagte Christian Drosten vom DZIF. "Damit ist ein wichtiger Schritt zur Bekämpfung des neuen Virus getan."]]></value>
+        </field>
+   </fields>
+</doc:document>

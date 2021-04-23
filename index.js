@@ -24,10 +24,10 @@ app.get("/projects", (req, res) => {
   res.send(fs.readFileSync("public/pages/projects/projects.html"));
 });
 
-app.get("/user", (req, res) => {
+app.get("/annotation", (req, res) => {
   const fs = require("fs");
 
-  res.send(fs.readFileSync("public/pages/user/user.html"));
+  res.send(fs.readFileSync("public/pages/annotation/annotation.html"));
 });
 
 app.get("/help", (req, res) => {

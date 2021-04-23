@@ -40,7 +40,7 @@ function loadProjects() {
   xhttp.send();
 }
 
-function loadUser() {
+function loadAnnotation() {
   var xhttp = new XMLHttpRequest();
   xhttp.onreadystatechange = function () {
     if (this.readyState == 4 && this.status == 200) {
@@ -48,7 +48,7 @@ function loadUser() {
     }
   };
 
-  xhttp.open("GET", "user", true);
+  xhttp.open("GET", "annotation", true);
   xhttp.send();
 }
 

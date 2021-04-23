@@ -4,57 +4,56 @@
 <!-- Filter-->
 <div class="projects-wrapper">
     <div class="projects-box">
-        <div class="filterText"></div>
      <h2>Filter</h2> 
       <form>
-          <label for="suchbegriff">Suchbegriff:
-              <input id="filter" name="suchbegriff" value="0">
-          </label>
-              <hr>
-          <p>Kategorie:</p>
-          <label for="k1">Kategorie 1</label>
-          <input type="checkbox" id="k1" name="k1"> </br>
-          <label for="k2">Kategorie 2</label> 
-          <input type="checkbox" id="k2" name="k2"> </br>
-          <label for="k3">Kategorie 3</label> 
-          <input type="checkbox" id="k3" name="k3"> </br>
-          <label for="k4">Kategorie 4</label> 
-          <input type="checkbox" id="k4" name="k4"> </br>
-        </br>
-        <p>Groß-/ Kleinschreibung ignorieren</p>
-        </br>
-        <label for="ja">Ja</label>
-        <input type="radio" ide="ja" name="ja" value="0">
-        <label for="nein">Nein</label>
-        <input type="radio" ide="nein" name="nein" value="0">
-        </br>
-    </br>
-        <p>Länge:</p>
-        <label for="option1">1 - 500 Wörter</label>
-        <input type="radio" ide="option1" name="option1" value="0"> </br>
-        <label for="option2">501 - 1.500 Wörter</label>
-        <input type="radio" ide="option2" name="option2" value="1"> </br>
-        <label for="option3">1.501 - 2.500 Wörter</label>
-        <input type="radio" ide="option3" name="option3" value="2"> </br>
-        <label for="option4"> >2.500 Wörter</label>
-        <input type="radio" ide="option4" name="option4" value="3"> </br>
-        </br>
-        <label for="schlagworte">Schlagworte (mit ; trennen):
-            <input id="schlagworte" name="schlagworte">
-        </label>
-        </br>
-    </br>
-        <p>Quelle:</p>
-        <label for="quelle1">Quelle 1</label>
-        <input type="radio" ide="quelle1" name="quelle1" value="0"> </br>
-        <label for="quelle2">Quelle 2</label>
-        <input type="radio" ide="quelle2" name="quelle2" value="1"> </br>
-        <label for="quelle3">Quelle 3</label>
-        <input type="radio" ide="quelle3" name="quelle3" value="2"> </br>
-        <label for="quelle4">Quelle 4 </label>
-        <input type="radio" ide="quelle4" name="quelle4" value="3"> </br>
-    </br>
-</br>
+            <hr>
+            <label for="suchbegriff">Suchbegriff:
+                <input id="suchbegriff" name="suchbegriff" value="0">
+            </label></br>
+
+            <input type="radio" id="radio1" name="radio" checked value="0">
+            <label for="radio1">Vortitel</label></br>
+
+            <input type="radio" id="radio2" name="radio" value="1">
+            <label for="radio2">Titel</label> </br>
+
+            <input type="radio" id="radio3" name="radio" value="2">
+            <label for="radio3">Abstract</label></br>
+
+            <input type="radio" id="radio4" name="radio" value="3">
+            <label for="radio4">Text</label></br>
+
+            <hr>
+
+          <h3>Kategorie:</h3>
+          <label for="date">Datum: </label>
+          <input type="date" id="date" name="input"> </br>
+
+          <label for="publisher">Verlag: </label> 
+          <input type="filter" id="publisher" name="input"> </br>
+
+          <label for= "autor">AutorIn: </label> 
+          <input type="filter" id="autor" name="input"> </br>
+
+          <label for="rubrik">Rubrik: </label> 
+          <input type="filter" id="rubrik" name="input"> </br>
+
+          <hr>
+
+        <h3>Länge:</h3>
+        <input type="radio" id="length1" name="lengthradio" value="0" checked>
+        <label for="option1">1 - 500 Wörter</label></br>
+
+        <input type="radio" id="length2" name="lengthradio" value="1"> 
+        <label for="option2">501 - 1.500 Wörter</label></br>
+
+        <input type="radio" id="length3" name="lengthradio" value="2"> 
+        <label for="option3">1.501 - 2.500 Wörter</label></br>
+
+        <input type="radio" id="length4" name="lengthradio" value="3"> 
+        <label for="option4"> >2.500 Wörter</label></br>
+
+<!--
     <p>Sprache:</p>
     <label for="sprache1">Deutsch</label>
     <input type="radio" ide="sprache1" name="sprache1" value="0"> </br>
@@ -64,12 +63,9 @@
     <input type="radio" ide="sprache3" name="sprache3" value="2"> </br>
     <label for="sprache4">Italienisch</label>
     <input type="radio" ide="sprache4" name="sprache4" value="3"> </br>
-</br>
-<label for="autor">AutorIn
-    <input id="autor" name="autor">
-</label>
-</br>
+</br> -->
 <hr>
+<div class="filterbuttons">
 <div class= "usefilter">
     <button><p>Filter anwenden</p></button>
     </div>
@@ -77,13 +73,17 @@
 <div class= "undofilter">
     <button><p>Filter zurücksetzen</p></button>
     </div>
+        </div>
       </form>
     </div>
     <div id="projects-list-wrapper">
         <div class="project-head"> 
             <!-- Button Datei hochladen-->
-                <div class= "upload" onclick="loadCSV()">
+                <div class= "upload" onclick="loadData()">
                     <p>Lade Dateien</p>
+                </div>
+                <div class= "upload" onclick="showData()">
+                    <p>Filter Dateien</p>
                 </div>
         </div>
         <div id="project-table">
@@ -94,8 +94,6 @@
                 <h3>Erstellungsdatum</h3>
             </div>
             <div id="project-list"></div>
-
-        
         </div>
 
     </div>

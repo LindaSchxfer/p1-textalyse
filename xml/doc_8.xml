@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>8</uid>
+   <externalId>8</externalId>
+   <documentDate>2020-01-21T12:41:00Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Spiegel]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[China]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[Was Reisende zum Coronavirus wissen müssen]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[panorama]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.spiegel.de/panorama/was-reisende-zum-coronavirus-wissen-muessen-a-cbaabdf9-4043-4067-9849-40d8510ff840]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Von der ostchinesischen Millionenstadt Wuhan aus scheint sich ein neuartiges Virus auszubreiten. Was müssen China-Reisende jetzt beachten? Und wie reagieren Flughäfen in Deutschland auf Passagiere, die aus Asien ankommen?]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[Fast 300 Menschen in China haben sich bisher mit einem neuartigen Coronavirus angesteckt, vier sind bisher gestorben. So die offiziellen Behördenangaben in der Volksrepublik. Einzelne weitere Infektionen mit der Lungenkrankheit wurden aus Thailand, Japan und Südkorea gemeldet.
+Das Londoner Zentrum für die Analyse globaler Viruserkrankungen schätzt die tatsächliche Zahl der Infizierten allerdings deutlich höher und ging am Freitag von mehr als 1700 Infizierten aus. Seinen Ursprung hat die Infektion wahrscheinlich auf einem Fisch- und Geflügelmarkt in Wuhan, einer Stadt mit elf Millionen Einwohnern in der ostchinesischen Provinz Hubei.
+Was sollten Reisende nach China beachten?
+Das Auswärtige Amt empfiehlt Reisenden in Wuhan in seinen Reise- und Sicherheitshinweisen zu China:
+·         "Vermeiden Sie den Kontakt mit kranken Menschen und Tieren,
+·         meiden Sie Märkte mit Tierprodukten und
+·         achten Sie gesteigert auf eine adäquate Handhygiene.
+·         Stellen Sie sich umgehend bei einem Arzt vor, falls Sie Fieber und Anzeichen einer Atemwegsinfektion entwickeln."
+Das Risiko für deutsche Reisende in Wuhan werde aber als moderat eingeschätzt. Das Auswärtige Amt überprüfe und aktualisiere diese Hinweise fortlaufend, sagte ein Sprecher der Behörde dem SPIEGEL. Bisher seien die Ursache und die Übertragungswege der Infektion nicht abschließend geklärt. Laut dem Amt gibt bislang aber keine Hinweise darauf, dass sich das Virus leicht von Mensch zu Mensch überträgt.
+Was gilt für Reisende aus China?
+Bisher werden am Frankfurter Flughafen keine besonderen Maßnahmen hinsichtlich des Coronavirus getroffen. Der Betreiber Fraport richte sich nach Anweisungen des Gesundheitsamts der Stadt, sagte eine Sprecherin des Unternehmens dem SPIEGEL. Und bisher hätten weder die Weltgesundheitsorganisation (WHO) noch das Auswärtige Amt noch das Robert Koch-Institut Reisebeschränkungen erlassen. Grundsätzlich sei man aber auf das Auftreten von Infektionskrankheiten vorbereitet.
+Anders als etwa von Paris, Rom, Hongkong oder den USA bestehe von Deutschland nach Wuhan keine direkte Flugverbindung, sagt ein Fraport-Sprecher. An Flughäfen in den USA und vielen asiatischen Länder würden Reisende aus Wuhan bereits durch ein sogenanntes Entry-Screening auf Symptome wie Fieber untersucht. In Wuhan selber müssten Passagiere ein Exit-Screening passieren.
+Gibt es eine Gefahr durch Reisende für Deutschland?
+Nach Ansicht der Bundesregierung gibt es derzeit durch das Coronavirus keine akute Gefahr für Deutschland. Nach derzeitigem Wissensstand bestehe ein Risiko vor allem für Regionen, die "viel Reiseverkehr" mit Wuhan hätten, sagte ein Sprecher des Auswärtigen Amts. Das Bundesgesundheitsministerium verwies auf die Einschätzung des Robert Koch-Instituts, wonach das Risiko für Deutschland "sehr gering" ist. Der Ausbruch der Krankheit sei aber "Grund für besondere Beobachtungen und Analysen".
+Die WHO hat für Mittwoch einen Notfallausschuss einberufen. Die Experten sollten darüber beraten, ob eine internationale Gesundheitsnotlage ausgerufen werden solle, teilte die Organisation mit. In China kommt das Auftreten der neuen Lungenkrankheit zu einem denkbar schlechten Zeitpunkt: In den kommenden Tagen werden sich Hunderte Millionen Menschen zum traditionellen Neujahrsfest auf Reisen begeben. Es wird befürchtet, dass sich der Erreger dann noch weiter verbreiten könnte.]]></value>
+        </field>
+   </fields>
+</doc:document>

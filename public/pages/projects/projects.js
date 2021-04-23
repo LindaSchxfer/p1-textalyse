@@ -44,7 +44,7 @@ function loadData() {
 function showData() {
   document.getElementById("project-list").innerHTML = "";
 
-  let filter = document.getElementById("filter");
+  let filter = document.getElementById("suchbegriff");
   let word = filter.value;
   console.log(word);
   let copyOfData = data.filter((el) => el.vortitel.includes(word));

@@ -45,9 +45,9 @@ function showData() {
   document.getElementById("project-list").innerHTML = "";
 
   let filter = document.getElementById("suchbegriff");
-  let word = filter.value;
+  let word = filter.value.toLowerCase();
   console.log(word);
-  let copyOfData = data.filter((el) => el.vortitel.includes(word));
+  let copyOfData = data.filter((el) => el.vortitel.toLowerCase().includes(word));
 
   copyOfData.forEach(function (element, i) {
     document.getElementById("project-list").innerHTML += generateElement(

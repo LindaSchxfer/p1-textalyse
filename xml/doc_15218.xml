@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15218</uid>
+   <externalId>15218</externalId>
+   <documentDate>2020-11-16T08:00:00Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Länder, Infektionen, Todesfälle]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[Die Verbreitung des Coronavirus]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[ausland]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/ausland/coronavirus-karte-101.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Wie entwickelt sich die weltweite Ausbreitung des Coronavirus? Welche Länder sind betroffen? Wo gibt es die meisten Infizierten und Todesfälle?]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Wie entwickelt sich die weltweite Ausbreitung des Coronavirus? Welche Länder sind betroffen? Wo gibt es die meisten Infizierten und Todesfälle? tagesschau.de gibt einen aktuellen, interaktiven Überblick.
+ Wie viele bestätigte Infektionen mit dem neuartigen Coronavirus gibt es aktuell und wie haben sich diese Zahlen seit Januar entwickelt? Wie viele Patienten sind genesen und wie viele an den Folgen der Coronavirus-Infektion gestorben? Mehrmals täglich werden die Karten mit Daten aktualisiert, die die Johns Hopkins University weltweit sammelt.
+ Hinweise zu den Karten: Jeder Klick auf einen Staat liefert Zahlen zu den dortigen Infektionsfällen. Bei den Zahlen für Deutschland ergeben sich durch die unterschiedlichen Quellen und Aktualisierungszeitpunkte Abweichungen zwischen den Angaben der Johns Hopkins University und des Robert Koch-Instituts. Erläuterungen dazu finden Sie hier.
+ Deutschland Karte: Aktuelle Coronavirus-Zahlen in Deutschland je Bundesland
+ Pandemie-Verlauf: Entwicklung der Covid-19-Zahlen der vergangenen Monate
+Wie viele Coronavirus-Infektionen wurden nachgewiesen?
+
+
+
+
+Wie viele Menschen sind nach einer Coronavirus-Infektion gestorben?
+
+
+Wie viele Patienten sind nach der Coronavirus-Infektion genesen?
+
+
+ Hinweis zur Zahl der Genesenen: Die Zahl der Genesenen wird nicht in allen Ländern durch örtliche Behörden veröffentlicht. Wenn keine verlässlichen Quellen für konkrete Zahlenangaben vorliegen, verzichtet die Johns-Hopkins-University nach eigener Darstellung auf die Ausspielung der Zahl der Genesenen für das betreffende Land bzw. gibt sie im Datensatz für die einzelnen Tage oder im Gesamstand mit Null an. Im Ergebnis zeigt sich das entsprechend auch in der Kartendarstellung, die auf diesem Datensatz beruht. Konkrete Beispiele hierfür sind derzeit unter anderem Schweden und Großbritannien. Ergänzend ist zu berücksichtigen, dass die Zahl der Genesenen in vielen Ländern zumindest teilweise auf Schätzungen der Behörden basiert.
+Wie viele Menschen sind aktuell infiziert?
+
+
+ Hinweis zur Zahl der aktuell Infizierten: Die Besonderheiten für die Zahl der Genesenen (siehe Hinweis oben) beeinflussen unmittelbar die Zahl der aktuell Infizierten. Denn diese Zahl wird so berechnet: Aktuell Infizierte=Bestätigte Infektionen minus Todesfälle minus Genesene. Entsprechend ergibt sich rechnerisch ein sehr hoher Wert für die aktuell Infizierten, wenn keine verlässlichen Daten zu genesenen Patienten vorliegen. Derzeit gilt dies unter anderem für Schweden und Großbritannien.
+ Anmerkung der Redaktion: Sollten in seltenen Ausnahmefällen zeitweise unzutreffende Daten für einzelne Länder angezeigt werden, so ist das in der Regel das Ergebnis von Fehlern im Datensatz der Johns Hopkins University. Da dieser Datensatz laufend aktualisiert wird, werden solche Fehler in den meisten Fällen zeitnah entdeckt und behoben.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ihre Meinung - meta.tagesschau.de
+
+
+
+
+36 Kommentare zur Meldung. Kommentierung der Meldung beendet.
+
+
+Alle Kommentare zur Meldung anzeigen.
+
+
+
+Geo-Schlagwörter der Meldung:   Belgien  Europa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15193</uid>
+   <externalId>15193</externalId>
+   <documentDate>2020-11-12T11:31:51Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[RKI zur Corona-Lage]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[Keine Trendwende, aber etwas Hoffnung]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[inland]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/inland/coronavirus-pandemie-zahlen-105.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Es ist ein sehr vorsichtiger Optimismus, den RKI-Chef Wieler verbreitet: Die Kurve der Neuinfektionen flacht langsam ab. Doch die Situation bleibe nach wie vor ernst. Sorge bereitet ihm, wie auch Minister Spahn, die Situation in Kliniken.]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Es ist ein sehr vorsichtiger Optimismus, den RKI-Chef Wieler verbreitet: Die Kurve der Neuinfektionen flacht langsam ab. Doch die Situation bleibe nach wie vor ernst. Sorge bereitet ihm, wie auch Minister Spahn, die Situation in Kliniken.
+ Der Anstieg der Neuinfektionen verlangsamt sich etwas, dennoch will das Robert Koch-Institut noch von keiner Trendwende sprechen. Es stimme ihn zwar vorsichtig optimistisch, dass die Zahlen zuletzt nicht mehr so stark gestiegen seien, sagte RKI-Chef Lothar Wieler. "Wir wissen aber noch nicht, ob das eine stabile Entwicklung ist." Die Lage sei nach wie vor ernst. Immer noch nehme das Infektionsgeschehen praktisch in ganz Deutschland zu. Die rund 22.000 Infizierten, die zuletzt innerhalb von 24 Stunden bundesweit gemeldet wurden, könnten weitere Menschen anstecken.
+ Wieler zufolge ist unklar, inwieweit das Abflachen der Kurve mit den neuen Einschränkungen wie Restaurant-Schließungen zusammenhängt. Möglich sei auch, dass die Testkapazitäten der Labore an ihre Grenzen gestoßen seien. Andererseits sei zuletzt auch die Ansteckungsrate leicht zurückgegangen. Klar sei aber, dass die Zahlen der Intensivpatienten und der Toten zunächst weiter steigen. "Wir müssen damit rechnen, dass Kliniken an ihre Kapazitätsgrenzen stoßen."
+
+ Um die Effekte des Teil-Lockdowns beurteilen zu können, müsse man noch abwarten, so Wieler. Wie schnell das Infektionsgeschehen abgebremst werden könne, hänge vom Verhalten der Menschen ab. Im Winter sei es schwieriger, weil man mehr Zeit in geschlossenen Räumen verbringe - das bedeutet bessere Bedingungen für Ansteckungen.
+Erneut 20.000er-Marke überschritten
+ Die Zahl der Corona-Neuinfektionen hatte zuletzt bei 21.866 gelegen. Das sind rund 3400 mehr als am Vortag, als knapp 18.500 Fälle gemeldet worden waren. Zuletzt lagen die Zahlen vier Tage in Folge unter der Marke von 20.000 Neuinfektionen.
+ Insgesamt wurden seit dem Beginn der Pandemie in Deutschland laut den jüngsten Zahlen des RKI 727.553 Infektionsfälle registriert. Die Gesundheitsämter übermittelten zudem 215 neue Todesfälle, die mit dem Coronavirus im Zusammenhang stehen. Die Gesamtzahl der Todesfälle stieg damit auf 11.982.
+ Das sogenannte Sieben-Tage-R lag laut RKI-Lagebericht vom Mittwochabend bei 0,89 (Vortag: 0,92). Das heißt, dass 100 Infizierte rechnerisch etwa 89 weitere Menschen anstecken. Der Wert bildet jeweils das Infektionsgeschehen vor acht bis 16 Tagen ab. Liegt er für längere Zeit unter eins, flaut das Infektionsgeschehen ab.
+
+Viele Intensivpatienten
+ Gesundheitsminister Jens Spahn hatte sich angesichts der anhaltend hohen Zahlen der Neuinfektionen besorgt geäußert. Er befürchtet, dass sich die Zahl der Corona-Patienten auf Intensivstationen noch in diesem Monat verdoppeln wird. Wenn es über einen längeren Zeitraum täglich 20.000 Neu-Infizierte gebe und davon zwei Prozent jeweils zwei Wochen lang auf Intensivstationen behandelt werden müssten, werde ihre Zahl im November wahrscheinlich auf mehr als 6000 gleichzeitig steigen, sagte Spahn der "Frankfurter Allgemeinen Zeitung". "Höher dürfen die Zahlen nicht steigen", betonte er. "Falls doch, würden wir absehbar an einen Punkt kommen, an dem das Gesundheitssystem überfordert ist."
+ Mit 6000 Corona-Patienten auf Intensivstationen könnten Ärzte und Pflegekräfte umgehen, sagte der Minister: "Aber nur unter sehr großem Stress. Deshalb müssen wir alle Kräfte in den Krankenhäusern zusammenziehen." Es müssten wieder Operationen verschoben werden, Personal aus dem OP-Saal müsse auf den Intensivstationen mithelfen.
+
+Personalengpässe in Krankenhäusern
+ Dabei melden laut dem RKI immer mehr Kliniken in Deutschland Engpässe. Häufigster Grund sei das Personal, sagte RKI-Chef Wieler. Er bezog sich auf Daten aus dem DIVI-Intensivregister - einem Gemeinschaftsprojekt des RKI und der Deutschen Interdisziplinären Vereinigung für Intensiv- und Notfallmedizin (DIVI). Es komme zunehmend zu akuten Einschränkungen des Betriebs aufgrund von Personalmangel.
+ Wieler führte aus, durch die hohen Corona-Fallzahlen im Land gebe es auch mehr Ansteckungen und Fälle von Quarantäne bei Klinikbeschäftigten. Es gelte zu verhindern, dass sich die Situation weiter zuspitze. Ziel sei nach wie vor, die Zahl der Neuinfektionen wieder auf ein Level zu bringen, mit dem auch die Krankenhäuser umgehen können. Es gelte, so wenige Infektionen wie möglich zuzulassen.
+
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15157</uid>
+   <externalId>15157</externalId>
+   <documentDate>2020-11-06T17:56:26Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Nerze in Dänemark]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[Wie gefährlich ist das mutierte Coronavirus?]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[ausland]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/ausland/daenemark-coronavirus-mutiert-nerze-101.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Dänemark geht drastisch gegen eine Corona-Variante vor, die zuerst bei Nerzen aufgetreten ist. Millionen Pelztiere werden getötet. Wie gefährlich ist der mutierte Erreger?]]></value>
+        </field>
+        <field name="author">
+              <value><![CDATA[Christina Sartori für tagesschau.de]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Dänemark geht drastisch gegen eine Corona-Variante vor, die zuerst bei Nerzen aufgetreten ist. Millionen Pelztiere werden getötet. Wie gefährlich ist der mutierte Erreger?
+Von Christina Sartori für tagesschau.de
+ Die dänische Regierung hat bekanntgegeben, dass alle Zuchtnerze getötet werden müssen. Mehrere Kommunen befinden sich in einem Lockdown, außerdem werden Bewohner dieser Kommunen aufgefordert, sich auf Sars-CoV-2 testen zu lassen.
+ Dänemark ist der größte Nerzfell-Exporteur der Welt. Die drastischen Maßnahmen sind nach Angaben der dänischen Regierung notwendig, weil die Gesundheitsbehörden bei 200 Menschen, die sich bei Nerzen angesteckt haben, eine mutierte Form des Coronavirus nachgewiesen haben.
+
+Ausbreitung einer gefährlichen Mutation befürchtet
+ Die Mutation bewirke möglicherweise, dass das Virus weniger empfindlich auf menschliche Antikörper reagiere - und damit ein zukünftiger Impfstoff weniger wirksam sei, sagte Premierministerin Mette Frederiksen. Würden sich diese mutierten Viren weiter unter Menschen ausbreiten, könne das verheerende Folgen für die Pandemie weltweit haben. Man habe die Weltgesundheitsorganisation WHO informiert.
+ Bisher gaben die dänischen Gesundheitsbehörden keine genaueren Informationen zu der Mutation bekannt. Daher ist es derzeit für Wissenschaftler nicht möglich einzuschätzen, wie gefährlich diese neue Mutation tatsächlich ist.
+Nicht jede genetische Mutation ist gefährlich
+ Fest steht: Viren mutieren immer wieder, aber nicht jede genetische Mutation macht ein Virus gefährlicher. Manchmal verändern sich zwar Gene, aber an den Eigenschaften des Virus ändert sich nichts.
+ Außerdem verteidigt sich der menschliche Körper nicht nur mit Antikörpern gegen das Coronavirus, sondern er produziert auch bestimmte Zellen, die das Virus unschädlich machen. Selbst wenn also durch einen zukünftigen Impfstoff Antikörper gebildet würden, die nicht besonders gut gegen ein mutiertes Coronavirus wirkten, könnte die Impfung immer noch die Reaktion bestimmter Immunzellen anregen, um vor einem schweren Verlauf von Covid-19 zu schützen.
+
+Vom Mensch zum Nerz und zurück
+ Trotzdem will die WHO die Situation genauer untersuchen. Auch in den Niederlanden und in Spanien hatte man im Sommer infizierte Zuchtnerze getötet.
+ Denn wenn ein Virus sich in einer großen Tierpopulation - wie auf den Nerzfarmen in Dänemark - ausbreitet, steigt das Risiko, dass irgendwann eine Virusveränderung auftritt, die tatsächlich das Virus gefährlicher macht: ein Virus, das sich leichter verbreiten kann, noch häufiger schwer krank macht oder sogar tödlich ist.
+ Springt ein Virus dazu noch zwischen Mensch und Tier hin und her wie es in Dänemark und auch in zwei Fällen in den Niederlanden geschehen ist, dann erhöht sich das Risiko weiter. Wissenschaftler weltweit warten nun auf genauere Informationen der dänischen Gesundheitsbehörden zu dem veränderten Virus, um die Situation besser einschätzen zu können.
+
+
+
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

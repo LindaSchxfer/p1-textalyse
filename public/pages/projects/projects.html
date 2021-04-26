@@ -5,7 +5,6 @@
 <div class="projects-wrapper">
     <div class="projects-box">
      <h2>Filter</h2> 
-      <form>
             <hr>
             <label for="suchbegriff">Suchbegriff:
                 <input id="suchbegriff" name="suchbegriff" value="0">
@@ -67,31 +66,28 @@
 <hr>
 <div class="filterbuttons">
 <div class= "usefilter">
-    <button><p>Filter anwenden</p></button>
+    <button onclick="showData()"><p>Filter anwenden</p></button>
     </div>
 </br>
 <div class= "undofilter">
     <button><p>Filter zurücksetzen</p></button>
     </div>
         </div>
-      </form>
+    
     </div>
     <div id="projects-list-wrapper">
         <div class="project-head"> 
-            <!-- Button Datei hochladen-->
-                <div class= "upload" onclick="loadData()">
-                    <p>Lade Dateien</p>
-                </div>
+            <!-- Button Datei hochladen
                 <div class= "upload" onclick="showData()">
                     <p>Filter Dateien</p>
-                </div>
+                </div>-->
         </div>
         <div id="project-table">
             <div class="projects-table-head">
-                <h3>Dateiname</h3>
-                <h3>Wortanzahl</h3>
-                <h3>Sprache</h3>
-                <h3>Erstellungsdatum</h3>
+                <h3>Vortitel</h3>
+                <h3>Titel</h3>
+                <h3>Rubrik</h3>
+                <h3>Publisher</h3>
             </div>
             <div id="project-list"></div>
         </div>

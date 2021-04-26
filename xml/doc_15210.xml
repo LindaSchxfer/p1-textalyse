@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15210</uid>
+   <externalId>15210</externalId>
+   <documentDate>2020-11-15T17:40:22Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Steigende Infektionszahlen]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[Wie kommen Schulen durch den Corona-Winter?]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[inland]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/inland/corona-schulen-113.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Flächendeckende Schulschließungen sollen vermieden werden, doch angesichts steigender Corona- und Quarantäne-Fälle mehren sich Rufe nach schärferen Auflagen. Wie können Schulen durch den Corona-Winter kommen? Ein Überblick.]]></value>
+        </field>
+        <field name="author">
+              <value><![CDATA[Birgit Virnich, WDR]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Flächendeckende Schulschließungen sollen vermieden werden, doch angesichts steigender Corona- und Quarantäne-Fälle mehren sich Rufe nach schärferen Auflagen. Wie können Schulen durch den Corona-Winter kommen? Ein Überblick.
+Von Birgit Virnich, WDR
+Wie ist die Situation?
+ Das Coronavirus macht auch vor Schulen und Kindergärten nicht Halt. Dennoch wollen Bund und Länder die Schulen und Kitas so lange wie möglich offen halten - anders als während des Frühjahr-Lockdowns. Sie setzten damit klare Prioritäten zugunsten von Bildung. In der Regel findet Unterricht daher weiterhin in Präsenzform statt - unter Beachtung strenger Hygieneregeln. Doch die Zweifel, ob die getroffenen Maßnahmen für die Schulen ausreichen, werden lauter: SPD-Experte Karl Lauterbach sprach sich dafür aus, die Schulen auf jeden Fall offen zu halten. "Aber die Art und Weise, wie die Schulen jetzt betrieben werden, ist nicht sicher genug", betonte er.
+
+ In Deutschland gibt es etwa elf Millionen Schülerinnen und Schüler und rund 800.000 Lehrkräfte. Nach Angaben der Kultusministerkonferenz sind wegen Corona-Ausbrüchen derzeit 106 Schulen (0,37 Prozent) komplett und 4074 teilweise (14 Prozent) geschlossen. Knapp 200.000 Schülerinnen und Schüler befinden sich derzeit in Quarantäne. Das entspricht rund 1,8 Prozent aller Schüler. Mit dem Coronavirus infiziert haben sich bislang demnach 18.298 (0,17 Prozent). Von den Lehrkräften haben sich 3798 infiziert (0,42 Prozent), von Quarantäne-Maßnahmen sind aktuell 13.101 (1,46 Prozent) betroffen.
+ Wann wer in Quarantäne muss, ist unübersichtlich. Die Bestimmungen der Gesundheitsbehörden in verschiedenen Bundesländern und Landkreisen sind sehr unterschiedlich. Wird in einem Landkreis die ganze Klasse in Quarantäne gesetzt, sind es in dem anderen nur die direkten Banknachbarn - wenn überhaupt. Auch daran entzündet sich Kritik.
+
+Wie können die Schulen durch den Corona-Winter kommen?
+ Flächendeckende Schulschließungen sollen vermieden werden - darüber herrscht weitgehend Einigkeit. Unterschiedliche Ideen dafür liegen auf dem Tisch.
+ Das Lüften in den Schulen gilt als eine der wichtigsten Maßnahmen zur Eindämmung von Corona. "Nichts ersetzt das Lüften der Klassenräume", betont die Virologin Melanie Brinkmann vom Helmholtz Zentrum für Infektionsforschung. In manchen Schulen bleiben die Fenster sogar während des gesamten Unterrichts geöffnet. Die Schüler sind angehalten, sich in den Pausen, auch bei Regen auf den Schulhöfen aufzuhalten. Schüler sollen deshalb in den Wintermonaten immer warme Kleidung parat haben.
+ Mobile Luftfilteranlagen sind besonders in Klassenräumen nützlich, in denen nicht ausreichend stoß- und quergelüftet werden kann, um ansteckende Aerosole aus der Raumluft zu entfernen. Die mobilen Luftreinigungsgräte sorgten in jedem Fall dafür, dass die Konzentration an infektiösen Partikeln absinkt, so das Bundesumweltamt. Allerdings müssen die Anlagen entsprechend dimensioniert, richtig aufgestellt und gewartet werden. Je nach Gerät können sie pro Klassenzimmer zwischen 1000 und 3000 Euro kosten. Das Max-Planck Institut allerdings hat bereits eine Anleitung für eine einfache Anlage veröffentlicht, die 90 Prozent der Aerosole aus der Raumluft filtert.
+
+ Bayern erwägt, FFP2-Schutzmasken an alle Lehrkräfte zu verteilen. Das sollte auch in Niedersachsen geschehen, fordert etwa die Gewerkschaft Erziehung und Wissenschaft (GEW). Weitere Forderung: Plexiglaswände, damit im Unterricht auf Masken verzichtet werden könne.
+ Eine weitere Idee: die Nutzung außerschulischer Lernorte, wenn der Unterricht in den Klassen zu gefährlich wird, weil dort der Abstand nicht gewahrt werden kann. Bundeswirtschaftsminister Peter Altmaier schlug zum Beispiel Schulunterricht in geschlossenen Gaststätten und Hotels vor, um die Abstandsregeln besser einhalten zu können. "Ich würde es begrüßen, wenn der Unterricht deshalb auch zum Beispiel in Gemeindezentren, Kulturhäusern oder in den ungenutzten Räumen von Gaststätten und Hotels stattfinden würde", sagte der CDU-Politiker der "Bild am Sonntag". Auch Museen waren bereits im Gespräch.
+
+ Geteilte Klassen: Das Robert Koch-Institut empfiehlt, ab einem bestimmten Grenzwert Schulklassen zu teilen. Er könne nur an die Schulen appellieren, dass sie ihre Hygienekonzepte konsequent umsetzen, sagte RKI-Chef Lothar Wieler in der Pressekonferenz am 12. November. Es sei unmöglich, die Pandemie zu kontrollieren, wenn die Rolle der Kinder nicht berücksichtigt werde. "Wir wissen, dass Kinder ab der Pubertät genauso viel Virus ausscheiden können, wie Erwachsene."
+
+ Es sei unbedingt empfehlenswert, die Klassen zu teilen, sagt auch Virologin Brinkmann. Kleinere Gruppen ermöglichen den Kindern, die Abstände zu waren. So sei auch Sport möglich. "Wir sollten alles dafür tun, um einen Lockdown, wie im Frühjahr zu vermeiden", denn es sei klar geworden, dass der Präsenzunterricht vor allem für jüngere Schüler wichtig sei.
+ Nachdem ganze Klassen in Quarantäne müssen und viele Lehrer ausfallen, wollen immer mehr Schulen den Betrieb auf einen sogenannten Hybrid-Unterricht umstellen. Das ist eine Kombination aus Präsenz- und Fernunterricht. In diesem Setup nehmen einige Schüler im Klassenraum am Unterricht teil, während andere dem Unterricht von zu Hause folgen, oder eigenständig Stoff durcharbeiten, den sie im Chat mit dem Lehrer besprechen. Auch die Bildungsgewerkschaft GEW fordert den Wechsel zwischen Präsenzunterricht und Homeschooling ab einem Sieben-Tage-Inzidenzwert von 50 Neuinfektionen pro 100.000 Einwohnern. Wechselunterricht sei eine Möglichkeit, vollständige Schulschließungen zu verhindern, so GEW-Chefin Marlies Tepe. 
+ Einige Schulen haben dafür ihre Digital-Plattformen ausgebaut, so dass Schüler zu Hause eigenständig arbeiten können. So soll die Zahl der Schüler, die im Klassenzimmer sind, reduziert werden.
+ Die Kultusministerkonferenz betont hingegen immer wieder die Bedeutung des Präsenzunterrichts. Beim Lockdown im Frühjahr sei deutlich geworden, welche Nachteile fehlender Präsenzunterricht habe, erinnerte die Vorsitzende, Stefanie Hubig. "Viele Schülerinnen und Schüler haben tatsächlich Schwierigkeiten gehabt, weiter zu folgen." Die SPD-Politikerin schloss einen Wechselunterricht, also eine Kombination von Präsenz- und Onlineunterricht, zwar nicht generell aus. Dieser sei aber immer nur "die zweitbeste Wahl".
+Welche konkreten Vorschläge gibt es vor den Bund-Länder-Beratungen?
+ Für eine allgemeine Maskenpflicht im Unterricht an allen Schulen plädiert Bundesbildungsministerin Anja Karliczek. In der aktuellen Phase hoher Infektionszahlen hält sie das für "zumutbar", auch an den Grundschulen, sagte die CDU-Politikerin. Ähnlich äußerte sich Bayerns Ministerpräsident Markus Söder. Man brauche nun "einheitliche Corona-Regeln" - zum Beispiel eine Maskenpflicht für alle Schulen in Deutschland, sagte er der "Süddeutschen Zeitung". Auch Gesundheitsminister Jens Spahn Spahn zeigte sich offen für eine Ausweitung der Maskenpflicht. "Die Alternative ist in vielen Regionen, die Schulen zu schließen - und ich bin sehr sicher, wenn die Wahl ist Maske tragen oder keine Schule, dann lieber Maske tragen", sagte Spahn.
+
+ Nordrhein-Westfalen will die Weihnachtsferien vorziehen. Dort endet der Präsenzunterricht am 18. Dezember 2020 - zwei Tage früher als eigentlich geplant. Der frühere Ferienbeginn würde den Familien genügend Zeit geben, sich selbst zu isolieren, um gefahrlos an Weihnachten Verwandte besuchen zu können, so das Argument. Auch in Baden-Württemberg könnten die Weihnachtsferien früher beginnen. Andere Länder halten wenig von der Idee. Zwischen dem letzten Schultag und Heiligabend lägen dann lediglich fünf Tage - weniger als die Inkubationszeit von SARS-CoV-2 nach den aktuellen Erkenntnissen, so der Einwand aus Niedersachsen. "Die Botschaft von Scheinsicherheit zu senden, das können wir so nicht verantworten", sagte eine Ministeriumssprecher. Weiteres Gegenargument: Eltern, die arbeiten müssen, stünden vor einem Betreuungsproblem. Hinzu kommt: In neun Ländern fangen die Ferien ohnehin bereits am 21. Dezember an.
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

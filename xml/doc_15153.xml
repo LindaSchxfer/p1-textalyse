@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15153</uid>
+   <externalId>15153</externalId>
+   <documentDate>2020-11-06T10:03:05Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Neuinfektionen in Deutschland]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[Erstmals mehr als 20.000 neue Corona-Fälle]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[inland]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/inland/rki-coronainfektionen-101.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Deutlich früher als erwartet hat Deutschland die Schwelle der 20.000 Neuinfektionen überschritten: Das Robert Koch-Institut meldete 21.506 neue Ansteckungsfälle. Der Inzidenzwert liegt in fast allen Kreisen über dem kritischen Wert von 50.]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Deutlich früher als erwartet hat Deutschland die Schwelle der 20.000 Neuinfektionen überschritten: Das Robert Koch-Institut meldete 21.506 neue Ansteckungsfälle. Der Inzidenzwert liegt in fast allen Kreisen über dem kritischen Wert von 50.
+ Das Robert Koch-Institut (RKI) hat erstmals mehr als 20.000 neue Corona-Infektionen binnen eines Tages in Deutschland gemeldet. Wie das RKI mitteilte, verzeichneten die Gesundheitsämter für den Vortag 21.506 neue Infektionen. Am Donnerstag lag der Wert noch knapp unter der Marke von 20.000. Kanzlerin Angela Merkel hatte Ende September davor gewarnt, dass Deutschland etwa zu Weihnachten an die 20.000-Marke stoßen könnte.
+ 166 Menschen starben im Zusammenhang mit einer Covid-19-Erkrankung. Damit erhöhte sich die Zahl der Todesfälle in Deutschland auf 11.096. Die Reproduktionszahl, kurz R-Wert, lag in Deutschland laut RKI-Lagebericht vom Donnerstagabend bei 0,79 (Vortag: 0,81).
+
+ Seit Beginn der Pandemie wurden 619.089 Infektionen nachgewiesen. Laut RKI-Bericht werden 2653 Menschen intensivmedizinisch behandelt. In nahezu allen Kreisen liegt die sogenannte Inzidenz, also die Zahl der Fälle pro 100.000 Einwohner binnen einer Woche, inzwischen bei mehr als 50. Der Wert gilt als kritische Grenze für die Möglichkeit der Nachverfolgung von Kontakten Infizierter.
+Spahn: "Situation wie in Frankreich vermeiden"
+ Bundesgesundheitsminister Spahn forderte erneut eine "nationale Kraftanstrengung". Ziel der Anstrengungen von Bund und Ländern sei, eine Corona-Situation wie in Frankreich zu vermeiden, sagt Spahn im Bundestag. Dennoch habe auch Deutschland eine "bittere Medizin" schlucken müssen, es gebe erhebliche Einschränkungen. Aber weitere Verdoppelungen der Infektionszahlen würden das Gesundheitssystem auch hierzulande überfordern. "Es braucht eine nationale Kraftanstrengung."
+
+ Der Bundestag debattiert heute über eine Reform des Infektionsschutzgesetzes. SPD und Union zielen auf eine Überarbeitung des Gesetzes, um vor allem Grundrechtseinschränkungen besser abzusichern. Schon Mitte November könnte eine entsprechende Entscheidung fallen.
+ Richter hatten angezweifelt, dass das Infektionsschutzgesetz in seiner aktuellen Form die weitreichenden Eingriffe in Grundrechte bei der Bekämpfung der Corona-Pandemie rechtfertigt. Auch Rufe nach einer stärkeren Beteiligung des Bundestags und der Länderparlamente an den Beschlüssen zur Bekämpfung der Pandemie hatten zuletzt zugenommen.
+
+
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

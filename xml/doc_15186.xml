@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15186</uid>
+   <externalId>15186</externalId>
+   <documentDate>2020-11-11T09:32:40Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Coronavirus]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[Schleichender Lockdown an Schulen?]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[inland]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/inland/corona-schulen-109.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Die Kultusminister betonen immer wieder, Schulen seien sicher. Doch angesichts von Hunderttausenden Quarantänefällen wachsen der Widerspruch und die Sorge vor einem schleichenden Lockdown.]]></value>
+        </field>
+        <field name="author">
+              <value><![CDATA[Patrick Gensing, tagesschau.de]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Die Kultusminister betonen immer wieder, Schulen seien sicher. Doch angesichts von Hunderttausenden Quarantänefällen wachsen der Widerspruch und die Sorge vor einem schleichenden Lockdown.
+Von Patrick Gensing, tagesschau.de
+ An der Ida-Ehre-Schule in Hamburg gab es Ende vergangener Woche einen freiwilligen Massentest. Grund waren vermehrt festgestellte Corona-Infektionen. Nach und nach wurden die Ergebnisse der insgesamt 1200 Tests bekannt. Derzeitiger Stand: Es gibt mehr als 50 Infektionen bei Schülerinnen und Schülern bzw. Lehrerinnen und Lehrern.
+ Hamburgs Senat sprach von einem überwiegend "multiplen Eintragungsgeschehen", die Schulbehörde räumte ein, es gebe auch Infektionen in der Schule. Doch selbst wenn die meisten Infektionen tatsächlich von außen kommen, stellt sich die Frage, ob die Ergebnisse dieser Massentestung überhaupt korrekt sein können - oder ob es ein enormes Dunkelfeld in der Stadt gibt. In Hamburg liegt die Sieben-Tage-Inzidenz bei rund 160 Fällen, das Ergebnis der Ida-Ehre-Schule ergibt hochgerechnet eine Inzidenz von rund 5000 Fällen auf 100.000 Einwohner. Konsequenz: Die Schule bleibt vorerst geschlossen, stellt auf digitalen Unterricht um.
+
+Weitere Schulen geschlossen
+ Die Ida-Ehre-Schule ist kein Einzelfall. Auch beispielsweise im hessischen Emsbachtal in Brechen findet aufgrund von Coronafällen kein Unterricht mehr statt. An der Clemens-Brentano-Europaschule (CBES) in Lollar wird ebenfalls der Präsenzunterricht für alle Jahrgänge bis einschließlich 20. November ausgesetzt. Hintergrund sei "das unklare Infektionsgeschehen an der Schule", teilte der Landkreis Gießen mit. Bei massenhaften freiwilligen Tests von Schülerinnen und Schülern stieg die Zahl der bestätigten Corona-Fälle an der Schule laut Medienberichten auf 28. In weiteren Bundesländern mussten bereits zahlreiche Schulen ganz oder teilweise schließen. Und immer mehr stellen den Betrieb auf einen sogenannten Hybrid-Unterricht um.
+ Damit wird die Entscheidung der Kultusminister, die Schulen "so lange wie möglich" im kompletten Präsenzunterricht offen zu halten, zunehmend infrage gestellt. Das Robert Koch-Institut hatte bereits ab einer Sieben-Tage-Inzidenz von 50 Infektionen auf 100.000 Einwohner eine generelle Maskenpflicht und geteilte Klassen an den Schulen empfohlen, doch dies setzten die Bundesländer nicht flächendeckend oder gar nicht um.
+
+Konflikt in NRW
+ Mittlerweile liegt die Inzidenz um ein Vielfaches über diesen Grenzwert - und geschätzt 300.000 Schülerinnen und Schüler befinden sich in Quarantäne. In NRW wollten Schulen angesichts der Entwicklung Klassen teilen und zeitlich versetzt unterrichten, um komplette Schulschließungen zu vermeiden. Dies untersagte das Schulministerium hingegen. Ein Schulleiter aus Solingen widersetzte sich dem und widersprach dem Ministerium öffentlich. Heute beschäftigt sich der Landtag mit der Angelegenheit.
+
+ Der SPD-Gesundheitsexperte Karl Lauterbach sagte tagesschau.de, man wisse angesichts der enorm gestiegenen Infektionszahlen "schlicht zu wenig darüber, wo sich Menschen anstecken. Deswegen kann man auch nicht pauschal sagen, die Schulen seien sicher", so Lauterbach. Damit stellt er offen die Aussage der Kultusminister infrage.
+ Die SPD-Vorsitzende Saskia Esken sprach sich im ARD-Morgenmagazin dafür aus, in Schulen nur noch in kleineren Gruppen im Wechsel im Präsenz- und im Fernunterricht zu unterrichten - zumindest in der Oberstufe. Die Kultusminister sollten solche Modelle flächendeckend einsetzen. Auch die Gewerkschaft Erziehung und Wissenschaft (GEW) fordert Wechselunterricht. Das ginge bei entsprechender Vorbereitung auch schon ab der vierten oder fünften Klasse.
+ Auch in der Schülerschaft regt sich zunehmend Widerstand. Schülerinnen und Schüler aus Rheinland-Pfalz beispielsweise fordern abwechselnd Online- und Präsenzunterricht - wegen der hohen Corona-Zahlen fühlen sie sich an den Schulen nicht mehr sicher. In Frankreich protestieren Schülerinnen und Schüler sowie Lehrkräfte bereits seit Tagen, um bessere Sicherheitskonzepte durchzusetzen. Denn durch die Schulpflicht sind sie gezwungen, an dem Unterricht teilzunehmen.
+
+Umweltbundesamt rät auch zu Abstand
+ Die Kultusminister berufen sich bei ihrem Kurs, die Schulen im Präsenzunterricht fortzuführen, auf ein Lüftungskonzept und entsprechende Empfehlungen des Bundesumweltamts. Doch ein Experte des Bundesumweltamts merkt in einer Stellungnahme an, dass Lüften alleine nicht ausreiche. Nötig seien auch Masken und Abstandsregeln. Doch genau dieser Abstand kann nicht eingehalten werden, wenn die Klassen nicht geteilt werden.
+ Zudem berufen sich die Kultusminister auf Untersuchungen, nach denen es kaum Infektionsgeschehen an Schulen gebe. Doch Experten weisen darauf hin, dass diese Ergebnisse nicht auf die derzeitige Situation übertragen werden könnte. Der Virologe Christian Drosten sagte im NDR-Podcast, viele Studien zur Rolle der Schulen stammten aus der Zeit des ersten Shutdowns, als - anders als jetzt - auch die Schulen und Kitas geschlossen waren. Wohl auch deshalb habe sich in der Gesellschaft lange die Vermutung gehalten, dass Kinder weniger betroffen seien.
+
+ Drosten verwies auf Antikörper-Studien zu Schulen, die aufzeigen, dass es viele unentdeckte Infektionen bei Kindern gegeben habe. Er schließt daraus: "Der Eindruck erhärtet sich, dass die Schuljahrgänge genauso zum Verbreitungsgeschehen beitragen wie andere Altersgruppen in der Bevölkerung." Drosten sagte: Diesem Virus sei es egal, wen es befällt.
+ *Offenlegung aus Transparenzgründen: Der Autor hat schulpflichtige Kinder, von denen eins derzeit in Quarantäne ist.
+
+
+
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

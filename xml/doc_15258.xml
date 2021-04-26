@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15258</uid>
+   <externalId>15258</externalId>
+   <documentDate>2020-11-20T17:13:23Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Schule in Corona-Zeiten]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[Warum Wechselunterricht umstritten ist]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[inland]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/inland/corona-krise-schulen-diskussion-105.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Wie können Schulen einigermaßen sicher durch den Corona-Winter kommen? Ein Vorschlag: halbierte Klassen, also Wechselunterricht. Das Modell klingt gut in der Theorie - in der Praxis hat es Schwächen.]]></value>
+        </field>
+        <field name="author">
+              <value><![CDATA[Corinna Emundts, tagesschau.de]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Wie können Schulen einigermaßen sicher durch den Corona-Winter kommen? Ein Vorschlag: halbierte Klassen, also Wechselunterricht. Das Modell klingt gut in der Theorie - in der Praxis hat es Schwächen.
+Von Corinna Emundts, tagesschau.de
+ Wenn sich die Ministerpräsidentinnen und Ministerpräsidenten am Mittwoch wieder mit Kanzlerin Angela Merkel zusammenschalten, dürfte es vor allem um ein großes Thema gehen: Schulen. Wie umgehen mit den steigenden Infektionszahlen auch unter Schülerinnen, Schülern und Lehrkräften?
+ Die Schulen sollen so lange wie möglich offen bleiben - das war die politische Entscheidung von Bund und Ländern zu Beginn der November-Beschränkungen. Doch angesichts des Infektionsgeschehens plädierte das Kanzleramt zuletzt für verschärfte Maßnahmen - etwa das Halbieren von Klassen und eine Maskenpflicht für alle Schüler im Unterricht. Merkel konnte sich bei den Beratungen mit den Ländern Anfang vergangener Woche nicht durchsetzen - man vertagte sich auf den 25. November.
+
+Kultusminister halten an Präsenzunterricht fest
+ Im Kanzleramt blickt man mit Sorge auf die steigenden Infektionszahlen an Schulen. Der Bund kann in die Schulpolitik der Länder nicht eingreifen - Bildung ist Ländersache. Offenbar erhöhte das Kanzleramt in den vergangenen Wochen aber den Druck auf die Kultusminister, entsprechend zu handeln.
+ Die Kultusministerkonferenz (KMK) hält bislang am Präsenzunterricht fest. Vor den erneuten Bund-Länder-Gesprächen bekräftigte sie nach Informationen von tagesschau.de erneut diese Position. Bildung habe absolute Priorität. Schulschließungen könnten nur das allerletzte Mittel bei nicht mehr beherrschbaren Pandemie-Zahlen sein, Wechselunterricht das vorletzte Mittel. Nicht aber in der derzeitigen Situation, in der auch das Robert Koch-Institut das Infektionsgeschehen an den Schulen weiterhin für beherrschbar hält, sofern die empfohlenen Vorschriften von den Schulen eingehalten werden. Das wollen die Landesminister den Ministerpräsidenten in die Verhandlungen mit Merkel am nächsten Mittwoch mitgeben.
+
+"Wir müssen da hart bleiben"
+ Lehrerverband und Bildungsgewerkschaft GEW sehen das anders. Sie fordern unter anderem Wechselunterricht - und zwar ab einem  Sieben-Tage-Inzidenz-Wert von 50. Diesen Grenzwert hält die schleswig-holsteinische Bildungsministerin Karin Prien für viel zu niedrig angesetzt: Bei älteren Schülern und Berufsschülern sei man sich einig, in Hotspots jenseits eines Inzidenzwertes von 200 zu reagieren - und dann möglichst nur auf einzelne Schulen bezogen.
+ "Ich verstehe, dass Eltern und Lehrkräfte in solchen Situationen ängstlich sind", sagt die CDU-Politikerin im Gespräch mit tagesschau.de. Für Schüler bis 14 Jahren gebe es aber keine Begründung, sie nach Hause zu schicken. Gerade Jüngere bräuchten ihre Beziehungen zu Lehrern und Mitschülern vor Ort, "deswegen müssen wir da so hart bleiben". Das soziale Lernen spiele eine große Rolle für die Persönlichkeitsentwicklung.
+ Zudem entstünde ein neues Betreuungsproblem mit dem Wechselunterricht: Eltern jüngerer Kinder, die zu Hause unterrichtet würden, könnten nicht arbeiten gehen und das würde "gesamtgesellschaftlich und wirtschaftlich eine Schieflage ergeben".
+In der Theorie klingt das Modell gut, aber ...
+ In der Theorie klingt es einfach, Unterricht in kleineren Gruppen zu geben, selbst in Zeiten von Lehrermangel. Man schickt eine Hälfte der Klasse wochenweise wechselnd nach Hause und blendet die abwesenden Schüler per Videokonferenz mit großer Leinwand ins Klassenzimmer ein, wo die Lehrkraft hör- und sichtbar für alle unterrichtet. Wer eine Frage hat, hebt die Hand, ob im Klassenzimmer oder zuhause am Bildschirm, Hausaufgabenkontrolle erfolgt vor Ort und per E-Mail.
+ Soweit die Theorie. In der Praxis spricht so ziemlich alles gegen das Modell des Wechselunterrichts. Auch wenn in den Monaten der Corona-Pandemie an vielen Schulen technisch aufgerüstet wurde -  es fehlt immer noch die verlässliche, flächendeckende Versorgung an Technik, Schulservern, Internetkapazität. Von den Privathaushalten, in denen die Schüler dann lernen müssten, ganz zu schweigen.
+
+Laptops verteilen reicht nicht
+ Zwar ist der "Digitalpakt Schule" der Bundesregierung angelaufen, aber von einer Digitalisierung der Schulen in Deutschland kann man deswegen in diesem Winter noch nicht sprechen. Digital- und Bildungsexperten bemängeln, diese Entwicklung habe das Land im internationalen Vergleich ein Jahrzehnt lang verschlafen. Das ließe sich aktuell nicht aufholen, sagt Bildungsexpertin Julia Knopf von der Universität des Saarlandes: "Wir sind mit unseren Entscheidungen viel zu langsam, als dass wir mit der Geschwindigkeit der Pandemie Schritt halten könnten."
+ Es reiche schließlich nicht, Laptops zu verteilen. Es brauche umgesetzte didaktische Konzepte und eine flächendeckende Weiterbildung der Lehrer. Das klingt immer noch Zukunftsmusik, aber aus Sicht von Knopf müsse jetzt mit digitaler Weiterbildung angefangen werden, damit die Schulen und Lehrer zum Frühsommer zum Beispiel mit digitalem Unterricht starten könnten. Die Konzepte dazu lägen schon lange auf dem Tisch, es fehle die Umsetzung seitens der Politik.
+"Über WhatsApp kann man keine Bindungen aufbauen"
+ Doch es gibt auch Schulen wie das Hans-Carossa-Gymnasium in Berlin. Hier könnten sie sofort die Klassen teilen und mit dem Wechselunterricht beginnen. Es fehlt nur die Anweisung der Behörden. "Die Belastungsgrenze der Lehrer ist erreicht, aber wir haben alles vorbereitet", sagt Schulleiter Henning Rußbült im Gespräch mit tagesschau.de.
+ Ein Anhänger des Wechselmodells ist er dennoch nicht. Schule sei nicht nur der Ort zur Vermittlung von Fachwissen. "Die soziale Komponente ist zu wichtig, dass die Schüler nicht allein zu Hause rumhängen", sagt Rußbült. Das sei für viele nicht gut gewesen im Frühjahr - die Schüler hätten das selbst gemerkt. "Über WhatsApp kann man keine Bindungen aufbauen."
+ Auch Kristina Reiss ist skeptisch bei Konzepten des Wechselunterrichts, obwohl sie als Professorin für Didaktik der Mathematik durchaus gute Erfahrungen mit digitalen Vorlesungen und Studierenden im Home Office macht. "Aber das sind motivierte Erwachsene", sagt Reiss, das könne man nicht mit Schulen vergleichen: "Kinder und Jugendliche muss man zum Teil zum Lernen erst einmal motivieren" - das sei schwierig beim Wechselunterricht.
+
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

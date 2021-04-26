@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15188</uid>
+   <externalId>15188</externalId>
+   <documentDate>2020-11-11T13:39:49Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Corona-Pandemie]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[Trendwende in Sicht?]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[faktenfinder]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/faktenfinder/corona-todesfaelle-101.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Gesundheitsminister Spahn sieht Anzeichen für eine positive Veränderung der Corona-Infektionslage. Tatsächlich schwächt sich das Wachstum bei den Neuinfektionen ab. Doch die Zahl der Toten steigt.]]></value>
+        </field>
+        <field name="author">
+              <value><![CDATA[Patrick Gensing, Redaktion ARD-faktenfinder]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Gesundheitsminister Spahn sieht Anzeichen für eine positive Veränderung der Corona-Infektionslage. Tatsächlich schwächt sich das Wachstum bei den Neuinfektionen ab. Doch die Zahl der Toten steigt.
+Von Patrick Gensing, Redaktion ARD-faktenfinder
+ Die Dynamik des Infektionsgeschehens habe sich in den vergangenen Tagen "deutlich reduziert" - das hat Bundesgesundheitsminister Jens Spahn bei RTL gesagt. Zwar steige es noch, "aber es steigt weniger stark". Das sei zwar ermutigend, "aber es reicht noch nicht", so Spahn. Noch sei es zu früh, von einer "Trendwende" zu sprechen.
+ Tatsächlich stieg die Zahl der Neuinfektionen nach Angaben des Robert Koch-Instituts (RKI) innerhalb eines Tages bundesweit auf 18.487. Das sind 3155 Fälle mehr als am Dienstag. Im Vergleich zum Mittwoch vergangener Woche (17.214) liegt der Wert etwas höher. Das Wachstum schwächt sich also im Vergleich zu den Vorwochen deutlich ab. Dies zeigt sich auch beim Reproduktionswert, der laut RKI mittlerweile bei unter Eins liegt.
+ 
+
+"Gutes Zeichen"
+ Ob das abgeschwächte Wachstum bereits ein Resultat der Einschränkungen des öffentlichen Lebens von Anfang November ist, ist bei Fachleuten umstritten. Der Virologe Christian Drosten sagte im NDR-Podcast, man könne derzeit nur spekulieren. Seit einer Woche zeichne sich ab, dass die Geschwindigkeit des Zuwachses abnehme. Das sei ein gutes Zeichen. Diese Veränderung könne beispielsweise mit einer Veränderung in der Mobilität zu tun haben, die durch Appelle der Politik Mitte Oktober ausgelöst wurden. Zahlen zur Mobilität legten diese Schlussfolgerung nahe, so Drosten. Er verwies in diesem Kontext auf die Ansprache von Kanzlerin Angela Merkel.
+
+ Denkbar sei aber auch, so Drosten, ein Zusammenhang mit den Herbstferien in vielen Bundesländern. Kinder und Familien seien in dieser Zeit möglicherweise mehr zu Hause geblieben. Doch dies alles seien noch Spekulationen. Möglich sei auch, dass die Überlastung bei der Veranlassung sowie Auswertung von Testungen sowie der Nachverfolgung von Infektionsquellen zu einer Abkopplung des tatsächlichen Geschehens von den erfassten Zahlen geführt habe.
+Geänderte Teststrategie
+ Eine SWR-Datenanalyse kommt zu einem ähnlichen Schluss: Da sich die Teststrategie geändert hat, werden seit vergangener Woche nicht mehr alle potentiell Infizierten getestet. Das bedeutet zum Beispiel, dass Hausärzte Patienten mit Husten oder anderen Atemwegserkrankungen nicht mehr auf Verdacht hin zum Coronavirus-Test schicken. Getestet wird nur noch, wer zum Beispiel einem medizinischen Beruf nachgeht oder direkten Kontakt zu einem Infizierten hatte.
+ Rechnet man Symptomlose und weitere Verdachtsfälle aus den vergangenen Wochen heraus, wären das dem SWR zufolge aktuell bundesweit schätzungsweise mehr als 2000 Fälle pro Tag weniger in der Statistik als bisher. Diese Positiv-Getesteten "verschwinden" wieder in der Dunkelziffer und werden künftig nicht mehr erfasst. Dadurch wäre es möglich, dass sich die Kurve zu einem gewissen Teil nur auf dem Papier senkt.
+
+Deutlich mehr Todesfälle
+ Weniger positiv ist indes die Entwicklung bei der Zahl der Todesfälle, die um 261 auf insgesamt 11.767 stieg. Das ist der höchste Wert seit Ende April. Gesundheitsminister Spahn betonte daher auch, dass man sich trotz des Hoffnungsschimmers bei den Neuinfektionen auf steigende Zahlen bei der Belegung der Intensivbetten und der Todesfälle einstellen müsse. Dieser Effekt folgt zeitverzögert dem starken Anstieg der Infektionszahlen, weil ein gewisser Prozentsatz der Infizierten ins Krankenhaus muss und einige von ihnen bei einem sehr schweren Krankheitsverlauf auch sterben.
+ Experten rechnen mit einer mehrwöchigen Verzögerung, das heißt vereinfacht gesagt, die jetzigen Todeszahlen resultieren vor allem aus den Neuinfektionen von vor einem Monat, als diese Zahl noch bei rund 4000 lag. Danach stiegen die Zahlen sprunghaft.
+Mehr Patienten auf Intensivstationen
+ Das RKI meldete am Dienstag zudem, die Zahl der intensivmedizinisch behandelten Covid-19-Fälle habe sich in den vergangenen zwei Wochen von 1470 Patienten auf 3059 mehr als verdoppelt. Allerdings schwächte sich das Wachstum bei der Neuaufnahme offenbar ab, schaut man auf die Zahlen aus dem DIVI-Intensivregister. Das Gleiche gilt ab dem 2. November auch für das Wachstum der Gesamtzahl von Covid-19-Patienten auf den Intensivstationen.
+
+ Das bedeutet, dass die Intensivstationen sich zwar weiterhin füllen, aber langsamer als befürchtet. Clemens Wendtner, Chefarzt der Infektiologie sowie Leiter der Spezialeinheit für hochansteckende lebensbedrohliche Infektionen an der München Klinik Schwabing meint, es sei insgesamt noch verfrüht, finale Schlüsse zu ziehen. Lediglich die Zuwachsrate an intensivpflichtigen Patienten im Tagesverlauf nehme ein wenig ab - aber absolut betrachtet gebe es weiterhin einen Anstieg der Patienten auf Intensivstationen. Auf dem Niveau der Normalstationen gebe es zudem "noch keine Trendwende, das heißt, dort steigen die Zahlen der zu versorgenden Patienten kontinuierlich an".
+Betten allein nützen nichts
+ Wendtner betonte, die Situation in Nachbarländern sollte eine Warnung sein: "Bei ihnen kam es auch zu Beginn nur zu einer langsamen Belegung der Intensivkapazitäten im Spätsommer, bevor das System hinsichtlich der Intensivbetten nunmehr im November überlastet erscheint." Experten weisen zudem immer wieder darauf hin, dass die Zahl der Betten allein wenig Aussagekraft habe, wenn entsprechendes Personal fehle.
+
+ Dr. Matthias Kochanek, Leiter der internistischen Intensivmedizin an der Uniklinik Köln, meint, mit dem Wirkstoff Dexamethason könnte sich die Zeit auf der Intensivstation etwas verkürzt haben. "Aber es ist sicher zu früh, aus den aktuellen Zahlen sichere Schlüsse zu ziehen", betonte er. Zudem glaube er, dass die Zahlen des DIVI-Registers um bis zu 20 Prozent daneben liegen könnten - zum Beispiel bei der Anzahl der freien Betten beziehungsweise Beatmungsbetten. "Schaut man sich die Krankenhäuser alleine hier in Köln an, so werden zum Beispiel zwei freie Intensivbetten gemeldet, aber fünf freie Beatmungsmöglichkeiten."
+Verschiedene Faktoren spielen eine Rolle
+ Einzelne Zahlen lassen also durchaus die Hoffnung zu, dass sich die Situation verbessert. Doch für eine fundierte Beurteilung ist es noch zu früh. Zudem spielen Fachleuten zufolge bei den Ursachen für solche Veränderungen verschiedene Faktoren eine Rolle. Und es besteht das Risiko, dass durch die veränderte Teststrategie die Statistiken ein kleineres Hellfeld beleuchten - und die Dunkelziffer steigt.
+
+ Anmerkung: In einer früheren Version des Artikels stand im zweiten Absatz, die Zahl der Neuinfektionen sei um 18.487 gestiegen. Richtig ist, dass sie auf 18.487 gestiegen ist. Wir bitten, den Fehler zu entschuldigen und haben ihn korrigiert.
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

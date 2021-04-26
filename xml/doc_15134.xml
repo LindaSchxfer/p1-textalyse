@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15134</uid>
+   <externalId>15134</externalId>
+   <documentDate>2020-11-02T13:03:49Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Corona-Infektionen]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[Warum hat China keine zweite Welle?]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[ausland]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/ausland/china-corona-137.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Während hierzulande erneut härtere Maßnahmen im Kampf gegen das Coronavirus ergriffen werden mussten, bleibt China bislang von einer zweiten Welle verschont. Das hat verschiedene Gründe.]]></value>
+        </field>
+        <field name="author">
+              <value><![CDATA[Ruth Kirchner, ARD-Studio Peking, zurzeit Berlin]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Während hierzulande erneut härtere Maßnahmen im Kampf gegen das Coronavirus ergriffen werden mussten, bleibt China bislang von einer zweiten Welle verschont. Das hat verschiedene Gründe.
+Von Ruth Kirchner, ARD-Studio Peking, zurzeit Berlin
+ Chinas offizielle Corona-Zahlen sind seit Wochen niedrig - keine Toten, die Zahl der Neuinfektionen zumeist im zweistelligen Bereich. Auf neue Ausbrüche, wie zuletzt in der nordwestchinesischen Region Xinjiang reagieren die Behörden schnell - mit Lockdowns und Massentests. Rund um die Stadt Kashgar etwa wurden innerhalb weniger Tage über vier Millionen Menschen auf Corona getestet.
+ Sofort testen, nicht erst warten, bis Menschen Symptome entwickeln, Infizierte und Erkrankte strikt isolieren: Damit hat China es bislang offenbar geschafft, eine zweite Corona-Welle zu verhindern. Zudem gelten weiter Einreisebeschränkungen mit strenger zweiwöchiger Quarantäne in eigens dafür vorgesehenen Hotels.
+
+Strenge Kontrollen
+ Im autoritär regierten China haben die Behörden Kontroll- und Durchgriffsmöglichkeiten, die in westlichen Demokratien undenkbar wären. Persönliche Freiheitsrechte oder Datenschutz spielen dabei keine Rolle - etwa bei der Nachverfolgung von Kontakten. So gehören Corona-Apps, die genaue Bewegungsprofile erstellen, zum Alltag. Beim Betreten von Restaurants, Cafés oder Geschäften einen QR-Code einscannen, um sich zu registrieren, auch das ist seit Corona normal. Allerdings gehen Städte und Provinzen teilweise sehr unterschiedlich vor - Peking beispielsweise ist strenger als Shanghai.
+ Und wenn es dann Infektionsherde gibt, werden örtliche Lockdowns streng kontrolliert wie auch Quarantäne-Anordnungen. Nach einem Corona-Ausbruch im Sommer auf einem Pekinger Großmarkt beispielsweise durften sämtliche Mitarbeiter die Stadt zunächst nicht mehr verlassen. Viele Beschränkungen in der Millionenmetropole wurden sofort wieder eingeführt. Die Grundschulen etwa, die gerade erst wieder schrittweise geöffnet hatten, blieben dann doch weiter zu.
+
+Testkapazitäten ausgeweitet
+ Hilfreich für die Kommunistische Partei: die so genannten Nachbarschaftskomitees der KP sind seit Jahrzehnten fest etabliert und Teil der engmaschigen sozialen Kontrolle.
+ Außerdem hat China die Corona-Testkapazitäten seit dem Frühjahr systematisch ausgeweitet. Pro eine Million Einwohner ist ein urbanes Testzentrum vorgesehen, das im Falle eines örtlichen Ausbruchs bis zu 30.000 Tests am Tag durchführen soll. Zu den Vorgaben gehört auch, dass eine Test-Kampagne innerhalb einer Woche abgeschlossen werden kann. In der ostchinesischen Hafenstadt Qingdao etwa wurden Anfang Oktober nach einem Corona-Ausbruch innerhalb weniger Tage elf Millionen Tests durchgeführt.
+Erfahrung mit SARS und Vogelgrippe
+ Solche Massentests sind verpflichtend und sollen auch zur Beruhigung der Bevölkerung beitragen.  Kritik wie zu Beginn der Pandemie soll gar nicht erst aufkeimen.
+ Dass China bislang gut durch den Herbst gekommen ist, hat aber auch noch einen anderen Grund: Nach SARS und Vogelgrippe wissen viele Menschen, wie wichtig es ist, sich zu schützen. Diskussionen über das Für und Wider von Masken sind in China unbekannt. Staatliche Schutzmaßnahmen werden in der Regel nicht infrage gestellt, das Vertrauen in die Regierung ist hoch. Gesundheit ist wichtiger als Freiheit oder Datenschutz, so die gängige Meinung. Gegen staatliche Maßnahmen vor Gericht zu klagen oder zu demonstrieren ist in der Volksrepublik eh nicht möglich.
+
+
+
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

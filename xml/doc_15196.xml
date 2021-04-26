@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15196</uid>
+   <externalId>15196</externalId>
+   <documentDate>2020-11-12T19:25:20Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Debatte über NRW-Vorstoß]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[Längere Weihnachtsferien gegen Corona?]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[inland]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/inland/verlaengerte-weihnachtsferien-debatte-101.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Zwei Tage früher Ferien, um Kontakte zu reduzieren und beruhigt mit der Familie Weihnachten feiern zu können, so der Plan von NRW-Ministerpräsident Laschet. Andere Bundesländer zweifeln - an Nutzen und Machbarkeit des Vorschlags.]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Zwei Tage früher Ferien, um Kontakte zu reduzieren und beruhigt mit der Familie Weihnachten feiern zu können, so der Plan von NRW-Ministerpräsident Laschet. Andere Bundesländer zweifeln - an Nutzen und Machbarkeit des Vorschlags.
+ Der Plan der nordrhein-westfälischen Landesregierung, die Weihnachtsferien zum Schutz vor dem Coronavirus um zwei Tage zu verlängern, stößt in anderen Bundesländern vorwiegend auf Ablehnung.
+ Zur Debatte steht, ob der Unterricht am 18. Dezember oder am 22. Dezember endet. In neun Ländern fangen die Ferien ohnehin bereits am 21. Dezember an.
+
+Zwei Tage länger Kontakte reduzieren
+ Am Dienstag hatte NRW-Ministerpräsident Armin Laschet (CDU) einen um zwei Tage früheren Beginn der Winterschulferien in NRW angekündigt, am Mittwoch gab NRW-Schulministerin Yvonne Gebauer (FDP) das Vorziehen bekannt.
+ Hintergrund der Überlegungen ist, dass die Menschen einige Tage vor Weihnachten ihre sozialen Kontakte möglichst beschränken sollten, damit es bei den Familienfeiern nicht zu Ansteckungen kommt.
+Verlängerung kürzer als Inkubationszeit
+ Kein Argument, findet die niedersächsische Landesregierung. Auch bei vorgezogenen Ferien lägen zwischen dem letzten Schultag und Heiligabend lediglich fünf Tage - weniger als die Inkubationszeit von SARS-CoV-2 nach den aktuellen Erkenntnissen.
+ "Die Botschaft von Scheinsicherheit zu senden, das können wir so nicht verantworten", sagte eine Sprecherin des Kultusministeriums. Sollte sich die Erkenntnislage ändern, schließe man die Maßnahme aber nicht aus.
+ Auch in Bremen seien verlängerte Weihnachtsferien derzeit kein Thema, teilte eine Sprecherin der Schulbehörde mit.
+
+Wie Betreuung gewährleisten?
+ Kritik kommt auch von der Lehrergewerkschaft GEW. NRW-Landesvorsitzende Maike Finnern begründete ihre Ablehnung der Maßnahme mit der unklaren Betreuungslage für die betroffenen Kinder: "Aus Sicht der Familien kann die Maßnahme nur dann sinnvoll sein, wenn die Betreuung der Kinder gesichert ist und wenn sie wirklich die Zeit als vorgezogene Quarantäne nutzen, um zum Weihnachtsfest möglichst infektionsfrei zu sein."
+ Nicola Stroop, Vorstand des Verbands alleinerziehender Mütter und Väter in NRW, nannte den Schritt "für Alleinerziehende eine Hiobsbotschaft".
+ Dem schloss sich Sachsens Kultusminister Christian Piwarz (CDU) an: "Wir haben dann ein veritables Betreuungsproblem."
+Spahn: "Pragmatischer Ansatz"
+ Bundesgesundheitsminister Jens Spahn (CDU) sagte dem rbb, Planbarkeit für Eltern, Kinder, Lehrer und Erzieher sei wichtig. Er sprach allerdings auch von "einem pragmatischen Ansatz, den man diskutieren, den man machen kann".
+ Bisher zeigt nur Baden-Württemberg Interesse an der Regelung aus NRW. Dort will man die Entscheidung über eine mögliche Verlängerung der Ferien aber in die Verantwortung der Schulen geben. Das Vorgehen müsse örtlich einheitlich geregelt werden, sagte Kultusministerin Susanne Eisenmann (CDU).
+
+
+
+
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

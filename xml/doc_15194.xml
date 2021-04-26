@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15194</uid>
+   <externalId>15194</externalId>
+   <documentDate>2020-11-12T17:13:13Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Bundesverfassungsgericht]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[Gastronomin scheitert mit Eilantrag]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[inland]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/inland/bundesverfassungsgericht-kino-101.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Das Bundesverfassungsgericht hat es abgelehnt, die Schließung von Restaurants aufzuheben. Der Eilantrag einer Restaurantbetreiberin blieb erfolglos. Der Gesundheitsschutz sei höher zu bewerten.]]></value>
+        </field>
+        <field name="author">
+              <value><![CDATA[Klaus Hempel, ARD-Rechtsredaktion]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Das Bundesverfassungsgericht hat es abgelehnt, die Schließung von Restaurants aufzuheben. Der Eilantrag einer Restaurantbetreiberin blieb erfolglos. Der Gesundheitsschutz sei höher zu bewerten. 
+Von Klaus Hempel, ARD-Rechtsredaktion 
+ Es ist das erste Mal seit dem Lockdown, dass das Bundesverfassungsgericht inhaltlich zu den Corona-bedingten Beschränkungen Stellung bezieht. Der Beschluss hat eine bundesweite Signalwirkung. Mit ihm stärkt das Bundesverfassungsgericht die beschlossenen Einschränkungen in allen Bundesländern.
+ Antragstellerin war eine Kinobetreiberin. In dem Kino mit insgesamt sieben Sälen befindet sich auch ein Restaurant. Die Betreiberin will das Kino und das Restaurant wieder öffnen. Die Verfassungsrichter wiesen den Eilantrag zurück.
+ Hinsichtlich des Kinos sei ihr Antrag unzulässig. Sie habe den vorgeschriebenen Rechtsweg nicht erschöpft und müsse sich zunächst an den Verwaltungsgerichtshof Bayern wenden, der zur Schließung der Kinos noch nichts entschieden hat. Dies hat der Verwaltungsgerichtshof in München allerdings schon zu den Restaurants getan. Die Münchner Richter haben die Untersagung des Betriebs in einer Eilentscheidung abgesegnet. Deshalb sei der Antrag, was ihr Restaurant betreffe, zwar zulässig, aber unbegründet.
+
+Gesundheitsschutz hat höheren Stellenwert
+ Zwar liege mit der vorläufigen Schließung des Restaurants ein gravierender Eingriff in ihre Berufsfreiheit vor. Demgegenüber müsse man aber berücksichtigen, dass die Beschränkungen nach der derzeitigen Rechtsverordnung in Bayern bis Ende November befristet seien. Hinzu komme, dass die betroffenen Betriebe eine Hilfe von 75 Prozent des Umsatzes des Vorjahresmonats erhalten sollen. Dass unter diesen Umständen ihr Gastronomiebetrieb in seiner Existenz gefährdet sei, dazu habe die Antragstellerin nichts vorgetragen. 
+ In ihrer Folgenabwägung räumen die Richter dem Gesundheitsschutz der Bevölkerung einen großen Stellenwert ein. Die Gefahren der Pandemie seien weiterhin sehr ernst zu nehmen. Die Neuinfektionen seien auf einem hohen Niveau und nähmen derzeit weiter zu. Deshalb sei mit erheblichen Belastungen des Gesundheitssystems zu rechnen. Die Ursachen für den bundesweiten Anstieg seien im Moment sehr diffus. In den meisten Fällen sei die genaue Infektionsquelle unbekannt. Daher könne nicht ausgeschlossen werden, dass auch Gaststätten zum Infektionsgeschehen beitragen.
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

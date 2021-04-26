@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15246</uid>
+   <externalId>15246</externalId>
+   <documentDate>2020-11-18T18:50:27Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Corona-Pandemie]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[So steht es im Rennen um den Impfstoff]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[inland]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/inland/corona-impfstoff-kandidaten-101.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Erst Biontech/Pfizer, dann Moderna: Erfolgsmeldungen mit Corona-Impfstoffen schüren Hoffnungen auf ein Ende der Pandemie. Wie unterscheiden sich die Präparate, wann können sie verfügbar sein - und wer ist noch weit vorn im Rennen um den wohl derzeit meistgesuchten Impfstoff der Welt? Ein Überblick.]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Erst Biontech/Pfizer, dann Moderna: Erfolgsmeldungen mit Corona-Impfstoffen schüren Hoffnungen auf ein Ende der Pandemie. Wie unterscheiden sich die Präparate, wann können sie verfügbar sein - und wer ist noch weit vorn im Rennen um den wohl derzeit meistgesuchten Impfstoff der Welt? Ein Überblick.
+
+Alles einklappen
+
+
+Wie ist der Stand bei Biontech und Pfizer?
+ Der Hoffnungsträger aus dem Hause Biontech/Pfizer hat einen sperrigen Namen: BNT162b2. Als erste westliche Hersteller veröffentlichten das Mainzer Unternehmen und der US-Konzern kürzlich Ergebnisse einer für die Zulassung wichtige Studie. Nach einer finalen Analyse habe der Impfstoff einen Schutz von 95 Prozent vor Covid-19 gezeigt, teilten die Unternehmen inzwischen mit. Schwere Nebenwirkungen wurden nach Angaben der Unternehmen nicht registriert. Die Unternehmen wollen in den nächsten Tagen in den USA eine Notfallzulassung bei der Arzneimittelbehörde FDA beantragen. Die Europäische Arzneimittelagentur (EMA) leitete einen beschleunigten Zulassungsprozess für den Impfstoff ein (Rolling-View-Verfahren).
+
+Positive Nachrichten gibt es auch von Moderna ...
+ Richtig. Der US-Biotechkonzern ist gleichgezogen mit Biontech/Pfizer. In einer Zwischenanalyse zeigte die Impfung mit dem Präparat namens mRNA-1273 eine Wirksamkeit von 94,5 Prozent beim Schutz vor Covid-19. Moderna will in den kommenden Wochen in den USA eine Notfallgenehmigung beantragen. Auch die EMA prüft einen beschleunigten Zulassungsprozess. Die US-Regierung unterstützt das Projekt mit nahezu einer Milliarde Dollar. Das 2010 gegründete Unternehmen hatte im Frühjahr die erste Corona-Impfstoffstudie in den USA gestartet. Bisher hat Moderna noch kein Produkt auf den Markt gebracht.
+
+Was sind die Gemeinsamkeiten?
+ Das Moderna-Präparat ist wie das von Pfizer und Biontech ein sogenannter mRNA-Impfstoff. mRNA steht für Messenger-Ribonukleinsäure, auch als Boten-RNA bezeichnet. Es enthält genetische Informationen des Erregers, aus denen der Körper ein Viruseiweiß herstellt. Ziel der Impfung ist es, den Körper zur Bildung von Antikörpern gegen dieses Protein anzuregen, um die Viren abzufangen, bevor sie in die Zellen eindringen und sich vermehren.
+ Vereinfacht gesagt: Bei herkömmlichen Impfstoffen wird das Antigen selbst gespritzt, bei mRNA hingegen die genetische Information, so dass der Körper das Antigen selbst bildet. Bei einem späteren Kontakt mit dem neuartigen Coronavirus erkennt das Immunsystem im Prinzip das Antigen wieder und kann das Virus gezielt bekämpfen. Bisher wurde kein mRNA-Impfstoff für Menschen zugelassen.
+Welche Vorteile hat das mRNA-Prinzip?
+ Nach Angaben des für Impfstoffe zuständigen Paul-Ehrlich Instituts (PEI) und des Robert Koch-Instituts (RKI) liegt unter anderem in der einfachen Struktur der RNA ein klarer Vorteil. In wenigen Wochen können viele Millionen Impfdosen produziert werden. Er benötigt aber auch eine höhere Kühlung.
+Bitte kühl lagern - ein Problem? 
+ Von der Produktion einer Impfdosis bis zur Injektion vergeht in der Regel einige Zeit. Auch weil der Impfstoff teils über weite Strecken bis zu einem Impfzentrum transportiert werden muss. Dabei gilt: Je kälter ein Impfstoff gelagert werden muss, desto höher sind die logistischen Anforderungen.
+ Und hier könnte Moderna im Vorteil sein. Das Präparat ist vergleichsweise lange bei normaler Kühlschranktemperatur lagerbar. Man gehe davon aus, dass das Mittel 30 Tage lang bei Temperaturen von 2 bis 8 Grad stabil bleibe, teilte der Konzern mit. Zudem könne es bei minus 20 Grad Celsius bis zu sechs Monate gelagert werden. Der Impfstoff könne "bei Temperaturen gelagert und transportiert werden, die üblicherweise in bereits vorhandenen pharmazeutischen Gefrier- und Kühlschränken herrschen", sagte Juan Andres von Moderna laut Mitteilung. Bei Raumtemperatur bleibe der Impfstoff bis zu zwölf Stunden stabil.
+ Anders der Kandidat aus dem Hause Biontech/Pfizer: Dieses Mittel muss nach Unternehmensangaben gefroren bei rund minus 70 Grad bis zum Ort des Impfens transportiert werden. An den Impfzentren könnten nach Angaben des Pharmakonzerns kleine, tragbare Ultra-Niedrig-Temperatur-Gefrierschränke angeschafft werden, die die Haltbarkeit auf bis zu sechs Monate verlängern könnten. Nach heutigem Stand könne der potenzielle Impfstoff, sobald er den Ort des Impfens erreicht hat, nicht länger als fünf Tage bei zwei bis acht Grad gelagert werden, so Pfizer. Der Umgang mit dem Impfstoff von Biontech/Pfizer dürfte daher eine logistische Herausforderung werden, insbesondere in Ländern mit weniger gut entwickelter Infrastruktur und hohen Temperaturen.
+
+Was ist über mögliche Nebenwirkungen bekannt?
+ Bislang wenig. Nach Angaben von Biontech und Pfizer zeigen sich bislang keine sicherheitsrelevanten Nebenwirkungen. Virologen verweisen jedoch auf den sehr kurzen Beobachtungszeitraum.
+ So hatte Biontech seinen BNT162b2 seit Mitte Januar entwickelt. Die für eine Zulassung entscheidende Phase-3-Studie begann Ende Juli. Bislang wurde der Impfstoffkandidat an fast 44.000 Menschen getestet - entweder bekamen sie das echte Mittel  oder einen Placebo. Nach etwa drei Wochen folgte eine zweite Dosis. Ein Impfschutz wird nach Angaben der Hersteller eine Woche nach der zweiten Injektion erreicht.
+ Die vorläufige Analyse der Studie von Moderna umfasste insgesamt 30.000 Teilnehmer. Der Impfstoff wurde ebenfalls in zwei Dosen verabreicht. Den Daten zufolge schützte das Mittel auch vor schweren Verläufen von Covid-19. Bei den Probanden seien nur milde bis moderate Nebenwirkungen aufgetreten. Die beobachteten Nebenwirkungen wie Gliederschmerzen und Müdigkeit sind nach Einschätzung von Experten aber nicht unüblich bei Impfungen von Erwachsenen.
+ Unklar ist, ob der Impfstoff in verschiedenen Gruppen - insbesondere Risikogruppen wie älteren Menschen - gleichermaßen effizient wirkt.
+
+Wie schnell kann ein Impfstoff nach der Zulassung verfügbar sein? 
+ Um früh mit dem begehrten Mittel versorgt zu sein, schließen die EU und auch andere Länder schon jetzt Lieferverträge mit Pharmakonzernen. Mit fünf Impfstoffherstellern hat die EU-Kommission bereits fertige Verträge. So sicherte sich die EU bereits bis zu 300 Millionen Dosen des Corona-Impfstoffs von Biontech und Pfizer. Doch auch wenn Biontech bereits vor der Zulassung in die Produktion geht: Diese großen Bedarfsmengen kann die Firma zumindest am Anfang bei Weitem nicht abdecken.
+ Mit Moderna wird noch verhandelt - es geht um die Lieferung von bis zu 160 Millionen Impfdosen. Ein Vertrag ist aber noch nicht geschlossen. Moderna hat außerdem den USA 100 Millionen Impfdosen zugesagt. Die US-Regierung hatte die Entwicklung von Impfstoffen massiv finanziell gefördert. Wie viele Dosen zum Jahresanfang erhältlich sein werden, ließ Moderna offen. Generell sei aber klar, "dass es zunächst sehr viel weniger Impfstoff geben wird als benötigt", sagte Moderna-Vorstand Juan Andres dem "Spiegel".
+Welche vielversprechenden Impfstoffkandidaten gibt es noch?
+ Nach Schätzung der Weltgesundheitsorganisation WHO befinden sich gegenwärtig 47 Impfstoffprojekte in der klinischen Entwicklung, davon zehn in der entscheidenden Phase III mit mehreren tausend Probanden. Eine Auswahl:
+ Astrazeneca: Der Impfstoffkandidat, der von dem britischen Pharmakonzern zusammen mit der Universität Oxford entwickelt wird, befindet sich in der klinischen Studie der Phase III. Mitte September musste das Unternehmen seine Studie mit dem Impfstoff wegen der ungeklärten Erkrankung eines Probanden aber unterbrechen. Inzwischen wurde die Studie wieder aufgenommen. Zulassungsrelevante Daten erwartet der Konzern vor Jahresende.
+ CureVac: Der Tübinger Impfstoffentwickler hat im Juni mit der klinischen Erprobung seines Kandidaten begonnen. In der Phase-I-Studie, an der mehr als 250 Probanden teilnahmen, wurde der Impfstoff von CureVac in verschiedenen Dosierungen getestet. Er zeigte eine gute Verträglichkeit und eine ausgewogene Immunantwort. Noch vor Jahresende soll nun die entscheidende Wirksamkeitsstudie Phase-IIb/III-Studie mit weltweit bis zu 30.000 Probanden starten. Der Bund unterstützt das Projekt mit bis zu 252 Millionen Euro, im Sommer war er mit 300 Millionen Euro bei CureVac eingestiegen. CureVac-Haupteigner und SAP-Mitgründer Dietmar Hopp rechnet mit einer Zulassung im Frühjahr oder Sommer 2021, in eingeschränkter Form möglicherweise aber auch schon früher.
+
+ Johnson & Johnson: Der US-Pharmakonzern hat die Phase-III-Wirksamkeitsstudie, an der rund 60.000 Menschen teilnehmen sollen, Ende September gestartet. Ergebnisse sollten bis Ende dieses, Anfang kommenden Jahres vorliegen. Auch J&J musste seine zulassungsrelevante Studie wegen einer unerklärten Erkrankung bei einem Probanden unterbrechen. Im Oktober durfte sie fortgesetzt werden.
+ Sinovac: Der Impfstoff CoronaVac des chinesischen Biotechunternehmens befindet sich als einer von mehreren chinesischen Impfstoffkandidaten in der klinischen Phase III. Tests mit Tausenden Freiwilligen laufen in Indonesien, der Türkei und in Brasilien, einem der am stärksten von der Pandemie betroffenen Länder. Studiendaten werden für November erwartet.
+ Anfang Oktober hatte der Gouverneur des brasilianischen Bundesstaates Sao Paulo die heimische Gesundheitsbehörde Anvisa um eine Zulassung des Sinovac-Impfstoffs gebeten. Er gehört zu jenen Impfstoffen, die im Notfall-Programm der chinesischen Regierung bereits Zehntausenden Menschen vor Abschluss der klinischen Studien verabreicht wurden. 
+
+ Sinopharm: Der staatliche chinesische Biotechkonzern testet zwei verschiedene Impfstoffprojekte in Phase-III-Studien. Mitte Juli begann ein breit angelegter Test in den Vereinigten Arabischen Emiraten mit 15.000 Freiwilligen. Auch Argentinien, Peru, Marokko und Bahrain haben Phase-III-Tests mit dem Sinopharm-Kandidaten zugelassen. Das "Wall Street Journal" hatte berichtet, Sinopharm biete seine Impfstoffe kostenlos chinesischen Studierenden an, die für ihr Studium ins Ausland gehen. Mit dem Impfstoff seien bereits rund 480.000 Personen geimpft worden, weitere rund 93.000 hätten die Impfung beantragt.
+ Gamaleya-Institut: Das russische Gesundheitsministerium hat den Impfstoff, der im Ausland unter dem Namen "Sputnik V" auf den Markt gebracht werden soll, am 11. August freigegeben - noch bevor die Ergebnisse der Phase-III-Studien vorlagen. In zwei kleineren Tests im Juni und Juli haben dem Fachmagazin "Lancet" zufolge alle 76 Teilnehmer Antikörper entwickelt und keine schweren Nebenwirkungen gezeigt. Inzwischen läuft eine große Studie, die 40.000 Teilnehmer umfassen soll. Kürzlich veröffentlichte das Institut Zwischenergebnisse, wonach der Impfstoff zu 92 Prozent wirksam als Schutz vor Corona sei.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ihre Meinung - meta.tagesschau.de
+
+
+
+
+27 Kommentare zur Meldung. Kommentierung der Meldung beendet.
+
+
+Alle Kommentare zur Meldung anzeigen.
+
+
+
+Geo-Schlagwörter der Meldung: (Keine Auswahl)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

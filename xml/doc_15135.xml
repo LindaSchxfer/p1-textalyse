@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15135</uid>
+   <externalId>15135</externalId>
+   <documentDate>2020-11-02T15:46:16Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Corona in Italien]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[Drei Risikozonen gegen die zweite Welle]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[ausland]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/ausland/corona-italien-169.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Italiens Regierungschef Conte hat weitere Verschärfungen im Kampf gegen das Coronavirus angekündigt. Die Bewegungsfreiheit soll weiter eingeschränkt werden, das Land wird in drei Risikozonen eingeteilt.]]></value>
+        </field>
+        <field name="author">
+              <value><![CDATA[Jörg Seisselberg, ARD-Studio Rom]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Italiens Regierungschef Conte hat weitere Verschärfungen im Kampf gegen das Coronavirus angekündigt. Die Bewegungsfreiheit soll weiter eingeschränkt werden, das Land wird in drei Risikozonen eingeteilt.
+Von Jörg Seisselberg, ARD-Studio Rom
+ Auch Italien reagiert auf den Anstieg der Corona-Infektionen mit neuen Einschränkungen, unter anderem bei der Reisefreiheit und in den Schulen. Die Situation im Land sei "sehr besorgniserregend", sagte Ministerpräsident Giuseppe Conte in seiner Rede in der Abgeordnetenkammer.
+ Um den Anstieg der Infektionen zu bremsen, setzt der Regierungschef vor allem auf gezielte Maßnahmen in besonders betroffenen Regionen. Das Land würde in drei Risikozonen eingeteilt, kündigte Conte an, Einzelheiten würden in einer Verordnung des Gesundheitsministers bekannt gegeben. Als eine der geplanten Maßnahmen nannte er neue Ausgangsbeschränkungen.
+
+Mehr als die Hälfte des Landes ist Hochrisikogebiet
+ In bereits elf von insgesamt 21 Regionen und autonomen Provinzen in Italien ist die Situation nach Contes Worten besonders kritisch. Dort bestehe ein "hohes beziehungsweise sehr hohes Risiko", dass das Corona-Infektionsgeschehen außer Kontrolle gerät.
+ Zu diesen Hochrisikogebieten gehören nach Angaben des Gesundheitsministeriums unter anderem die Regionen Lombardei, Piemont, die Hauptstadtregion Latium, das Aostatal, Molise, Umbrien, Kalabrien, Apulien, Emilia-Romagna, Ligurien und auch die autonome Provinz Bozen. In acht weiteren Regionen besteht laut Conte die Gefahr, dass das Infektionsgeschehen innerhalb eines Monats außer Kontrolle gerät.
+ Nur die Regionen Sardinien und Basilikata sind laut den vom Gesundheitsministerium bekanntgegebenen Werten zur Infektionsgeschwindigkeit derzeit deutlich unterhalb der kritischen Schwelle (R-Wert 1,5). Im Landesdurchschnitt liegt der R-Wert in Italien bei 1,7. Das heißt, dass derzeit zehn Infizierte 17 andere Menschen anstecken. In Großstädten wie Mailand oder Turin liegt der Wert sogar noch deutlich höher.
+
+Kein nationaler Lockdown, aber viele Einschränkungen
+ Conte begründete sein Nein zu einem nationalen Lockdown erneut damit, dass Italiens Wirtschaft einen solchen Schritt nicht verkraften würde. Als wichtigste landesweit gültige Maßnahme gab der Regierungschef bekannt, dass die Reisefreiheit in Italien wieder eingeschränkt werden soll. Für besonders gefährdete Regionen gilt künftig: Wer künftig dort hinein oder herausfahren will, braucht triftige Gründe, zum Beispiel, dass er zur Arbeit oder zu einem Arzt will.
+ Auch den Schulunterricht will die Regierung angesichts der steigenden Infektionszahlen landesweit wieder einschränken. Im ganzen Land soll der Präsenzunterricht nur noch für die Grundschulen aufrechterhalten werden, für alle anderen Schüler ist Online-Unterricht vorgesehen.
+ Auch der Kulturbereich ist von den neuen Einschränkungen betroffen: Nach den Theatern sollen nun auch die Museen und Ausstellungen schließen. Einkaufszentren müssen an Wochenenden geschlossen bleiben, Spielhallen und Wettbüros generell die Pforten schließen. 
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

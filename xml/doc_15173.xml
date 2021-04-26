@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15173</uid>
+   <externalId>15173</externalId>
+   <documentDate>2020-11-09T15:15:20Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Impfstoff-Studie von Biontech]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA["Großartige und vielversprechende Daten"]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[inland]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/inland/biontech-corona-impfstoff-105.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Die Zulassung eines Corona-Impfstoffs rückt deutlich näher: Die Mainzer Firma Biontech und ihr US-Partner Pfizer haben Ergebnisse aus einer großen Wirksamkeitsstudie vorgelegt. Experten sind begeistert.]]></value>
+        </field>
+        <field name="author">
+              <value><![CDATA[Christian Baars und Oda Lambrecht, NDR]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Die Zulassung eines Corona-Impfstoffs rückt deutlich näher: Die Mainzer Firma Biontech und ihr US-Partner Pfizer haben Ergebnisse aus einer großen Wirksamkeitsstudie vorgelegt. Experten sind begeistert.
+Von Christian Baars und Oda Lambrecht, NDR
+ Die Welt wartet auf einen Impfstoff gegen das Coronavirus. Nun scheint eine baldige Zulassung in den USA und Europa möglich. Das Mainzer Unternehmen Biontech hat zusammen mit seinem US-Partner Pfizer erste Ergebnisse aus der laufenden, abschließenden Studie zu ihrem Impfstoff-Kandidaten vorgelegt. Demnach soll er einen mehr als 90-prozentigen Schutz vor einer Covid-19-Erkrankung bieten. Bislang seien zudem keine schwerwiegenden Nebenwirkungen aufgetreten.
+
+"Es ist ein Riesenerfolg"
+ "Das sind großartige und vielversprechende Daten", sagte Gerd Fätkenheuer, Leiter der Infektiologie an der Universitätsklinik Köln. Die bisherigen Ergebnisse zu Wirksamkeit und Sicherheit seien "hervorragend". Er hoffe nun, dass "rasch große Mengen des Impfstoffes zur Verfügung stehen werden".
+ Mit diesen Ergebnissen habe der Impfstoff eine "ganz wesentliche Hürde genommen", sagte Klaus Überla dem NDR. Er ist Leiter des Virologischen Instituts an der Uniklinik Erlangen und Mitglied der Ständigen Impfkommission am Robert Koch-Institut. Der Impfstoff habe eine "sehr hohe Wirksamkeit gezeigt". Sie sei höher als man es etwa von Grippe-Impfstoffen kenne. Außerdem gebe es bislang keine Hinweise darauf, dass das Mittel nicht sicher sei. "Es ist ein Riesenerfolg, dass man in so kurzer Zeit so weit gekommen ist", so Überla.
+Daten für einzelne Altersgruppen fehlen noch
+ Die Leiterin der Infektiologie am Hamburger Universitätsklinikum UKE, Marylyn Addo, wies allerdings darauf hin, dass die Unternehmen noch keine Primärdaten veröffentlicht hätten. Es seien noch wenige Details bekannt, "zum Beispiel bezüglich verschiedener Altersgruppen", sagte sie. "Die exakten Daten müssen wir zur abschließenden Einschätzung noch abwarten."
+ Selbstverständlich wäre es besser, altersspezifische Daten zu sehen, sagte der Impfstoff-Experte Florian Krammer von Icahn School of Medicine at Mount Sinai in den USA. Er gehe aber davon aus, dass diese bald veröffentlicht würden. Krammer bezeichnete die bislang vorliegenden Ergebnisse als "fantastisch". Er fügte hinzu: "Ehrlich gesagt ist das die beste Nachricht, die ich seit dem 10. Januar erhalten habe" - also seitdem das Genom des Virus veröffentlicht wurde. Krammer und andere Experten rechnen nun mit einer baldigen Zulassung.
+
+"Ein Sieg für die Innovation"
+ Biontech und Pfizer haben angekündigt, in der kommenden Woche in den USA die Zulassung zu beantragen. In Europa läuft bereits ein sogenanntes "rolling review"-Verfahren, in dem die für die Zulassung zuständige Europäische Arzneimittelagentur (EMA) die Daten aus den Studien laufend bewertet.
+ "Die erste Zwischenanalyse unserer globalen Phase-3-Studie weist darauf hin, dass ein Impfstoff Covid-19 verhindern kann", sagte der Chef von Biontech, Ugur Sahin. Dies sei "ein Sieg für die Innovation, Wissenschaft und weltweite Zusammenarbeit". Es sollen aber weitere Daten aus der laufenden Studie gesammelt werden.
+
+Hälfte der Probanden erhielt Placebo
+ An der Phase-3-Studie nahmen in mehreren Ländern mehr als 43.500 Probanden teil. Eine Hälfte von ihnen erhielt den Impfstoff, die andere ein wirkungsloses Scheinmittel, ein sogenanntes Placebo. Es erkrankten nur wenige von denen, die den Impfstoff erhalten hatten. Biontech und Pfizer sprechen zwar von einer Wirksamkeitsrate von über 90 Prozent, konkrete Zahlen sind bislang aber noch nicht veröffentlicht worden.
+
+
+
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

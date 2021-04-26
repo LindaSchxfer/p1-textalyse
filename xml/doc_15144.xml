@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15144</uid>
+   <externalId>15144</externalId>
+   <documentDate>2020-11-04T09:27:25Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Coronavirus in Deutschland]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[RKI meldet 17.214 Neuinfektionen]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[inland]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/inland/rki-corona-neuinfektionen-101.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Die Zahl der täglichen Corona-Neuinfektionen bleibt in Deutschland auf hohem Niveau. 17.214 weitere Infizierte seit gestern meldet das RKI. Die Ansteckungsrate - der sogenannte R-Wert - sank leicht.]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Die Zahl der täglichen Corona-Neuinfektionen bleibt in Deutschland auf hohem Niveau. 17.214 weitere Infizierte seit gestern meldet das RKI. Die Ansteckungsrate - der sogenannte R-Wert - sank leicht. 
+ Die Gesundheitsämter in Deutschland haben dem Robert Koch-Institut (RKI) 17.214 neue Corona-Infektionen innerhalb eines Tages gemeldet. Dies geht aus Angaben des RKI vom Morgen hervor. Am Mittwoch vor einer Woche hatte die Zahl der gemeldeten Neuinfektionen bei 14.964 gelegen - das waren beinahe doppelt so viele wie am Mittwoch der Woche davor.
+ Die nun gemeldete Zahl der Neuinfektionen liegt aber unter den Spitzenwerten der vergangenen Woche. Am Samstag hatte das RKI den Rekordwert von 19.059 Neuinfektionen binnen eines Tages registrierten Neuinfektionen bekanntgegeben. Das war die höchste Zahl in Deutschland seit Beginn der Pandemie. 
+ Insgesamt infizierten sich dem RKI zufolge seit Beginn der Pandemie bundesweit 577.593 Menschen mit Sars-CoV-2  (Stand: 04.11., 00.00 Uhr). Die Zahl der Todesfälle im Zusammenhang mit dem Virus stieg bis Mittwoch um 151 auf insgesamt 10.812. Das RKI schätzte am Dienstag, dass rund 371.500 Menschen inzwischen genesen sind - die Angabe für Mittwoch fehlte zunächst noch.
+ Beim RKI-Dashboard gab es am Morgen ein technisches Problem das RKI hat die aktuellen Angaben nun zunächst nur hier zur Verfügung gestellt.
+
+Reproduktionszahl wieder unter eins
+ Wichtig ist auch der Blick auf die Corona-Ansteckungsrate: Die Reproduktionszahl, kurz R-Wert, sank laut RKI leicht - auf knapp unter eins. Das bedeutet, dass ein Infizierter im Mittel knapp einen weiteren Menschen ansteckt. Der R-Wert bildet jeweils das Infektionsgeschehen etwa eineinhalb Wochen zuvor ab.
+ Zudem gibt das RKI in seinem Lagebericht ein sogenanntes Sieben-Tage-R an. Der Wert bezieht sich auf einen längeren Zeitraum und unterliegt daher weniger tagesaktuellen Schwankungen. Nach RKI-Schätzungen lag dieser Wert am Dienstag bei 0,98 (Vortag: 1,04). Er zeigt das Infektionsgeschehen von vor acht bis 16 Tagen.
+ RKI-Vize-Chef Lars Schaade hatte zuvor erklärt, die Rate müsse für längere Zeit deutlich unter eins gedrückt werden. Ziel könne etwa eine Größe von 0,7 sein. "Dann sind wir wieder in einem Bereich, den wir kontrollieren können."
+
+Engpässe in Kliniken und Laboren
+ Seit Montag ist das öffentliche Leben in Deutschland erheblich heruntergefahren - erstmal für vier Wochen. Ziel ist, die Zahl der Neuinfektionen zu senken, um so Kliniken, Labore und Gesundheitsämter zu entlasten. Schon jetzt kommt es in diesen Bereichen zu Engpässen. Intensivstationen fürchten, nicht genug Betten und Pflegekräfte zu haben für den erwarteten Anstieg der Patientenzahlen. Die Zahl der Covid-19-Intensivpatienten steigt bereits stark- von 362 am 1. Oktober auf nun 2243.
+
+ Auch die Labore kommen an ihre Grenzen. Die Testkapazität sei bundesweit erstmalig zu 100 Prozent ausgereizt, teilte der Verband der Akkreditierten Labore in der Medizin auf Basis von Daten aus 162 Laboren mit. Inzwischen sei "die rote Ampel überfahren" worden. Bei einer weiteren Überflutung mit Proben oder einem möglichen Geräte- oder Personalausfall drohe ein Zusammenbruch der Versorgung. Nötig sei, die Kapazitäten von nunmehr 1,4 Millionen Tests pro Woche auf dringliche Fälle zu konzentrieren. Immer noch würden aber zu viele PCR-Tests ohne Symptome gemacht.
+Neue Testkriterien
+ Das RKI passte daher die Empfehlungen an Ärzte zu den Testkriterien an - Faktoren seien etwa Symptome, die Zugehörigkeit zu einer Risikogruppe und die Wahrscheinlichkeit, dem Coronavirus ausgesetzt gewesen zu sein.
+ Auch die bundesweit rund 400 Gesundheitsämter sind an ihrer Belastungsgrenze oder auch schon darüber hinaus. Immer mehr Behörden sind nicht mehr in der Lage Infektionsketten umfassend nachzuverfolgen und auch zu durchbrechen. Die Kontaktnachverfolgung gilt in der Pandemiebekämpfung jedoch als zentral.
+
+ Auch in Europa spitzt sich die Corona-Situation zu. Aufgrund konstant hoher Zahlen an Neuinfektionen verhängten viele Nachbarländer Deutschlands strenge Beschränkungen. Hier ein Überblick:
+
+
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

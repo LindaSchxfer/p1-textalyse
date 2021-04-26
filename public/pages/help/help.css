@@ -1,10 +1,11 @@
 #helpText {
   font-family: Arial, Helvetica, sans-serif;
   position: absolute;
-  top: 53%;
-  left: 50%;
   margin: 0%;
-  transform: translate(-50%, -50%);
+  top: 35%;
+  left: 50%;
+  width: 60%;
+  transform: translate(-50%, 0%);
   text-align: center;
   color: white;
   background-color: #38363577;

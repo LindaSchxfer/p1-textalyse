@@ -32,8 +32,6 @@ font-size: 24px;
   overflow: hidden;
   margin-bottom: 20px;
   position: relative;
-
-
 }
 
 .box-wrapperHelp {
@@ -64,7 +62,7 @@ font-size: 24px;
   margin-right: auto;
 }
 
-.faq {
+.faq, .video-title  {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 15px;
   color: #f5a114;
@@ -76,7 +74,7 @@ font-size: 24px;
   width: 75%;
 }
 
-details {
+details, .video-text  {
   color: #383635;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 18px;
@@ -95,4 +93,9 @@ summary:hover {
   text-decoration: underline;
   cursor: pointer;
   color: #f5a114;
+}
+
+.video{
+  display: block;
+  margin: 0 auto;
 }

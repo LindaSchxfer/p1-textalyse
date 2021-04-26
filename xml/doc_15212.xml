@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15212</uid>
+   <externalId>15212</externalId>
+   <documentDate>2020-11-16T00:00:00Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Karte mit aktuellen Zahlen]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[Coronavirus-Ausbreitung in Deutschland]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[inland]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/inland/coronavirus-karte-deutschland-101.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Die Zahl der Infektionen mit dem Coronavirus steigt auch in Deutschland. Wie sich die aktuellen Fallzahlen regional verteilen, zeigen die interaktiven Coronavirus-Karten von]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Die Zahl der Infektionen mit dem Coronavirus steigt auch in Deutschland. Wie sich die aktuellen Fallzahlen regional verteilen, zeigen die interaktiven Coronavirus-Karten von tagesschau.de.
+ Seit Beginn der Pandemie veröffentlicht das Robert Koch-Institut für Deutschland Zahlen zu den bestätigten Infektionen mit dem neuartigen Coronavirus. Später kamen Angaben zu Todesfällen und tägliche Schätzungen zur Zahl genesener Patienten hinzu. Aus der Kombination dieser drei Werte ergibt sich die Zahl der aktuell Infizierten. Diese Berechnung aktiver Infektionsfälle baut auf den labortechnisch bestätigten Fällen auf und berücksichtigt nicht die Dunkelziffer unerkannter Infektionen, die sich nur schätzen lässt.
+Wo gibt es wie viele Neuinfektionen innerhalb der vergangenen sieben Tage?
+
+
+
+
+Wie viele Menschen sind aktuell infiziert und wie viele bestätigte Infektionsfälle gibt es insgesamt?
+
+
+Wie viele bestätigte Infektionen gibt es pro 100.000 Einwohner?
+
+
+ Hinweise zu den Karten: Jeder Klick auf ein Bundesland liefert aktuelle Zahlen zu Infektionen mit dem neuartigen Coronavirus. Die Zahlen basieren auf den Angaben des Robert Koch-Instituts, das derzeit einmal pro Tag für alle Bundesländer Fallzahlen veröffentlicht (Datenstand ist dabei laut RKI jeweils 0.00 Uhr des betreffenden Tages). Die vom RKI angegebene Zahl der Genesenen und die mit Hilfe dieses Wertes errechnete Zahl der "aktuell Infizierten" basiert auf einer RKI-Schätzung: Demnach nimmt das RKI an, dass Fälle mit leichtem Krankheitsverlauf und entsprechenden Symptomen 14 Tagen dauern. Bei Fällen, die im Krankenhaus behandelt werden oder deren Symptome auf einen schweren Krankheitsverlauf hindeuten, nimmt das RKI eine Erkrankungszeit von 28 Tagen an. In Kombination mit dem Datum des Erkrankungsbeginns bzw. des Meldedatums ergibt sich so ein geschätztes Datum für die Genesung der Infizierten. Eine Erläuterung zu den Unterschieden zwischen der Zahl der Infektionen in Deutschland auf dieser Karte (Quelle: Robert Koch-Institut) und auf der Weltkarte (Quelle: Johns Hopkins University) finden Sie hier.
+Aktuelle Übersicht der weltweiten Coronavirus-Infektionen
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

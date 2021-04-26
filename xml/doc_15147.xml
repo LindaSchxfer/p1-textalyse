@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15147</uid>
+   <externalId>15147</externalId>
+   <documentDate>2020-11-05T07:19:59Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Neuinfektionen in Deutschland]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[Fast 20.000 neue Corona-Fälle]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[inland]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/inland/rki-coronavirus-111.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Das Robert Koch-Institut vermeldet einen neuen Höchststand bei den Corona-Neuinfektionen: 19.990 Fälle kamen binnen eines Tages hinzu. Viele Labore geraten bei den Testauswertungen an ihre Grenzen.]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Das Robert Koch-Institut vermeldet einen neuen Höchststand bei den Corona-Neuinfektionen: 19.990 Fälle kamen binnen eines Tages hinzu. Viele Labore geraten bei den Testauswertungen an ihre Grenzen.
+ Die Zahl der registrierten Corona-Neuinfektionen nähert sich der 20.000er-Marke. Das Robert Koch-Institut meldete 19.990 Fälle - der bislang höchste Wert seit Beginn der Pandemie. Am Donnerstag vor einer Woche lag die Zahl bei 16.774.
+ Insgesamt haben sich dem RKI zufolge seit Beginn der Pandemie bundesweit 597.583 Menschen mit Sars-CoV-2 infiziert. Die Zahl der Todesfälle im Zusammenhang mit dem Virus stieg um 118 auf insgesamt 10.930. Das RKI schätzt, dass rund 391.600 Menschen inzwischen genesen sind.
+R-Wert liegt bei 0,81
+ Die Reproduktionszahl, kurz R-Wert, lag in Deutschland laut RKI-Lagebericht am Mittwoch bei 0,81 (Vortag: 0,94). Das heißt, dass ein Infizierter im Mittel etwas weniger als einen weiteren Menschen ansteckt. Der R-Wert bildet jeweils das Infektionsgeschehen etwa eineinhalb Wochen zuvor ab. Zudem gibt das RKI in seinem Lagebericht ein sogenanntes Sieben-Tage-R an. Der Wert bezieht sich auf einen längeren Zeitraum und unterliegt daher weniger tagesaktuellen Schwankungen. Nach RKI-Schätzungen lag dieser Wert am Mittwoch bei 0,92 (Vortag: 0,98). Er zeigt das Geschehen von vor acht bis 16 Tagen.
+
+Viele Labore überlastet
+ Viele Testlabore stoßen mittlerweile an ihre Kapazitätsgrenzen. So meldeten laut RKI in der vergangenen Kalenderwoche bis zum 1. November 69 Labore einen Rückstau von insgesamt 98.931 abzuarbeitenden Proben. Zwei Wochen zuvor waren es noch 52 Labore mit 20.799 abzuarbeitenden Proben, wie aus dem RKI-Lagebericht von Mittwochabend hervorgeht.
+ Zudem komme es zu Lieferschwierigkeiten bei Reagenzien, Plastikverbrauchsmaterialien und Pipettenspitzen. Getestete müssen sich mancherorts in Geduld üben: "Mit steigenden Probenzahlen, wie sie zurzeit aufgrund der weiten Indikationsstellung zu beobachten sind, verlängern sich auch die durchschnittlichen Bearbeitungszeiten, mit möglichen Konsequenzen für die zeitnahe Mitteilung des Ergebnisses an die betroffenen Personen, sowie einem größeren Verzug bei der Meldung an das Gesundheitsamt", schreibt das RKI.
+
+ Die Zahl der wöchentlich durchgeführten Tests kletterte in den vergangenen zwei Monaten deutlich um mehr als 400.000. Angesichts der überlasteten Labore spricht sich das RKI nun dafür aus, den Einsatz der Tests zu priorisieren.
+ Die sogenannte Positivenquote bei Corona-Tests in Deutschland hat sich derweil in den vergangenen zwei Monaten in etwa verzehnfacht. So schlugen in Kalenderwoche 44 (bis 1.11.) laut RKI etwa 7,3 Prozent der Tests an - der höchste Wert seit der ersten Aprilhälfte. In Kalenderwoche 35 (bis 30.8.) waren es noch rund 0,7 Prozent.
+
+
+
+
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15164</uid>
+   <externalId>15164</externalId>
+   <documentDate>2020-11-08T14:02:08Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Rückkehr aus Risikogebieten]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[Neue Quarantäneregeln in Kraft]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[inland]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/inland/neue-quarantaeneregeln-101.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Für Rückkehrer aus Risikogebieten im Ausland gelten neue Quarantäneregeln. So kann die Zeit der Isolierung mit einem negativen Test verkürzt werden. Wer einreist, muss sich digital registrieren. Ein Überblick.]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Für Rückkehrer aus Risikogebieten im Ausland gelten neue Quarantäneregeln. So kann die Zeit der Isolierung mit einem negativen Test verkürzt werden. Wer einreist, muss sich digital registrieren. Ein Überblick.
+ Seit Sonntag gelten die neuen Quarantäne-Regeln für Einreisende aus Risikogebieten. Der Bund hat dafür eine Musterverordnung vorgelegt, die die Länder nun umsetzen müssen. Vor allem bei den Ausnahmen von der Quarantänepflicht könnte es regionale Abweichungen geben.
+Für welche Länder gilt die Neuregelung? 
+ Inzwischen gibt es in Europa nur noch vereinzelte Regionen, die nicht als Risikogebiete gelten. Seit Sonntag stehen auch Dänemark und ganz Italien auf der Liste. Auch weltweit gelten sehr viele Staaten als Risikogebiete. 
+Wie sieht die neue Quarantänepflicht aus? 
+ Ab dem 8. November gilt für alle Rückkehrer aus Risikogebieten eine Pflichtquarantäne von zehn Tagen. Sie kann verkürzt werden, wenn Betroffene "frühestens ab dem fünften Tag nach der Einreise" einen negativen Corona-Test vorlegen können, wie es in der Vorlage heißt. Bislang gilt für Reiserückkehrer aus Risikogebieten eine Pflichtquarantäne von 14 Tagen. 
+Welche Ausnahmen gibt es? 
+ Die Regelung gilt nicht für Menschen, die nur zur Durchreise nach Deutschland kommen. Sie müssen die Bundesrepublik aber auf dem schnellsten Weg wieder verlassen. Auch wer sich im Rahmen des Grenzverkehrs mit Nachbarstaaten weniger als 24 Stunden in einem Risikogebiet aufgehalten hat, ist nicht von der Quarantänepflicht erfasst. Länger aufhalten ohne Quarantäne dürfen sich auch Berufspendler sowie Ärzte, Pflegekräfte, unterstützendes medizinisches Personal und 24-Stunden-Betreuungskräfte.
+
+ Die Ausnahme gilt auch beim Besuch naher Verwandter sowie des nicht zum gleichen Hausstand gehörenden Ehegatten oder Lebensgefährten - und wenn ein geteiltes Sorgerecht besteht.
+ Auch für Menschen, die Waren oder Güter auf der Straße, der Schiene, per Schiff oder per Flugzeug transportieren, gelten Ausnahmen - ebenso für hochrangige Mitglieder des diplomatischen und konsularischen Dienstes, von Volksvertretungen und Regierungen.
+Können Einreisende einfach so deutschen Boden betreten? 
+ Nein - sie müssen sich ab Sonntag vor der Einreise digital unter www.einreiseanmeldung.de anmelden. Die neue Web-Anwendung ersetzt die bisherigen Aussteigekarten in Papierform.
+
+ Mit der Einreiseanmeldung sollen die Gesundheitsämter am Zielort der Einreisenden die notwendigen Informationen erhalten, etwa um kontrollieren zu können, ob die nach landesrechtlichen Regelungen bestehende Quarantänepflicht eingehalten wird. Anmelden muss sich jeder, der in den vorangegangenen zehn Tagen in einem Corona-Risikogebiet war.
+
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15142</uid>
+   <externalId>15142</externalId>
+   <documentDate>2020-11-03T14:33:49Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Kinderkrankengeld]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[Mehr Väter betreuen kranke Kinder]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[inland]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/inland/corona-vaeter-kinderkrankengeld-101.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Der Anteil der Männer, die Kinderkrankengeld beantragen, nimmt zu - und ist mit der Corona-Krise weiter gestiegen. Das geht aus Daten einer Krankenkasse hervor. Im Osten kümmern sich die Väter besonders häufig um ihre kranken Kinder.]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Der Anteil der Männer, die Kinderkrankengeld beantragen, nimmt zu - und ist mit der Corona-Krise weiter gestiegen. Das geht aus Daten einer Krankenkasse hervor. Im Osten kümmern sich die Väter besonders häufig um ihre kranken Kinder.
+ Immer mehr berufstätige Männer in Deutschland nehmen sich frei, um ihre kranken Kinder zu Hause zu betreuen. Das geht aus einer Datenerhebung der KKH Kaufmännische Krankenkassen hervor. Demnach wurde das Kinderkrankengeld 2019 zu 22 Prozent von den Vätern beantragt, wie die Krankenkasse in Hannover mit Hinweis auf ihre Versicherten mitteilte. 2009 blieben zum Vergleich in nur neun Prozent der Fälle die Familienväter zu Hause, um ein erkranktes Kind zu pflegen.
+ Im ersten Halbjahr 2020, in dem der Beginn der Corona-Krise mit dem ersten Lockdown lag, sei der Anteil der Väter sogar auf rund 23 Prozent gestiegen, hieß es weiter.
+
+ Aufgrund der Corona-Krise stehen gesetzlich versicherten Eltern derzeit mehr Tage zur Betreuung eines erkrankten Kindes zur Verfügung. Bis dahin konnten sich zusammenlebende Mütter und Väter jeweils bis zu zehn Tage unentgeltlich von der Arbeit befreien lassen. Nun hat jedes Elternteil fünf Tage mehr und damit jeweils 15.
+ Bei Alleinerziehenden waren es zuvor bis zu 20 Tage. Sie haben zehn zusätzliche Tage bekommen und damit aktuell bis zu 30 . Dafür erhalten sie von den gesetzlichen Krankenkassen Kinderkrankengeld, sofern der Arbeitgeber in dieser Zeit kein Gehalt zahlt, das Kind unter zwölf Jahre alt ist und der Arzt eine Erkrankung sowie die notwendige Betreuung bescheinigt.
+Väter im Osten liegen vorn
+ Vor allem in den östlichen Bundesländern kümmern sich laut KKH mehr Männer um ihre kranken Kinder als etwa im Westen. Demnach liegt Sachsen mit einem Anteil von 29 Prozent im ersten Halbjahr 2020 vorn, gefolgt von Brandenburg und Thüringen mit jeweils rund 24 Prozent. Den letzten Platz belegen mit rund 18 Prozent die Väter aus dem Saarland und aus Nordrhein-Westfalen. Auch in Baden-Württemberg ist der Anteil der Väter, die sich für ihren kranken Nachwuchs freinehmen, mit 19 Prozent vergleichsweise gering.
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15128</uid>
+   <externalId>15128</externalId>
+   <documentDate>2020-11-01T18:41:45Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Corona-Lage]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[Überlastete Ämter und ein Rat von Drosten]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[inland]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/inland/coronavirus-drosten-ostern-101.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Stark steigende Fallzahlen haben die Corona-Situation in Deutschland deutlich verschärft: Jedes zehnte Gesundheitsamt ist mittlerweile überlastet. Virologe Drosten rät zur Vorsicht und rechnet mit Besserung im Sommer.]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Stark steigende Fallzahlen haben die Corona-Situation in Deutschland deutlich verschärft: Jedes zehnte Gesundheitsamt ist mittlerweile überlastet. Virologe Drosten rät zur Vorsicht und rechnet mit Besserung im Sommer.
+ Trotz des am Montag beginnenden Teil-Lockdowns zur Bekämpfung der Corona-Pandemie erwartet der Virologe Christian Drosten von der Berliner Charité keine schnelle Normalisierung. "Sicher ist: Ostern ist die Pandemie nicht beendet", sagte er der "Neuen Osnabrücker Zeitung". "Aber spätestens im Sommer wird sich unser Leben deutlich zum Positiven verändern können - wenn wir jetzt die akut steigenden Ansteckungszahlen in den Griff bekommen."
+ Helfen könne im Kampf gegen die Pandemie die weitere Verbreitung von Schnelltests. "Wenn sie in ausreichender Zahl zur Verfügung stehen, können wir gefährdete Gruppen sehr regelmäßig und niederschwellig testen", sagte Drosten der Zeitung. "Außerdem lässt sich nicht nur feststellen, ob jemand infiziert ist, sondern auch, ob er infektiös ist. Das kann den Umgang mit Quarantäne oder Kontaktverboten erleichtern." Einen verstärkten Einsatz der Tests erwarte er in wenigen Wochen.
+
+Drosten hält Fortsetzung des Schulbetriebs für richtig
+ Im Alltag riet Drosten zu konsequenter Vorsicht: "Am besten wäre es, wir täten alle so, als wären wir infiziert und wollten andere vor Ansteckung schützen." Zugleich lasse sich der Spieß umdrehen, indem man so tue, als sei "der andere infiziert und wir wollten uns selbst schützen. Daraus ergibt sich unser Verhalten."
+ Für richtig hält Drosten die politische Entscheidung, Schulen in der Krise weiter geöffnet zu halten. Kritik an dieser Entscheidung wies Bundesfamilienministerin Franziska Giffey im Bericht aus Berlin zurück: "Die Schulen sind besser vorbereitet auf viele Situationen, wo im März Ratlosigkeit angesagt war", sagte die SPD-Politikerin. Man wisse jetzt mehr über die Krankheit, außerdem sei die Digitalisierung in den Schulen fortgeschritten. "Die Schließungen von Kitas und Schulen sind nicht das erste Mittel, sondern das letzte Mittel, wenn es um Einschränkungen geht", so Giffey.
+14.177 Neuinfektionen in Deutschland
+ Kurz vor Beginn des Teil-Lockdowns meldete das Robert Koch-Institut (RKI) 14.177 neue Corona-Infektionen binnen eines Tages. Allerdings sind die erfassten Fallzahlen an Sonntagen meist niedriger als unter der Woche, auch weil am Wochenende weniger getestet wird. Vor genau einer Woche waren 11.176 Neuinfektionen an einem Tag gemeldet worden. Die Zahl der Todesfälle in Deutschland im Zusammenhang mit dem Virus erhöhte sich um 29 auf insgesamt 10.481.
+ Wie angespannt die Corona-Lage ist, zeigt ein Blick nach Nordrhein-Westfalen: Mittlerweile ist das gesamte Bundesland zum Risikogebiet erklärt worden. Mit dem Kreis Soest überschritt am Wochenende auch die letzte nordrhein-westfälische Region den Grenzwert von 50 Corona-Neuinfektionen pro 100.000 Einwohner innerhalb einer Woche. Am kritischsten ist die Situation in Duisburg: Hier wurden 256,1 neue Corona-Fälle unter 100.000 Einwohnern binnen sieben Tagen gezählt.
+
+Jedes zehnte Gesundheitsamt überlastet
+ Mit den steigenden Fallzahlen kommen nun auch immer mehr Gesundheitsämter an ihre Grenzen. 38 von rund 400 Ämtern zeigten bis Freitag Überlastung an, wie das RKI mitteilte. Damit stößt fast jedes zehnte Amt entweder aktuell an Kapazitätsgrenzen oder rechnet innerhalb der nächsten Tage damit. Am 20. Oktober lagen laut RKI 22 solcher Anzeigen vor, die sich je nach Überlastungsgrad in drei Kategorien gliedern.
+ Die Engpässe bei den Gesundheitsämtern betreffen die Nachverfolgung von Kontaktpersonen, zum Teil auch das Ausbruchsmanagement oder andere Aufgaben des Infektionsschutzes. Die vollständige Kontaktnachverfolgung gilt als zentrales Element in der Pandemiebekämpfung. Das RKI hatte die Überforderungen einiger Gesundheitsämter bereits vor anderthalb Wochen als "ernst und besorgniserregend" bezeichnet. Sie müssten jede Anstrengung aufrechterhalten und dürften nicht aufgeben.
+Bundeswehr unterstützt Gesundheitsämter
+ In Berlin werden wegen der Überlastung der Ämter inzwischen Positiv-Fälle in Risikogruppen zuerst nachverfolgt. Andere Bürger sind gebeten, bei einem positiven Corona-Test sofort in Quarantäne zu gehen und ihren Kontakten zunächst selbst Bescheid zu geben. Das Amt meldet sich dann später.
+ Unterstützung bei der Kontaktnachverfolgung erhalten viele deutsche Gesundheitsämter von Soldaten der Bundeswehr. "Wir sind mittlerweile in jedem zweiten Gesundheitsamt aktiv", sagte Verteidigungsministerin Annegret Kramp-Karrenbauer in einem Interview mit den Fernsehsendern RTL und ntv. Etwa 4000 Soldatinnen und Soldaten sind zur Bekämpfung der Corona-Pandemie im Einsatz. Die Zahl hat sich binnen einer Woche in etwa verdoppelt.
+
+Warnungen vor Kollaps der Kliniken
+ Damit es nicht auch in den Intensivstationen zu einer völligen Überlastung kommt, wollen Bund und Länder in diesem Monat mit drastischen Einschränkungen im öffentlichen Leben gegensteuern. Allerdings deutet sich schon jetzt eine kritische Lage in vielen Kliniken an. Saarlands Ministerpräsident Tobias Hans warnte in der "Bild am Sonntag": "Die Situation ist erschreckend und alarmierend: Schon bald kann es zu einem Kollaps in vielen der 1900 Krankenhäuser in Deutschland kommen." Gerade in dieser Situation, in der jeder Intensiv- und Beatmungsplatz dringend benötigt werde, würden Kliniken aus der Versorgung fallen, Stationen geschlossen und Notaufnahmen abgemeldet. "Grund ist fehlendes oder erkranktes Pflegepersonal."
+ Der Präsident der Deutschen Interdisziplinären Vereinigung für Intensiv- und Notfallmedizin (DIVI), Uwe Janssens, ergänzte gegenüber dem Blatt: "Ganz klar: Es ist in einigen Bundesländern nicht mehr viel Spielraum." Dies liege auch daran, "dass viele Kliniken immer noch ihr Routineprogramm durchführen, Magen-Bypässe, Gelenk-Operationen". Für viele drohe sonst der Ruin, solange es nicht wie im April Freihaltepauschalen gebe. "Damals war die Situation übrigens viel weniger dramatisch als das, was jetzt auf uns zukommt."
+
+
+
+
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

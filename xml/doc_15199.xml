@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15199</uid>
+   <externalId>15199</externalId>
+   <documentDate>2020-11-13T07:31:00Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Fünf Monate nach dem Start]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[Die Tücken der Corona-Warn-App]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[inland]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/inland/faq-corona-warn-app-101.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[18 Risiko-Begegnungen im Homeoffice - wie kann das sein? Was muss ich bei einer roten Meldung machen? Habe ich Anspruch auf einen kostenlosen Test? Welche Updates sind geplant? Ein Überblick.]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+18 Risiko-Begegnungen im Homeoffice - wie kann das sein? Was muss ich bei einer roten Meldung machen? Habe ich Anspruch auf einen kostenlosen Test? Welche Updates sind geplant? Ein Überblick.
+
+Alles ausklappen
+
+
+ Von Dominik Lauck, tagesschau.de
+Wie muss ich mich bei einer roten Warnmeldung verhalten?
+ Eine Risiko-Begegnung mit "erhöhtem Risiko" (Meldungsfeld ist rot unterlegt) bedeutet, dass man in den vergangenen 14 Tagen einer Person begegnet ist, die mittlerweile positiv getestet wurde. Der Kontakt war recht nah, er dauerte beispielsweise mindestens zehn Minuten bei einer Entfernung von unter 1,5 Metern.
+ Wer solch eine rote Warnmeldung angezeigt bekommt, sollte umgehend Kontakte mit anderen Menschen vermeiden und seinem Hausarzt, den ärztlichen Bereitschaftsdienst 116 117 oder das Gesundheitsamt anrufen, um das weitere Vorgehen abzuklären. Die Entscheidung über eine Krankschreibung oder die Anordnung einer Quarantäne trifft der behandelnde Arzt oder das zuständige Gesundheitsamt nach einer entsprechenden eigenen Einschätzung.
+Wann habe ich Anspruch auf einen Corona-Test?
+ In der Testverordnung, die seit Mitte Oktober gilt, ist festgeschrieben, dass alle Nutzerinnen und Nutzer der App, die eine rote Warnmeldung erhalten haben, Anspruch auf einen kostenfreien Test haben. Allerdings räumte Bundesgesundheitsminister Jens Spahn im Bericht aus Berlin ein, dass das Gesundheitssystem häufig überlastet ist und daher oft nur testet, wenn man auch Symptome einer Covid-19-Erkrankung hat.
+ Wer hingegen eine grüne Warnmeldung angezeigt bekommt (Risiko-Begegnungen mit "niedrigem Risiko"), hat keinen Anspruch auf einen kostenlosen Test.
+Was bedeutet eine grüne Warnmeldung?
+ Wer eine Risiko-Begegnung mit "niedrigem Risiko" angezeigt bekommt, hat in den vergangenen 14 Tagen entfernten Kontakt zu einer Person gehabt, die mittlerweile ein positives Testergebnis in die App eingetragen hat. Die Ansteckungsgefahr wird vom Robert Koch-Institut (RKI) als Herausgeber der App jedoch als gering eingeschätzt. Dazu wendet das RKI einen komplizierten Berechnungsschlüssel an.
+ Begegnungen, die weniger als zehn Minuten gedauert haben, werden als unbedenklich eingestuft - egal, wie nahe sich die Smartphones dabei gekommen sind. Das gleiche gilt für Begegnungen, bei denen die Smartphones im Durchschnitt mehr als acht Meter voneinander entfernt waren - unabhängig davon, wie lange die Begegnung insgesamt dauerte.
+ Kompliziert wird es, wenn Begegnungen zwischen diesen klar definierten Bereichen stattfanden - wenn man beispielsweise im Bus 15 Minuten lang drei Meter von einer Person entfernt saß, die später positiv getestet wurde. Dann fließen noch weitere Faktoren in die Risikoberechnung mit ein, etwa wie viele Tage seit der Begegnung vergangen sind - entsprechend unterschiedlich ist die Infektiosität - oder ob es an einem Tag mehrere solcher entfernten Begegnungen mit positiv Getesteten gegeben hat.
+ Die App-Entwickler haben die genaue Risikoermittlung auf dem Online-Dienst "GitHub" veröffentlicht. Die Kriterien - etwa was Abstand oder Entfernung angeht - wurden "anhand von Erfahrungswerten unter Berücksichtigung der aktuell vorliegenden wissenschaftlichen Erkenntnisse" festgelegt. Auch dieses mathematischen Verfahren ist - auf englisch - einsehbar.
+
+Ich bekomme plötzlich viele Begegnungen angezeigt - was ist passiert?
+ Wenn von einem auf den anderen Tag viele Risiko-Begegnungen angezeigt werden, dann bezieht sich das höchstwahrscheinlich auf eine Person aus dem persönlichen Umfeld, der man in den vergangenen 14 Tagen mehrmals begegnet ist. Die App zeigt dann für jeden Tag, an dem die Person schon infiziert war, eine Risiko-Begegnung an.
+ Es ist sogar möglich, dass so Kontakte zu Nachbarn in einem Mehrfamilienhaus angezeigt werden, denen man tatsächlich gar nicht begegnet ist. Grund: Begegnungen werden durch Bluetooth-Signale bis zu einer Entfernung von maximal acht Metern registriert und angezeigt. Diese Signale gehen auch durch Wände und Glasscheiben.
+ Werden mehrere Begegnungen mit "erhöhtem Risiko" angezeigt, heißt das noch lange nicht, dass alle diese Begegnungen auch gefährlich waren. Es kann sein, dass nur eine einzige Begegnung die "rote Warnstufe" erreicht hat, alle anderen aber als ungefährlich (grüne Warnmeldung) eingestuft werden. Es ist jedoch ein Update geplant, welches "grüne" und "rote Begegnungen" getrennt aufführt.
+Was kann ich bei einer Fehlermeldung machen?
+ Es gibt, je nach Smartphone-Modell, mittlerweile viele unterschiedliche Fehlermeldungen. Die im Juli von tagesschau.de aufgedeckten Fehler bei der Hintergrundaktualisierung, die dazu führen konnten, dass man bei Kontaktbegegnungen nicht gewarnt wurde, sind mittlerweile weitestgehend behoben - wenn man die aktuelle App-Version und das neueste Betriebssystem installiert hat. Bei vielen Fehlermeldungen funktioniert die App weiterhin. Die häufigsten Fehlermeldungen haben die Entwickler hier aufgelistet - im Idealfall mit einer Anleitung, wie die Probleme behoben werden können.
+
+Ich habe einen Corona-Test gemacht. Wie bekomme ich das Ergebnis übermittelt?
+ Nutzerinnen und Nutzer der Corona-Warn-App können sich auch das eigene Testergebnis vom Labor digital übermitteln lassen. Das klappt aber oft noch nicht. So weisen Experten darauf hin, dass etliche Patienten bei den Corona-Tests im Auftragsformular vergessen, beim Datenschutz-Einverständnis das notwendige Häkchen zu setzen und die digitale Übermittlung zu gestatten.
+ Wer einen Test macht, erhält vom Arzt oder dem Labor einen QR-Code. Dieser muss mit der App gescannt werden, um dann das Testresultat übermittelt und angezeigt zu bekommen. Es kommt immer wieder vor, dass bei dem Test nicht - wie unbedingt notwendig - ein einzelnes Formular pro Patient generiert wird, sondern vorhandene Formulare fotokopiert werden, wodurch eine individuelle Benachrichtigung unmöglich gemacht wird. Daher sollte man als Betroffener bei einem Corona-Test unbedingt darauf achten, ein Unikat als Auftragsformular zu erhalten, und keine Kopie.
+ Auch wenn ein positives Testergebnis per App übermittelt wurde, muss es dennoch von der Nutzerin oder dem Nutzer der App aktiv zur anonymen Warnung anderer weitergeben werden. Dazu muss manuell mittels eines "Schiebeschalters" in der Anwendung das Ergebnis auf "positiv" geschaltet werden.
+ Bislang sind nach Angaben der Bundesregierung 152 niedergelassene Labore an die Corona-Warn-App angeschlossen. Das entspreche 90 Prozent der niedergelassenen Testkapazitäten. Im klinischen Bereich hapert es noch mit der Anbindung. Den Angaben zufolge sind elf Labore des Öffentlichen Gesundheitsdienstes und 15 Labore in Krankenhäusern angeschlossen.
+Wie viele Menschen nutzen die App?
+ Bislang wurde die App mehr als 22 Millionen Mal heruntergeladen. Im Schnitt werden nach Angaben der Bundesregierung derzeit pro Tag rund 2200 positive Testergebnisse in die App eingetragen. Insgesamt hätten mehr als 62.000 Nutzer, die positiv getestet worden seien, dies über die App auch anonym möglichen Kontaktpersonen mitgeteilt.
+ Allerdings haben die Entwickler auch festgestellt, dass rund 40 Prozent der App-Nutzerinnen und -Nutzer ihr positives Testergebnis nicht in die App eingeben und somit darauf verzichten, ihre Kontakte zu warnen. Denn ob ein positives Testergebnis geteilt wird oder nicht, entscheidet grundsätzlich jede Person für sich.
+Funktioniert die App auch im Ausland?
+ Mittlerweile können mehrere europäische Corona-Warn-Apps grenzüberschreitend miteinander kommunizieren und Warnungen austauschen. Aktuell funktioniert die deutsche Corona-Warn-App auch in diesen sechs Ländern: Irland, Italien, Spanien, Lettland, Ungarn und Dänemark. Am 23. November folgen Polen, Belgien, Slowenien und Litauen. Ab dem 30. November soll die App auch in den Niederlanden, Malta, Portugal, Finnland und Zypern funktionieren.
+ Diese Staaten setzen wie Deutschland auf das Konzept einer dezentralen Speicherung der anonymisierten Kontaktdaten auf den Smartphones selbst. Frankreich hingegen hat sich für eine zentrale Speicherung der Kontaktdaten entschieden und von dem technischen Konzept von Google und Apple abgegrenzt. Daher ist dort vorerst kein Kontaktaustausch möglich.
+
+Welche Updates sind noch geplant?
+ Bis zum Jahresende sind noch mehrere Updates geplant. Vor allem die Umstellung auf die Version 2 der gemeinsamen Schnittstelle von Apple und Google soll deutliche Verbesserungen bringen. Dadurch werde die Abstandsmessung und Warnung noch präziser, so die Entwickler.
+ Mit einem der nächsten Updates wird auch der Abgleich mit positiven Testergebnissen deutlich häufiger vorgenommen. Derzeit wird nur alle 24 Stunden überprüft, ob man in den vergangenen 14 Tagen Kontakt mit einer mittlerweile positiv getesteten Person hatte. Künftig soll dieser Abgleich mehrmals am Tag erfolgen. Darüber hinaus soll die Möglichkeit, ein Kontakt-Tagebuch zu führen, eingebaut werden.
+Wie funktioniert die Corona-Warn-App?
+ Die App erfasst, welche Smartphones einander nahe gekommen sind. Dazu tauschen die Geräte via Bluetooth zufällig erzeugte Krypto-Schlüssel aus. Diese Schlüssel werden in Abständen von 250 Millisekunden verschickt - also vier Mal pro Sekunde. Auf Basis der Signalstärke wird dabei die Entfernung geschätzt.
+ Wird ein Nutzer positiv auf Covid-19 getestet, kann er das Testergebnis freiwillig in der App teilen, damit Nutzer, die sich in seiner Nähe aufgehalten hatten, informiert werden. Alle 24 Stunden überprüft die App, ob man mit einer Person Kontakt hatte, die sich als infiziert in der App eingetragen hat.
+
+Wie sicher ist die App gegen Fehlalarme?
+ Da die Bluetooth-Technik nicht für das Messen von Abständen entwickelt wurde, gibt es auch Fehlalarme. Ein Problem bei der Technologie ist, dass die Smartphones nicht erkennen, wenn zwischen zwei Nutzern eine Wand oder Glasscheibe ist und sie sich gar nicht gegenseitig anstecken können.
+ Ebenso wird nicht erfasst, ob ein Mund-Nasen-Schutz getragen wurde. Oder ob Begegnungen im Freien oder in geschlossenen Räumen stattfanden, was bei der Übertragung durch Aerosole eine große Rolle spielt. Zudem findet der Austausch zwischen zwei Handys nur in Intervallen statt, die bis zu fünf Minuten auseinanderliegen können.
+ Daher verweisen selbst die Entwickler darauf, dass die App nur einen begrenzten Beitrag zur Normalisierung liefern kann. Sie ist keine Wunderwaffe. Wer sich und andere vor einer Infektion schützen will, sollte auch mit der App Abstand wahren und eine Maske tragen.
+Was geschieht mit den Daten?
+ Die App wertet keine Geo-Daten aus und übermittelt keine Ortsinformationen. Es erfolgt auch kein Versand und keine Speicherung von personenbezogenen Daten. Die anonymisierten Daten der Kontakte werden nicht zentral gespeichert, sondern dezentral auf dem jeweiligen Smartphone. Der Abgleich, ob man einer infizierten Person begegnet ist, geschieht lokal auf dem Mobiltelefon. "Es verlassen keine Daten zum Abgleich das Handy", so die Entwickler.
+
+Auf welchen Smartphones kann die App installiert werden?
+ Beim iPhone muss das Betriebssystem iOS 13.5 installiert sein. Das wird für Geräte ab dem iPhone 6s oder dem iPhone SE bereit gestellt. Ältere Modelle, wie das iPhone 5 oder 6, sind nicht mehr kompatibel. Die entsprechende Bluetooth-Funktion muss dann noch aktiviert werden. iPhone-Nutzer können die App hier im App-Store laden.
+ Bei Android-Handys ist die Lage etwas unübersichtlicher. Hier muss zum einen Bluetooth LE unterstützt werden. Das ist ab Android 6 der Fall - diese Version wurde Ende 2015 veröffentlicht.  Zum anderen müssen aber auch die Google Play Services laufen, weil der Konzern die Schnittstellen nicht über Android selbst zu Verfügung stellt, sondern über diese Google-Dienste. Besitzer von Android-Handys können die App hier im Google-Play-Store laden.
+
+ Huawei bietet die App auch ohne die eigentlich erforderlichen Google-Dienste auf seinen neuesten Android-Smartphones an. Als Folge des Handelsstreits zwischen den USA und China darf Google diese Dienste Huawei für die neusten Smartphone-Modelle nicht anbieten und setzt stattdessen auf eine Open-Source-Variante von Android ohne Google-Komponenten. Davon betroffen sind die Modelle Huawei Mate 30, Huawei P40 und Honor 30. Laut Huawei kann die App dank einer Aktualisierung der Version 4.1.0.301 von HMS Core genutzt werden.
+ Die App könne somit "auf mehr als 85 Prozent der in Deutschland vorhandenen Smartphones" laufen, sagte Regierungssprecher Steffen Seibert.
+Ich habe noch weitere Fragen - wo werden die beantwortet?
+ Weitere Fragen zur Corona-Warn-App, etwa wie sie sich auf die Akku-Laufzeit auswirkt, wer sie entwickelt und was das gekostet hat oder wie Datenschützer die App einschätzen, haben wir bereits hier beantwortet.
+ Die Bundesregierung erklärt auf ihrer Webseite die grundlegenden Funktionen der Corona-Warn-App. Und auch die Entwickler beantworten auf ihrer Webseite viele Fragen. Dort ist auch die Telefonnummer der Hotline angegeben, die bei technischen Fragen zur App weiterhilft.
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

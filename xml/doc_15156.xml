@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15156</uid>
+   <externalId>15156</externalId>
+   <documentDate>2020-11-06T14:35:03Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Corona-Maßnahmen]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[Warum es wichtig ist, wer entscheidet]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[inland]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/inland/corona-infektionsschutzgesetz-hintergrund-101.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Wer entscheidet eigentlich über die Corona-Beschränkungen? Sind es Bund und Länder - oder müssen auch die Parlamente mitreden können? Eine Analyse zu]]></value>
+        </field>
+        <field name="author">
+              <value><![CDATA[Frank Bräutigam, ARD-Rechtsexperte]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Wer entscheidet eigentlich über die Corona-Beschränkungen? Sind es Bund und Länder - oder müssen auch die Parlamente mitreden können? Eine Analyse zu den Knackpunkten im Infektionsschutzgesetz.
+Von Frank Bräutigam, ARD-Rechtsexperte
+ Noch nie hat ein Gesetz so rasant bundesweite Berühmtheit erlangt wie das Infektionsschutzgesetz in den vergangenen Monaten. Gleiches gilt für den Begriff der "Verordnung".
+ Im Vordergrund der Debatte rund um die Maßnahmen gegen Corona steht derzeit, was auf dieser Basis angeordnet wird, und wie stark diese Einschränkungen den Alltag der Menschen betreffen. Darum geht es derzeit auch in den vielen Eilentscheidungen der Gerichte. Ist das alles verhältnismäßig, oder vielleicht zu hart?
+ Diese Frage ist griffiger als ein zweiter wichtiger Punkt, der die rechtliche "Ebene dahinter" betrifft. Wer genau beschließt eigentlich all die Einschränkungen?
+
+Bund-Länder-Treffen nicht entscheidend
+ Schnell kommen einem die Treffen der Bundeskanzlerin mit den Ministerpräsidentinnen und -präsidenten der Bundesländer in den Sinn. Doch diese Runde selbst hat keine Entscheidungsbefugnisse. Sie kann höchstens koordinieren.
+ Aktuell debattiert der Bundestag über Änderungen des Infektionsschutzgesetzes. Seit Wochen ist die Forderung nach "mehr Beteiligung der Parlamente" auf dem Tisch. Die Frage, wer über die Corona-Einschränkungen entscheidet, ist keine bloße Formalität. Es geht vielmehr um Grundfragen im demokratischen Staat.
+ Denn die wesentlichen Fragen müssen laut Grundgesetz die Parlamente entscheiden, also die gewählten Volksvertreter. Wenn an diesem Prinzip auf Dauer gerüttelt würde, können die Gerichte eingreifen.
+
+Gesetz vom Bund, Länder setzen um
+ Der Ausgangspunkt ist erst einmal unproblematisch. Denn es gibt ja ein Gesetz des Bundestages. Das Infektionsschutzgesetz, das im Prinzip als rechtliche Grundlage geeignet ist. Dort steht drin: Die Bundesländer sind dafür zuständig, vor Ort die konkreten Maßnahmen zu treffen, das Gesetz also umzusetzen.
+ Diese Aufgabenverteilung - der Bund macht ein Gesetz, die Länder setzen es um - ist nach den Regeln des Grundgesetzes normales Geschäft. Sie hat bei allen Corona-Einschränkungen zur Folge, dass die Bundesregierung nicht selbst konkrete Maßnahmen wie eine Maskenpflicht oder ein Beherbergungsverbot beschließen kann. Auch nach den jeweiligen Beschlüssen mit der Kanzlerin waren die Ministerpräsidenten stets frei darin, sie eins zu eins umzusetzen oder zu verändern.
+Parlament muss zentrale Weichen stellen
+ Im Infektionsschutzgesetz steht außerdem, dass die Landesregierungen das Instrument der "Verordnung" nutzen dürfen. Doch an dieser Stelle kommt ein wichtiger Grundsatz ins Spiel: Die zentralen Weichen müssen in so einem Fall trotzdem vom Parlament gestellt werden.
+ Das zeigt ein Blick in Artikel 80 Grundgesetz. Der erlaubt zwar ausdrücklich, dass per Gesetz Landesregierungen ermächtigt werden können, Verordnungen zu erlassen. Zusätzlich heißt es dort aber wörtlich: "Dabei müssen Inhalt, Zweck und Ausmaß der erteilten Ermächtigung im Gesetze bestimmt werden". Das bedeutet: Die zentralen Punkte - also welche Einschränkungen möglich sind und wann - die muss das Gesetz selbst liefern, also der Bundestag.
+ Hinzu kommt ein allgemeiner Grundsatz, den das Bundesverfassungsgericht schon vor langer Zeit aufgestellt hat: Gerade wenn es um die starke Einschränkung von Grundrechten geht, müssen die wesentlichen Entscheidungen vom Parlament getroffen werden, und nicht von den Regierungen.
+
+Ist der entscheidende Paragraf zu schwammig?
+ An dieser Stelle kommt ein Paragraf ins Spiel, der inzwischen ebenfalls gewisse Berühmtheit erlangt hat: § 28 Infektionsschutzgesetz. Danach kann "die zuständige Behörde die notwendigen Schutzmaßnahmen" treffen, soweit und solange es erforderlich ist.
+ Es gibt zwar in anderen Paragrafen dieses Gesetzes auch Spezialregeln, etwa zur Quarantäne. Aber die meisten aktuellen Einschränkungen des täglichen Lebens wie Maskenpflicht oder Beherbergungsverbote werden gerade auf § 28 gestützt: "Notwendige Schutzmaßnahmen" - eine ziemlich allgemeine Formulierung. Das allein ist noch kein Problem, denn es gibt in vielen Gesetzen zur Gefahrenabwehr eine "Generalklausel", die Reaktionen auf neue Situationen ermöglichen soll.
+Mehrere Gerichte haben Zweifel
+ Die entscheidende Frage ist nun aber: Kann man auch die vermutlich massivsten Einschränkungen von Grundrechten in der Geschichte der Bundesrepublik auf so eine allgemein gefasste gesetzliche Grundlage stützen? Und falls das vielleicht zu Beginn der Pandemie wegen der diffusen Lage möglich war, geht das auch noch viele Monate später?
+ Diese Zweifel sind in den vergangenen Wochen gewachsen - bei vielen Juristen und in der Politik, zuletzt auch bei mehreren Gerichten. Die Verwaltungsgerichte von Bayern und Baden-Württemberg haben zum Beispiel in aktuellen Eilentscheidungen zwar konkrete Einschränkungen gebilligt, aber gleichzeitig angekündigt, im später folgenden Hauptsacheverfahren die Frage der gesetzlichen Grundlage genau zu prüfen.
+ Am Ende wird das Bundesverfassungsgericht diese zentrale Frage klären müssen. Weil so eine Grundsatzentscheidung dauern wird, wirken die geäußerten Zweifel aber wie eine Art Damoklesschwert über den vielen Corona-Verordnungen. Genau deshalb versucht der Bundestag nun, das Problem vorher zu lösen.
+
+Einschränkungen konkreter regeln
+ Im Kern geht es dabei darum, die zulässigen Maßnahmen von der Maskenpflicht bis hin zu Betriebsschließungen genauer zu benennen. Ob der aktuelle Gesetzesvorschlag von SPD und Union da schon die beste Lösung bietet, darüber lohnt sich eine Debatte: zum Beispiel über die Frage, ob im Gesetzentwurf genau genug festgelegt ist, unter welchen Voraussetzungen der Staat welche Maßnahme ergreifen darf.
+ Auch nach einer Überarbeitung des Infektionsschutzgesetzes wird der Bundestag weiterhin nicht selbst über jede Maßnahme vor Ort entscheiden, sondern die Bundesländer, auch mit Verordnungen. Das Parlament kann aber mit Änderungen die Weichen dafür konkreter stellen.
+
+Länderparlamente können mitwirken
+ Und was ist mit den Parlamenten der Bundesländer, also den Landtagen? Könnten die nicht über einzelne Corona-Maßnahmen entscheiden, anstelle der Landesregierungen und ihren Verordnungen? Ja, das wäre möglich. Art. 80 Absatz 4 des Grundgesetzes sagt ausdrücklich: Die Bundesländer müssen nicht per Verordnung der Landesregierung entscheiden.
+ Möglich ist auch ein Gesetz durch den Landtag. Für diesen Weg müsste sich dann eine Mehrheit im jeweiligen Landesparlament finden.
+ Eine Art Mittelweg hat zum Beispiel das Land Baden-Württemberg gewählt. Im Vorfeld befasst sich ein Ausschuss des Landtags mit den Verordnungen. Und wenn eine Verordnung länger als drei Monate gilt, muss der Landtag ihr zustimmen, sonst tritt sie vier Wochen später außer Kraft. Debatten und Diskussion über die Verordnungen sind natürlich in allen Landesparlamenten zu jeder Zeit möglich.
+
+
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

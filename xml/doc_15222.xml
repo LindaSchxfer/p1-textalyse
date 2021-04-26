@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15222</uid>
+   <externalId>15222</externalId>
+   <documentDate>2020-11-16T13:26:55Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Johnson in Corona-Isolation]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA["Bin fit wie ein Metzgershund"]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[ausland]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/ausland/johnson-corona-113.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Der britische Premierminister Johnson ist wieder in Corona-Quarantäne. Die Isolation kommt ausgerechnet in der Woche mit den wohl entscheidenden Brexit-Gesprächen.]]></value>
+        </field>
+        <field name="author">
+              <value><![CDATA[Thomas Spickhofen, ARD-Studio London]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Der britische Premierminister Johnson ist wieder in Corona-Quarantäne. Die Isolation kommt ausgerechnet in der Woche mit den wohl entscheidenden Brexit-Gesprächen. 
+Von Thomas Spickhofen, ARD-Studio London
+ Boris Johnson gibt sich kraftvoll wie immer. Er sei "fit wie ein Metzgershund", sagt der britische Regierungschef, er fühle sich großartig. Leider spiele es keine Rolle, dass er schon mal an dem Virus erkrankt war und jetzt "berste" vor lauter Antikörpern.
+
+
+
+
+ Seit gestern Abend befindet sich der Premierminister wieder in der Selbstisolation, zum zweiten Mal nach seiner schweren Covid-Erkrankung im April. Am vergangenen Donnerstag hatte sich Johnson mit einem Abgeordneten getroffen, der später positiv auf Corona getestet wurde. Damit müssen alle, mit denen dieser Abgeordnete in Kontakt war, ebenfalls in die Selbstisolation.
+"Nicht auf die leichte Schulter nehmen"
+ "So sind die Regeln, und ich bin froh, dass sich auch der Regierungschef daran hält", sagt Professor Danny Altmann vom Imperial College. Selbst wenn man Antikörper habe, dürfe man das nicht auf die leichte Schulter nehmen, sagt Altmann. Johnson habe keine Symptome, heißt es aus 10 Downing Street, aber es ist nicht auszuschließen, dass er das Virus weiterverbreitet, erklärt Altmann. Das sei das verheerende an diesem Virus, dass man es verbreite, bevor es einen selbst erwische.
+
+Brexit-Verhandlungen steuern auf Ende zu
+ Dabei warten auf Johnson in den nächsten Tagen wichtige Entscheidungen. Zwei seiner engsten Mitarbeiter hat er Ende vergangener Woche gefeuert: den Kommunikationschef Lee Cain und Chefberater Dominic Cummings - beide enge Weggefährten beim Brexit. Mitten in der Corona-Krise muss Johnson nun also die Regierungszentrale umbauen, und außerdem steuern die Brexit-Verhandlungen mit der EU auf ihr Ende zu.
+
+"Ganz schlechter Zeitpunkt"
+ Dass er ausgerechnet jetzt wieder in Selbstisolation gehen muss, werde ihn selbst am meisten nerven, glaubt die Journalistin Sonja Purnell: "Brexit ist sein großes Projekt. Jetzt physisch nicht präsent sein zu können, ob nun in Gesprächen mit Brüssel oder seinen Leuten in den eigenen Reihen, das ist wirklich schlimm. Das ist ein ganz schlechter Zeitpunkt."
+ Spätestens bis Anfang kommender Woche, sagen Insider, müsse bei den Brexit-Verhandlungen eine Entscheidung fallen - so oder so, Deal oder kein Deal. 
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15241</uid>
+   <externalId>15241</externalId>
+   <documentDate>2020-11-18T11:20:27Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Corona-Pandemie in Deutschland]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[17.561 neue Fälle - nur leichter Rückgang]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[inland]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/inland/rki-zahlen-351.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Die Gesundheitsämter haben dem RKI 17.561 Positivtests übermittelt. Das sind weniger Corona-Fälle als noch vor einer Woche - allerdings ist der Rückgang nur leicht. Die Zahl der Toten ist erneut gestiegen: auf 305 binnen 24 Stunden.]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Die Gesundheitsämter haben dem RKI 17.561 Positivtests übermittelt. Das sind weniger Corona-Fälle als noch vor einer Woche - allerdings ist der Rückgang nur leicht. Die Zahl der Toten ist erneut gestiegen: auf 305 binnen 24 Stunden.
+ Die Zahl der Corona-Neuinfektionen in Deutschland sinkt nach Angaben des Robert Koch-Instituts (RKI) im Vergleich zur Vorwoche - aber nur leicht. Das RKI meldete 17.561 übermittelte Positivtests binnen 24 Stunden. Das sind knapp 1000 Fälle weniger als vor einer Woche, wie aus RKI-Angaben hervorgeht. Am vergangenen Mittwoch hatte die Zahl gemeldeter Neuinfektionen bei 18.487 gelegen. Auch am Montag und Dienstag war der Wert niedriger als der Vorwochenwert.
+ Der Höchststand war am vergangenen Freitag mit 23.542 gemeldeten Fällen binnen eines Tages erreicht worden.
+
+Bis 13.119 Tote in Deutschland
+ Die Zahl der Corona-Toten ist erneut gestiegen, auf 305 innerhalb eines Tages. Damit haben sich insgesamt 833.307 Menschen in Deutschland nachweislich infiziert, 13.119 Menschen sind an oder mit dem Virus gestorben.
+ Die Werte für die Zahl der Intensivpatienten und der Todesfälle verändern sich zeitversetzt zur Zahl der Neuinfektionen, weil schwere Krankheitsverläufe meist erst zwei bis vier Wochen nach der Ansteckung auftreten. Als genesen gelten rund 546.500 Menschen.
+ Auch die sogenannte Sieben-Tages-Inzidenz ist dem RKI zufolge erneut gesunken. Danach haben sich in Deutschland in den vergangenen sieben Tagen durchschnittlich durch alle Kreise 138,9 Personen pro 100.000 Einwohner neu angesteckt. Dies ist der dritte Rückgang in Folge. Seit dem 30. Oktober lag der Wert jeweils über 100.
+
+Ziel: Sieben-Tages-Inzidenz unter 50 drücken
+ Der neue Wert ist aber weiter weit von der Zielmarke von Bund und Ländern entfernt. Sie wollen die Sieben-Tages-Inzidenz wieder unter die Schwelle von 50 drücken. Nur dann sei eine Nachverfolgung der Infektionsketten durch die Gesundheitsämter möglich, argumentieren Bundeskanzlerin Angela Merkel und die 16 Ministerpräsidenten. Sollte der Wert bis zum 25. November nicht deutlich Richtung 50 sinken, sollen weitere Corona-Maßnahmen verhängt werden.
+
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

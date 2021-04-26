@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15224</uid>
+   <externalId>15224</externalId>
+   <documentDate>2020-11-16T13:50:43Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Positive Zwischenergebnisse]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[Auch Moderna meldet Impfstoff-Erfolg]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[ausland]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/ausland/moderna-impfstoff-101.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Nach Biontech hat auch der US-Konzern Moderna Erfolge bei einem möglichen Corona-Impfstoff gemeldet: Zwischenergebnisse zeigten eine Wirksamkeit von 94,5 Prozent, erklärte er. Die EU verhandelt nach eigenen Angaben bereits.]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Nach Biontech hat auch der US-Konzern Moderna Erfolge bei einem möglichen Corona-Impfstoff gemeldet: Zwischenergebnisse zeigten eine Wirksamkeit von 94,5 Prozent, erklärte er. Die EU verhandelt nach eigenen Angaben bereits.
+ Im Rennen um einen Corona-Impfstoff hat ein weiteres Forschungsprojekt eine hohe Wirksamkeit gemeldet. Der Impfstoff des US-Konzerns Moderna zeige in einer Zwischenanalyse eine Effektivität von 94,5 Prozent, hieß es in einer Mitteilung des Pharmaunternehmens. Dies hätten Tests an 30.000 Menschen in der sogenannten Phase III der klinischen Prüfung ergeben.
+ Damit ist Moderna der zweite große US-Pharmakonzern innerhalb einer Woche, der positive Daten aus der zulassungsrelevanten Studie mit einem möglichen Corona-Impfstoff vorlegt. Am vergangenen Montag hatten die Mainzer Pharmafirma Biontech und ihr US-Partner Pfizer mitgeteilt, dass ihr Vakzin nach vorläufigen Ergebnissen einen mehr als 90-prozentigen Schutz vor Covid-19 biete.
+
+Verhandlungen mit EU-Kommission
+ Moderna will in den kommenden Wochen eine Notfallzulassung bei der US-Arzneimittelagentur FDA beantragen. Auch Anträge bei Zulassungsbehörden anderer Länder seien geplant. Die EU-Kommission verhandelt derzeit nach eigenen Angaben mit dem Unternehmen über die Lieferung von bis zu 160 Millionen Impfdosen. Ein Vertrag ist aber noch nicht geschlossen.
+ Der renommierte US-Immunologe und Corona-Experte Anthony Fauci reagierte begeistert auf die Daten des Konzerns. "Das sind offensichtlich sehr aufregende Ergebnisse", sagte er nach Angaben des Senders CNN. "Besser wird es nicht - 94,5 Prozent sind wirklich hervorragend." Faucis Einschätzung zufolge könnten die ersten Impfungen in den USA im Dezember bei Hochrisikogruppen beginnen, der breite Rest der Bevölkerung könnte eher ab Ende April dran sein. "Und das wird in den Mai, Juni und Juli hineingehen. Das wird ein paar Monate dauern."
+Trump: Große Entdeckungen unter meiner Aufsicht
+ US-Präsident Donald Trump schrieb auf Twitter: Historiker sollten sich daran erinnern, dass diese großartigen Entdeckungen bei Impfstoffen "alle unter meiner Aufsicht gemacht wurden." Die US-Regierung hat eine Reihe von Pharmaunternehmen, unter anderem Moderna, mit Milliardenzahlungen und einem Sonderprogramm bei der Entwicklung von Vakzinen unterstützt.
+ Der gewählte US-Präsident Joe Biden, der das Amt im Januar antreten soll, begrüßte die Fortschritte. Er mahnte aber zugleich zur Vorsicht. "Die heutige Nachricht zu einem zweiten Impfstoff ist ein weiterer Grund, um hoffnungsvoll zu sein", schrieb er auf Twitter. Die Verantwortlichen lobte er für den "Durchbruch". Allerdings sei man noch Monate davon entfernt, dass weite Teile der Bevölkerung geimpft werden könnten. Bis dahin müssten die Menschen Abstand halten und Masken tragen.
+
+Neuartige RNA-Impfstoffe
+ Sowohl das Präparat von Biontech und Pfizer als auch das von Moderna sind sogenannte RNA-Impfstoffe. Durch diese neuartige Technologie enthält das Präparat genetische Informationen des Erregers. Dieser muss aber nicht selbst geimpft werden, wie das bisher bei Tot- und Lebendimpfstoffen der Fall ist.
+ In den klinischen Studien zum Moderna-Präparat erhielt die Hälfte der 30.000 Probanden den Impfstoff, die andere Hälfte fungiert als Kontrollgruppe und bekam ein Placebo-Mittel. Insgesamt erkrankten bislang 95 Studienteilnehmer an der Krankheit Covid-19. Davon entfielen nur fünf Fälle auf die tatsächlich geimpften Probanden, 90 Fälle wurden in der Kontrollgruppe diagnostiziert. Daraus errechnet sich eine Wirksamkeit von 94,5 Prozent. Dabei geht es darum, inwieweit der Impfstoff die Krankheit verhindern kann. Daten, zu welchem Grad der Impfstoff eine Ansteckung verhindert, gibt es bislang nicht.
+Wissenschaftler optimistisch
+ Mehrere Wissenschaftler betonten in ersten Stellungnahmen die Ähnlichkeit des Moderna-Impfstoffes zu dem von Pfizer und Biontech. Gerd Fätkenheuer, Leiter der Infektiologie an der Uniklinik Köln, sprach von "fast identischen Ergebnissen" und einem starken Indiz, dass die neue Technologie der RNA-Impfstoffe tatsächlich gegen den Corona-Erreger funktioniere. "Wenn man nach den Ergebnissen von Biontech große Hoffnung in die Wirksamkeit der Impfstoffe setzen konnte, so ist diese Hoffnung jetzt noch ein deutliches Stück größer geworden."
+ Florian Krammer, Professor im Bereich Impfungen an der Icahn School of Medicine am Mount Sinai Hospital in New York, schätzt das Risiko des Impfstoffes nach den ersten Daten als niedrig ein. "Es gibt transiente, also vorübergehende Nebenwirkungen wie erhöhte Temperatur, Müdigkeit, Kopfweh und Schmerzen an der Einstichstelle, die unangenehm, aber ungefährlich sind", sagte er. Ernstzunehmende Nebenwirkungen seien bisher weder in der Pfizer- noch in der Moderna-Studie aufgetreten.
+ Experten betonen allerdings, dass bei Moderna - wie auch im Falle von Biontech und Pfizer - lediglich Ergebnisse einer vorläufigen Analyse seitens des unabhängigen Expertengremiums vorliegen und noch keine wissenschaftliche Publikation.
+
+Moderna: Weniger Aufwand bei Lagerung
+ Moderna will nach eigenen Angaben bis Ende des Jahres bereit sein, im Falle einer Zulassung rund 20 Millionen Impf-Dosen in die USA zu liefern. Im kommenden Jahr sollen bis zu eine Milliarde Dosen hergestellt werden. Biontech und Pfizer rechnen damit, bis Ende dieses Jahres 50 Millionen Impfdosen zur Verfügung zu haben.
+ Die Verteilung der Impfungen ist vor allem auch wegen der heiklen Lagerung schwierig. Je kälter ein Impfstoff gelagert werden muss, desto höher sind die logistischen Anforderungen. Die Dosen von Pfizer und Biontech sollen bei rund minus 70 Grad gelagert werden. Moderna teilte nun mit, dass die eigenen Präparate nach dem Auftauen länger in normalen Kühlschränken haltbar seien als bisher gedacht, nämlich bis zu 30 Tage.
+EMA setzt Prüfverfahren in Gang
+ Die europäische Arzneimittelbehörde EMA setzte das Prüfverfahren für Moderna Biotech in Spanien, einen Ableger des US-Unternehmens, bereits in Gang. Der wissenschaftliche Ausschuss CHMP der EMA habe nach ersten vielversprechenden Ergebnissen aus Studien grünes Licht für das sogenannte Rolling-Review-Verfahren gegeben, teilte die Behörde mit.
+ Bei diesem beschleunigten Zulassungsverfahren können Pharmafirmen ihre Impfstoff-Kandidaten in einer Art Vorverfahren zur Zulassung noch während der Phase der klinischen Studien bei der EMA melden. Die Daten aus laufenden Studien werden dann fortlaufend eingereicht und von der EMA bewertet.
+
+
+
+
+
+
+
+
+
+
+
+
+Ihre Meinung - meta.tagesschau.de
+
+
+
+
+138 Kommentare zur Meldung. Kommentierung der Meldung beendet.
+
+
+Alle Kommentare zur Meldung anzeigen.
+
+
+
+Geo-Schlagwörter der Meldung: Washington D.C.  USA  Nordamerika
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

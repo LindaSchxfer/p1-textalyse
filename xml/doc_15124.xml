@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15124</uid>
+   <externalId>15124</externalId>
+   <documentDate>2020-11-01T02:01:18Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Corona-Nachwirkungen]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[Noch lange nicht gesund]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[inland]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/inland/notfallambulanz-101.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Wer in die Nachsorgeambulanz des Universitätsklinikums Freiburg kommt, hat das Coronavirus besiegt. Doch der Kampf gegen die Folgen der Erkrankung beginnt damit für viele Patienten erst. Ein Besuch.]]></value>
+        </field>
+        <field name="author">
+              <value><![CDATA[Tim Diekmann, SWR]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Wer in die Nachsorgeambulanz des Universitätsklinikums Freiburg kommt, hat das Coronavirus besiegt. Doch der Kampf gegen die Folgen der Erkrankung beginnt damit für viele Patienten erst. Ein Besuch.
+Von Tim Diekmann, SWR 
+ Eigentlich dachte Rolf Sutter, noch einmal glimpflich davon gekommen zu sein. Denn die Corona-Infektion, an der Sutter im Frühjahr erkrankte, hätte für ihn schnell tödlich enden können. Sutter ist das, was man einen Risikopatienten nennt: In seiner Brust schlägt seit Ende des vergangenen Jahres ein neues Herz.
+ Die Transplantation glückte, doch kurz vor seiner Entlassung im März wurde bei ihm das Coronavirus nachgewiesen. "Symptome hatte ich keine, es war ein Zufallsfund", erinnert sich Sutter.
+ Statt nach Hause zu können, musste Sutter weiter im Krankenhaus bleiben. 45 Tage auf der Infektionsstation. Dann sollte alles besser werden. Doch manche Corona-Nachwirkungen wollen einfach nicht verschwinden: "Ich habe eine Konzentrationsschwäche, und beim Einatmen zieht es an der Bauchzone."
+ Andere Beschwerden kamen erst mit der Zeit dazu, Monate nach der Infektion. Die starke Müdigkeit zum Beispiel, gegen die Schlaf kaum hilft.
+Viele Erkrankte leiden unter Langzeitfolgen
+ Der Leiter der Infektiologie am Universitätsklinikum Freiburg, Winfried Kern, kennt Corona-Langzeitfolgen wie diese. Täglich behandeln er und sein Ärzteteam vier bis fünf Patienten, die zwar offiziell als genesen gelten, aber noch immer unter den Folgen leiden. "Viele Patienten kommen zu uns, weil sie noch nicht so fit sind wie vor der Erkrankung. Oft wird von Luftnot, Hustenreiz und dem Gefühl berichtet, dass die Lunge wund sei", erzählt Kern.
+ Weil es immer mehr Patienten mit Langzeitfolgen gibt, hat der Mediziner eine Corona-Nachsorgeambulanz eröffnet. "Wir wollen die Langzeitfolgen einer Covid-19-Erkrankung verstehen und herausfinden, ob es sich um echte Langzeitschäden handelt oder um eine verzögerte Heilungsphase." Diese kenne man, so Kern, durchaus von anderen Virusinfektionen.
+ Im Wartezimmer der Nachsorgeambulanz sitzt nun auch der herztransplantierte Sutter. Er ist nicht allein. Eine Frau erzählt, dass sie noch immer nicht alles schmecken und riechen könne. Wer hier sitzt, hat den Kampf gegen das Virus zwar gewonnen. Die Frage ist nur, zu welchem Preis?
+
+Forschungsnetzwerk sammelt Daten
+ Die Forschung befindet sich noch am Anfang. Bis heute ist nur wenig über Nachwirkungen einer Coronainfektion bekannt. Weil es gemeinsam schneller geht, haben sich die Universitätskliniken in Deutschland zu einem Forschungsnetzwerk zusammengefunden. Im sogenannten Netzwerk Universitätsmedizin suchen die Kliniken gemeinsam nach Ursachen und Therapieansätzen für Langzeitschäden. Gefördert wird das Projekt vom Bundesministerium für Bildung und Forschung.
+ In Freiburg sollen etwa systematische Blutuntersuchungen den Medizinern beim Verstehen der Spätfolgen helfen. Auch Bilder der Lunge würden analysiert, sagt Infektiologe Kern. Dort könne man bei manchen Patienten narbige Veränderungen beobachten.
+ "Je kritischer die aktive Covid-19-Erkrankung war, je länger die Patienten beatmet wurden, umso mehr stehen diese Schäden auch im Vordergrund", fasst der Leiter der Infektiologie die ersten Untersuchungsergebnisse zusammen.
+ Nun gelte es herauszufinden, ob die beobachteten Langzeitfolgen Covid-19-spezifisch sind oder ob es sich um Folgen handelt, "wie bei jeder anderen Lungenentzündung". Mit ersten gesicherten Erkenntnissen rechnet der Mediziner in zwei bis drei Jahren.
+ Auch Sutter hat inzwischen sein Blut in der Corona-Nachsorgeambulanz in Freiburg abgegeben. Jetzt wartet er auf erste Ergebnisse und hofft, dass seine Atemprobleme und die Müdigkeit bald vorbei sein werden. Das Wichtigste ist für ihn aber, dass sein neues Herz die Corona-Infektion gut überstanden hat.
+
+ 
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

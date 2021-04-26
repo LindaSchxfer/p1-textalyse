@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15125</uid>
+   <externalId>15125</externalId>
+   <documentDate>2020-11-01T09:05:53Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Protest gegen Corona-Regeln]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[Erneut Randale in Italien und Spanien]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[ausland]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/ausland/coronavirus-proteste-spanien-italien-101.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Wieder flogen Flaschen und Steine und die Polizei schritt ein: In Italien und Spanien gab es erneut Ausschreitungen bei Demonstrationen gegen die Corona-Maßnahmen. In Italien mischen Rechtsextreme bei den Protesten mit.]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Wieder flogen Flaschen und Steine und die Polizei schritt ein: In Italien und Spanien gab es erneut Ausschreitungen bei Demonstrationen gegen die Corona-Maßnahmen. In Italien mischen Rechtsextreme bei den Protesten mit.
+ Sowohl in Italien als auch in Spanien hat es erneut gewaltsame Proteste gegen die Corona-Beschränkungen gegeben. In der italienischen Hauptstadt Rom versammelten sich am Samstagabend mehrere hundert Menschen auf dem zentralen Campo de´ Fiori im Stadtzentrum. Weil einige Demonstranten mit Flaschen und Feuerwerkskörpern warfen, löste die Polizei die Demonstration mit Schlagstöcken auf. Auch eine zweite Protestaktion in der Stadt endete mit Zusammenstößen zwischen Demonstranten und der Polizei.
+
+Sanchez ruft zu Vernunft auf
+ Im spanischen Barcelona wurde mit Steinen und anderen Geschossen auf Polizisten geworfen. In der im Norden gelegenen Stadt Logroño griffen etwa 150 Menschen die Sicherheitskräfte mit Steinen an, setzten Container in Brand und plünderten Geschäfte, wie die Polizei berichtete. In Haro im Weinanbaugebiet La Rioja musste die Bereitschaftspolizei einschreiten, um die Unruhen einzudämmen.
+ Der spanische Ministerpräsident Pedro Sanchez kritisierte die gewaltsamen Proteste. "Nur mit Verantwortung, Einheit und Opferbereitschaft werden wir die Pandemie besiegen können", twitterte der sozialistische Regierungschef. "Gewalttätiges und irrationales Verhalten von einigen wenigen ist nicht hinnehmbar. Das ist nicht der richtige Weg."
+
+
+
+
+Rechtsextreme und Hooligans mischen mit
+ Bereits am Freitag hatte es in beiden Ländern Ausschreitungen und Zusammenstöße wegen der Corona-Maßnahmen gegeben. Laut der italienischen Innenministerin Luciana Lamorgese seien daran wie auch schon an den Tagen zuvor Hooligans und Rechtsextreme beteiligt gewesen, die "berechtigte Demonstrationen" für ihre Zwecke nutzen wollten.
+ In Italien mussten alle Kinos, Theater, Sportstudios und Schwimmbäder schließen, Restaurants und Bars dürfen nur noch bis 18.00 Uhr öffnen. In der südlichen Region Kampanien bleiben bis Mitte November auch Schulen geschlossen. Um die rasante Ausbreitung des Coronavirus einzudämmen, erwägt die Regierung von Ministerpräsident Giuseppe Conte Medienberichten zufolge inzwischen auch einen Lockdown in Großstädten wie Mailand und Neapel.
+ In Spanien, das zu den am schwersten von der Corona-Pandemie betroffenen Ländern gehört, hat die Regierung einen landesweiten Ausnahmezustand verhängt, der bis Anfang Mai gelten soll. Dazu gehören Ausgangssperren und die Einschränkung von Reisen.
+
+
+
+
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

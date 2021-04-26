@@ -1,3 +1,4 @@
+
 function loadDoc() {
   var xhttp = new XMLHttpRequest();
   xhttp.onreadystatechange = function () {
@@ -40,14 +41,15 @@ function loadProjects() {
   xhttp.send();
 }
 
-function loadAnnotation() {
+function loadAnnotation(id) {
   var xhttp = new XMLHttpRequest();
   xhttp.onreadystatechange = function () {
     if (this.readyState == 4 && this.status == 200) {
       document.getElementById("content").innerHTML = xhttp.responseText;
     }
   };
-
+  localStorage.setItem("selectedArticle", JSON.stringify(data[id]));
+  setTimeout(function(){loadAnnotationPage()}, 200);
   xhttp.open("GET", "annotation", true);
   xhttp.send();
 }

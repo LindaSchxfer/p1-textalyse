@@ -1,5 +1,5 @@
 <!-- Seitenname mit Hintergrundbild -->
-<div class="pageName">Annotation</div>
+<div class="pageName" onload="loadAnnotationPage()">Annotation</div>
 
     <!--Annotation-->
     <div class="annotation">
@@ -8,7 +8,7 @@
           <hr>
   
               <div class="radio-wrapper">
-              <input type="radio" id="radio1" name="radio" checked value="0"><div id="grün"></div> 
+              <input type="radio" id="radioGreen" name="radio" checked value="0"><div id="green" class="round"></div> 
               </div>
               <label for="radio1">Bedeutung der Farbe grün:  <input type="text" id="bedeutung"></label>
               
@@ -16,7 +16,7 @@
               <hr>
   
               <div class="radio-wrapper">
-              <input type="radio" id="radio1" name="radio" value="1"><div id="blau"></div>
+              <input type="radio" id="radioBlue" name="radio" value="1"><div id="blue" class="round"></div>
               </div>
               <label for="radio1">Bedeutung der Farbe blau:<input type="text" id="bedeutung"></label>
   
@@ -24,21 +24,21 @@
               
   
               <div class="radio-wrapper">
-              <input type="radio" id="radio1" name="radio" value="2"><div id="rot"></div>
+              <input type="radio" id="radioRed" name="radio" value="2"><div id="red" class="round"></div>
               </div>
               <label for="radio1">Bedeutung der Farbe rot:<input type="text" id="bedeutung"></label>
   
               <hr>
   
               <div class="radio-wrapper">
-              <input type="radio" id="radio1" name="radio" value="3"><div id="gelb"></div>
+              <input type="radio" id="radioPink" name="radio" value="3"><div id="pink" class="round"></div>
               </div>
-              <label for="radio1">Bedeutung der Farbe gelb:<input type="text" id="bedeutung"></label>
+              <label for="radio1">Bedeutung der Farbe pink:<input type="text" id="bedeutung"></label>
   
               <hr>
   
               <div class="radio-wrapper">
-              <input type="radio" id="radio1" name="radio" value="4"><div id="lila"></div>
+              <input type="radio" id="radioPurple" name="radio" value="4"><div id="purple" class="round"></div>
               </div>
               <label for="radio1">Bedeutung der Farbe lila:<input type="text" id="bedeutung"></label>
   
@@ -46,5 +46,6 @@
   
   <div class="artikel">
       <h2>Artikel zum Annotieren</h2>  
+      <div id="article-content"></div>
   </div>
   </div>

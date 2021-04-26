@@ -61,5 +61,5 @@ function generateElement(el, i) {
   if (i % 2 == 0) {
     color = "";
   }
-  return `<div class="projects-table-row ${color}"><p>${el.vortitel}</p><p>${el.titel}</p><p>${el.rubrik}</p><p>${el.publisher}</p></div>`;
+  return `<div class="projects-table-row ${color}" onclick="loadAnnotation(${i});"><p>${el.vortitel}</p><p>${el.titel}</p><p>${el.rubrik}</p><p>${el.publisher}</p></div>`;
 }

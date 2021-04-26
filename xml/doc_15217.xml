@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15217</uid>
+   <externalId>15217</externalId>
+   <documentDate>2020-11-16T08:00:00Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Karten mit Fallzahlen]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[Wo sich das Coronavirus ausbreitet]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[ausland]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/ausland/coronavirus-karten-101.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Wie viele bestätigte Coronavirus-Fälle gibt es? Die interaktiven Karten geben einen aktuellen Überblick für Deutschland und die Welt. Sie zeigen auch an, wie viele Menschen gestorben und wie viele genesen sind.]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Wie viele bestätigte Coronavirus-Fälle gibt es? Die interaktiven Karten geben einen aktuellen Überblick für Deutschland und die Welt. Sie zeigen auch an, wie viele Menschen gestorben und wie viele genesen sind.
+Karte mit Coronavirus-Infektionen in Deutschland
+
+ Hinweis: Die Zahlen der Coronavirus-Karte für Deutschland basieren auf den Angaben des Robert Koch-Instituts, die einmal pro Tag mit Datenstand 24.00 Uhr des vorangegangenen Tages veröffentlicht werden.
+Karte mit Coronavirus-Infektionen weltweit
+
+Karten zum Verlauf der Pandemie weltweit
+
+ Hinweis: Die Zahlen der Coronavirus-Karte für alle Länder weltweit basiert auf den Angaben der Johns Hopkins University. Durch die verschiedenen Quellen und Aktualisierungszeitpunkte kann es für die Fallzahlen in Deutschland zu Abweichungen von den Zahlen des Robert Koch-Instituts kommen.
+Weltweite Fallzahlen im Überblick
+
+
+
+
+
+
+ Hinweis: Die tabellarische Darstellung wird täglich zwischen 7 Uhr und 8 Uhr mit den Zahlen des vergangenen Tages aktualisiert. Die Zahlen für alle Länder weltweit basieren auf den Angaben der Johns Hopkins University.
+
+Wieso gibt es unterschiedliche Angaben?
+ Die Angaben der Johns Hopkins Universität und die Zahlen vom Robert Koch-Institut unterscheiden sich oft. Deswegen sind sie aber nicht falsch. Entscheidend ist, wann welche Zahlen gemeldet und wie sie ermittelt werden.
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

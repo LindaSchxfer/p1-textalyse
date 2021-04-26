@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15244</uid>
+   <externalId>15244</externalId>
+   <documentDate>2020-11-18T17:00:44Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Corona-Schnelltests]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[Lückenhafte Qualitätskontrolle]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[investigativ]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/investigativ/br-recherche/corona-schnelltests-101.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Antigen-Schnelltests gelten als Hoffnung im Kampf gegen die Corona-Pandemie und sollen ein Stück Normalität ermöglichen. Doch]]></value>
+        </field>
+        <field name="author">
+              <value><![CDATA[Till Rüger, Ann-Kathrin Wetter und Maximilian Zierer, BR]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Antigen-Schnelltests gelten als Hoffnung im Kampf gegen die Corona-Pandemie und sollen ein Stück Normalität ermöglichen. Doch BR-Recherchen zeigen nun: Unabhängige Überprüfungen der Leistungsfähigkeit gibt es bisher kaum.
+Von Till Rüger, Ann-Kathrin Wetter und Maximilian Zierer, BR
+ Ob beim Besuch im Altenheim, vor dem Abflug vom Airport oder dem Anpfiff des Bundesliga-Spiels: Antigen-Schnelltests versprechen schnelle Gewissheit über die Frage: Corona-positiv oder nicht. Seit Mitte Oktober sind sie mit der Testverordnung sogar Teil der Nationalen Teststrategie. Dafür listet das Bundesinstitut für Arzneimittel und Medizinprodukte (BfArM) mehr als 200 dieser Schnelltests auf seiner Webseite auf.
+Immer mehr Anbieter drängen auf den Markt
+ Auf der Liste fallen neben Herstellern und Importeuren mit langjähriger Erfahrung mit Medizinprodukten auch neue sowie viele fachfremde auf. Ein Unternehmen, gegründet in der vergangenen Woche, firmiert in bester Adresse am Münchner Odeonsplatz. Ein anderes bietet sonst Tankwagen- und Containerreinigung an, ein weiteres vertreibt Werbeprodukte wie Glückskekse oder bedruckte Badeschuhe.
+ Auf Anfragen reagierte nur eine dieser Firmen: Einen Test auf der Liste des BfArM zu registrieren, sei nicht besonders schwierig, sagt Simon Wiedemann von Trekstor. "Hierfür ist vor allem eine vertrauensvolle Beziehung zu den Herstellern wichtig, da man für die Bereitstellung der Dokumente voll und ganz auf diese angewiesen ist." Das Unternehmen aus Hessen ist als Anbieter von USB-Sticks und anderem Computerzubehör bekannt geworden. Seit Anfang 2020 hat Trekstor auch eine Produktlinie mit Medizinprodukten im Sortiment, darunter mehrere Antigen-Schnelltests. Trekstor hat dafür nach eigenen Angaben unter anderem einen Medizinprodukte-Sicherheitsbeauftragten bestimmt.
+
+ Ob alle anderen Unternehmen, die auf der Liste stehen, so sorgfältig vorgehen, wie der Computer-Zubehör-Händler angibt, lässt sich schwer beurteilen. Denn entscheidend dafür, ob ein Test auf die Liste des BfArM kommt, ist nur ein kurzer Katalog von Anforderungen, erstellt vom Paul-Ehrlich-Institut (PEI) mit dem Robert Koch-Institut (RKI). Darin stehen Mindestkriterien an die Antigen-Schnelltests, die Anforderungen an die technischen Standards festlegen, etwa zu Sensitivität oder Spezifität. Hersteller, die angeben, diese Anforderungen zu erfüllen, können ihren Test auf die Liste setzen lassen. Das BfArM gleicht die Herstellerangaben lediglich mit diesen Mindestkriterien ab.
+Hersteller zertifizieren sich selbst
+ Was auf den ersten Blick wie eine Liste mit behördlich überprüften und offiziell genehmigten Tests wirkt, ist lediglich eine auf Herstellerangaben beruhende "Marktübersicht", wie es in der Corona-Testverordnung heißt. Hinzu kommt: Antigen-Schnelltests werden von keiner Behörde oder anderen unabhängigen Stellen überprüft, bevor sie auf den Markt kommen. Selbst die CE-Zertifikate stellen sich die Hersteller selbst aus
+ Das Bundesgesundheitsministerium teilt auf Anfrage mit, das Verfahren beruhe auf den derzeit geltenden europäischen und nationalen Regeln zum Inverkehrbringen von In-vitro-Diagnostika, zu denen die Antigentests gehören. Unabhängige Überprüfungen der Herstellerangaben seien dabei nicht vorgesehen. Gesundheitsminister Jens Spahn sagte vergangene Woche in der Bundespressekonferenz: "Um es zügig zu machen, mussten wir uns erst mal auf Herstellerangaben verlassen".
+ Derzeit sei ein Konzept in Arbeit, um nach und nach alle Herstellerangaben zu überprüfen. Die Hersteller, die Kontingente für das deutsche Gesundheitswesen zugesichert haben, seien bereits überprüft worden. Auf die Frage, wie viele der Tests bislang insgesamt unabhängig überprüft wurden, und wer dafür zuständig ist, geben die Behörden keine klare Antwort.
+Überprüfte Tests schnitten bisher gut ab
+ Die Virologin Ulrike Protzer von der TU München fordert eine unabhängige Untersuchung der Schnelltests. Denn: "So ein Test ist nicht sehr aufwendig herzustellen. Deswegen gibt es sehr viele davon. Und nicht alle dieser Hersteller werden wirklich qualitativ sehr hochwertige Tests produzieren." Immerhin: Das Institut für Virologie der Berliner Charité hat sieben der auf dem Markt verfügbaren Antigen-Tests untersucht. Das Team um den Virologen Christian Drosten stuft sechs der Tests als gut ein, einen als etwas schlechter.
+
+Opposition kritisiert Verfahren
+ Die Opposition im Bundestag äußert Kritik am Umgang mit den Antigen-Schnelltests. Achim Kessler, gesundheitspolitischer Sprecher der Linken, sagte dem BR, die Bundesregierung habe es verschlafen, Antigen-Schnelltests wissenschaftlich fundiert zu überprüfen. Er schlägt vor, die Hersteller zu verpflichten, spätestens drei Monate nach Zulassung aussagefähige Studien zu deren Wirksamkeit und Sicherheit nachzureichen.
+ Kordula Schulz-Asche, Sprecherin der Grünen für Alten- und Pflegepolitik, fordert ein vernünftiges Zulassungsverfahren für Medizinprodukte: "Das Chaos, das wir Anfang des Jahres in der Qualitätsfrage bei den Masken hatten, darf sich jetzt bei der Teststrategie nicht wiederholen." Im Moment sehe es leider so aus.
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

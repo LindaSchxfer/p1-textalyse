@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15148</uid>
+   <externalId>15148</externalId>
+   <documentDate>2020-11-05T08:26:11Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Neue Corona-Maßnahmen]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[Ein Viertel der Italiener in "roter Zone"]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[ausland]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/ausland/coronavirus-italien-rote-zone-101.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Italiens Regierung reagiert auf die zweite Corona-Welle mit harten Maßnahmen. In vier Regionen dürfen die Menschen ihre Häuser ohne triftigen Grund nicht mehr verlassen. Nachts gibt es überall Ausgangssperren.]]></value>
+        </field>
+        <field name="author">
+              <value><![CDATA[ Jörg Seisselberg, ARD-Studio Rom]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Italiens Regierung reagiert auf die zweite Corona-Welle mit harten Maßnahmen. In vier Regionen dürfen die Menschen ihre Häuser ohne triftigen Grund nicht mehr verlassen. Nachts gibt es überall Ausgangssperren.
+Von  Jörg Seisselberg, ARD-Studio Rom
+ Italiens Regierung hat die Aufteilung des Landes in drei Covid-19-Gefahrenzonen beschlossen. Vor allem Norditalien ist von besonders strengen Schutzmaßnahmen betroffen. Details gab Ministerpräsident Giuseppe Conte bekannt. Zu roten Zonen erklärte die Regierung unter anderem die Lombardei mit ihrer Hauptstadt Mailand, das Piemont mit der Metropole Turin, das Aostatal und das süditalienische Kalabrien.
+ In diesen vier Regionen gilt von Freitag an eine Ausgangssperre. Die Menschen dürfen ihre Wohnung nur noch verlassen, wenn sie zur Arbeit oder zum Arzt müssen oder einen anderen wichtigen Grund haben. Wer unterwegs ist, muss eine Selbstbescheinigung mit sich führen, aus der Ausgangs- und Zielort hervorgehen. Alle Bars und Restaurants werden geschlossen.
+Präsenzunterricht nur noch für die Kleinen
+ Es ist verboten, in andere Regionen zu reisen, aber auch innerhalb der Zone in andere Städte zu fahren. Ein Großteil der Schulen muss wieder schließen. Für alle älteren Schüler ist Online-Unterricht vorgesehen, Präsenzunterricht gibt es nur noch für Schüler bis zu sechsten Klasse. In den zu roten Zonen erklärten Regionen leben rund 16 Millionen Menschen, das ist mehr als ein Viertel der italienischen Bevölkerung.
+
+Wieder trifft es den Norden
+ Es gebe "keine Alternative" zu den beschlossenen Maßnahmen angesichts der zuletzt rasant gestiegenen Zahl an Coronavirus-Infektionen im Land, sagte Ministerpräsident Giuseppe Conte. Gestern meldete Italien 30.550 neue Covid-19-Fälle. 352 Menschen, die mit dem Coronavirus infiziert waren, starben. Als besonders kritisch gilt die Situation in den Regionen, die jetzt zu roten Zonen erklärt wurden. In Mailand und Turin lag der sogenannte R-Wert zuletzt bei über zwei, das heißt zehn Infizierte stecken dort im Durchschnitt mehr als 20 andere Menschen an.
+ Da die Verhandlungen der Regierung mit den Regionen über die Neuregelungen länger dauerten als geplant, treten die neuen Vorschriften inklusive Ausgangssperre erst morgen und nicht wie ursprünglich geplant schon heute in Kraft. Die Maßnahmen gelten zunächst bis 3. Dezember. 
+
+Sizilien und Apulien sind orange Zonen
+ Insgesamt hat die Regierung Italien in drei Covid-19-Gefahrenzonen eingeteilt. Als orange Zonen deklariert sind Sizilien und Apulien. Hier gilt eine Ausgangssperre von 22 Uhr abends bis 5 Uhr morgens. Bars und Restaurants müssen in der orange Zone ebenfalls komplett schließen. Schulen bleiben aber bis zur neunten Klasse für Präsenzunterricht geöffnet. Südtirol hat als autonome Region von sich aus eine Ausgangssperre von 20 Uhr abends bis 5 Uhr morgens verhängt. Auch Bars und Restaurants sind geschlossen. Oberschulen und Universitäten stellen auf Fernunterricht um.
+Der Rest des Landes ist gelb
+ Als sogenannte gelbe Zonen in Italien gelten alle übrigen Regionen, darunter auch die Region Latium mit der Hauptstadt Rom und die Toskana. Für sie war ursprünglich die Farbe Grün und nicht die Farbe Gelb gedacht. Die Regierung befürchtete aber, dadurch könne die falsche Botschaft vermittelt werden, in dieser Zone gebe es keine Einschränkungen. Auch in den Regionen der gelben Zone aber gilt eine nächtliche Ausgangssperre von 22 Uhr bis 5 Uhr. Schulen halten den Präsenzunterricht nur bis zur neunten Klasse aufrecht.
+ In ganz Italien geschlossen sind Theater, Kinos, Sportzentren und Museen. Weiter geöffnet bleiben unter anderem Lebensmittelgeschäfte, Apotheken, Friseure und Wäschereien. Anders als während des Lockdowns im Frühjahr arbeiten in Italien diesmal auch alle Industriebetriebe weiter. Die öffentliche Verwaltung soll aber weitgehend auf Homeoffice umstellen.
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

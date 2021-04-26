@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15175</uid>
+   <externalId>15175</externalId>
+   <documentDate>2020-11-09T15:51:09Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Stellungnahme von Wissenschaftlern]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[Spahn lobt Empfehlung der Impfkommission]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[inland]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/inland/impfstrategie-coronavirus-105.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Risikogruppen, Beschäftigte im Gesundheitswesen, Polizisten: Sie sollen als Erste geimpft werden, so die wissenschaftliche Empfehlung. Gesundheitsminister Spahn lobt das Konzept - und fordert eine breite öffentliche Debatte.]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Risikogruppen, Beschäftigte im Gesundheitswesen, Polizisten: Sie sollen als Erste geimpft werden, so die wissenschaftliche Empfehlung. Gesundheitsminister Spahn lobt das Konzept - und fordert eine breite öffentliche Debatte. 
+ Bundesgesundheitsminister Jens Spahn hat die wissenschaftlichen Empfehlungen begrüßt, wie Impfungen gegen Covid-19 ablaufen sollen und wer vorrangig davon profitieren soll. "Es ist wichtig, dass wir zuerst diejenigen schützen sollten, die das höchste Risiko haben", sagte der CDU-Politiker.
+ Gleiches gelte für diejenigen im Gesundheitswesen und Pflege, "die sich um diese Risikogruppen kümmern" und für alle, "die das öffentliche Leben am Laufen halten".
+ Spahn bezog sich damit auf die zuvor vorgestellten Empfehlungen des Deutschen Ethikrats, der Ständigen Impfkommission (STIKO) und der Nationalen Akademie der Wissenschaften Leopoldina. Ältere Menschen und Angehörige anderer Risikogruppen sowie Beschäftigte im Gesundheitswesen sollen demnach zuerst den Impfstoff erhalten.
+Ziel: "Größter Nutzen für die ganze Bevölkerung"
+ Außerdem sollen Menschen, die in "Bereichen der Daseinsvorsorge" Schlüsselfunktionen innehaben, ebenfalls prioritär geimpft werden. Dazu zählen Beschäftigte bei der Polizei, in Gesundheitsämtern oder an Schulen. "Wir müssen das so machen, dass am Ende der größte Nutzen für die ganze Bevölkerung dabei herauskommt", sagte der STIKO-Vorsitzende Thomas Mertens.
+ Bisher gibt es noch keinen zugelassenen Impfstoff gegen das Coronavirus. Die Experten zeigten sich aber zuversichtlich, dass eine Impfung große Fortschritte im Kampf gegen die Pandemie bringen werde. "Wir haben zurecht Hoffnung auf einen Impfstoff", sagte Mertens.
+ Die Vorsitzende des Deutschen Ethikrats, Alena Buyx, wies darauf hin, dass der Impfstoff, wenn er zur Verfügung steht, voraussichtlich sehr knapp sein wird. Daher müsse, bis genug für alle da sei, priorisiert werden. Bevorzugt werde müssten vor allem jene Menschen, die das höchste Risiko hätten durch das Virus schwer zu erkranken oder zu sterben.
+ Außerdem müssten jene rasch geimpft werden, die Erkrankten beistünden und dadurch selbst erhöhtes Risiko einer Covid-19-Infektion trügen.
+
+Impfungen in staatlich mandatierten Zentren
+ Die Impfungen sollen den Plänen zufolge nicht bei den Hausärzten verabreicht werden, sondern in staatlich mandatierten Impfzentren. Um mögliche Impfrisiken rasch zu erkennen, sollen alle Impfungen in einer zentralen Datenbank erfasst werden.
+ Die STIKO am Robert Koch-Institut ist zuständig für Impfempfehlungen in Deutschland. Das Gremium hat sich bei den Überlegungen zu einer Impfstrategie mit Expertinnen und Experten des Ethikrats und der in Halle ansässigen Leopoldina beraten.
+40 Prozent zählen zur Risikogruppe
+ Spahn zufolge zählen bis zu 40 Prozent der Menschen in Deutschland in der Corona-Krise zur Risikogruppe. "Bei uns sind 23 Millionen Deutsche über 60", sagte er der "Bild"-Zeitung. "Wir sind ein Wohlstandsland mit Zivilisationskrankheiten: Diabetes, Bluthochdruck, Übergewichtigkeit. Alles Risikofaktoren für dieses Virus, wie für viele Infektionskrankheiten übrigens auch."
+ Der Bundesgesundheitsminister rief alle Deutschen zu einer breiten Diskussion auf, welche Bevölkerungsgruppen zuerst gegen Corona geimpft werden sollten, wenn ein Impfstoff zur Verfügung steht. "Ich finde es wichtig, dass es eine politische, aber auch gesellschaftliche Debatte gibt an jedem Mittagstisch, in der Familie oder auf der Arbeit", sagte Spahn der "Bild". Der CDU-Politiker kündigte an, dass sich auch der Bundestag mit dieser Frage befassen werde.
+
+
+
+
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

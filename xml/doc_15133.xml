@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15133</uid>
+   <externalId>15133</externalId>
+   <documentDate>2020-11-02T10:23:08Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Lage auf Intensivstationen]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[Warnung vor Engpässen in Kliniken]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[inland]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/inland/coronavirus-intensivbetten-101.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Die Deutsche Krankenhausgesellschaft erwartet angesichts der deutlich gestiegenen Coronavirus-Zahlen einen neuen Höchststand an Intensivpatienten. Auch Intensivmediziner sehen die Entwicklung mit Sorge.]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Die Deutsche Krankenhausgesellschaft erwartet angesichts der deutlich gestiegenen Coronavirus-Zahlen einen neuen Höchststand an Intensivpatienten. Auch Intensivmediziner sehen die Entwicklung mit Sorge.
+ Der Chef der Deutschen Krankenhausgesellschaft, Gerald Gaß, rechnet mit einem neuen Höchststand an Intensivpatienten in Deutschland während der Corona-Pandemie. "In zwei bis drei Wochen werden wir die Höchstzahl der Intensivpatienten aus dem April übertreffen - und das können wir gar nicht mehr verhindern. Wer bei uns in drei Wochen ins Krankenhaus eingeliefert wird, ist heute schon infiziert", sagte er der "Bild"-Zeitung.
+ Zudem kündigte er an, auch Pflegepersonal aus nicht-intensivmedizinischen Bereichen auf den Intensivstationen einzusetzen. "Das ist natürlich nicht optimal, aber in einer solchen Ausnahmesituation zu rechtfertigen", so Gaß.
+Hans warnt vor Triage
+ Ungeachtet dieser Ankündigung treibt manchen Politiker die Sorge um, dass nicht genügend Personal für Covid-19-Patienten zur Verfügung stehen könnte. Der saarländische Ministerpräsident Tobias Hans befürchtet ein Zusammenbrechen des Gesundheitssystems. "Die Situation ist erschreckend und alarmierend: Schon bald kann es zu einem Kollaps in vielen der 1900 Krankenhäuser in Deutschland kommen", sagte er der "Bild am Sonntag".
+ Gerade jetzt, wo in der zweiten Corona-Welle jeder Intensiv- und Beatmungsplatz dringend benötigt werde, würden Kliniken aus der Versorgung fallen, Stationen geschlossen und Notaufnahmen abgemeldet. "Grund ist fehlendes oder erkranktes Pflegepersonal", so Hans. "Es drohen eine Triage und italienische Verhältnisse, wenn wir nicht jetzt auch hier gegensteuern."
+ Der Pflegebevollmächtigte der Bundesregierung rief dazu auf, planbare Operationen zu verschieben. "Die Situation ist ernst, aber zurzeit ja noch handelbar", sagte Andreas Westerfellhaus Morgenmagazin von ARD und ZDF. Die Lage könne sich allerdings erheblich zuspitzen. Man müsse deshalb möglichst viele Aufnahmen auf die Intensivstationen verhindern und überprüfen, ob planbare Operationen zugunsten von Corona-Patienten zurückgestellt werden können.
+
+"Nicht mehr viel Spielraum"
+ Uwe Janssens, Präsident der Deutschen Interdisziplinären Vereinigung für Intensiv- und Notfallmedizin (DIVI), warnte: "Es ist in einigen Bundesländern nicht mehr viel Spielraum. Berlin hat nur noch 14 Prozent freie Intensivbetten, Bremen 17 Prozent." Dies liege auch daran, "dass viele Kliniken immer noch ihr Routineprogramm durchführen, Magen-Bypässe, Gelenk-Operationen". Für viele drohe sonst der Ruin, so Janssens, solange es nicht wie im April Freihaltepauschalen gebe. "Damals war die Situation übrigens viel weniger dramatisch als das, was jetzt auf uns zukommt."
+
+ Bislang hatten sich Politik und Öffentlichkeit auf das Intensivbettenregister der DIVI verlassen. Ende vergangener Woche waren danach noch mehr als 7500 Intensivbetten verfügbar. Doch Christian Karagiannidis, Sprecher des Registers, warnte in der "Welt am Sonntag": "Wir wiegen uns bei der Zahl der freien Intensivbetten in falscher Sicherheit." Viele Krankenhäuser würden Betten als verfügbar anmelden, die zwar frei wären, aufgrund des Personalmangels aber nicht genutzt werden könnten.
+Forderung nach "realistischen Zahlen"
+ Diese Aussage zog Kritik nach sich. Die gesundheitspolitische Sprecherin der CDU/CSU-Bundestagsfraktion, Karin Maag, verlangte eine bessere Information. Wenn eine Klinik eine konkrete Zahl an verfügbaren Intensivbetten melde, dann müsse diese selbstverständlich auch mit ausreichend Personal hinterlegt sein, sagte sie der "Welt". "
+
+ Es sei ein "dilettantischer Fehler", dass die Intensivbetten-Meldepflicht sich nicht auch auf das Fachpersonal erstrecke, sagte der gesundheitspolitischer Sprecher der Linksfraktion, Achim Kessler. "Niemand weiß, wie viele Pflegerinnen und Pfleger mit intensivpflegerischer Ausbildung es tatsächlich gibt." Bundesgesundheitsminister Jens Spahn müsse diese Fakten bei den Krankenhäusern umgehend abfragen und realistische Zahlen zu verfügbaren Intensivbetten veröffentlichen.
+ SPD-Fraktionsvize Bärbel Bas lastete dem Gesundheitsminister an, Fachpersonal im Gesundheitsbereich und Risikogruppen nicht ausreichend zu schützen. "Die angekündigte Teststrategie kommt leider zu spät", sagte sie der "Welt". Mit steigenden Infektionszahlen fielen nun vermutlich zunehmend auch Beschäftigte im Gesundheitswesen aus.
+
+
+
+
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15149</uid>
+   <externalId>15149</externalId>
+   <documentDate>2020-11-05T12:20:31Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[EU-Konjunkturprognose]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[Minus 7,4 Prozent]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[wirtschaft]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/wirtschaft/wirtschaftseinbruch-eu-101.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Die Wirtschaftsleistung in der EU wird nach der neuesten Prognose der EU-Kommission dieses Jahr um 7,4 Prozent sinken. Mit einer schnellen Erholung der Konjunktur sei nicht zu rechnen.]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Die Wirtschaftsleistung in der EU wird nach der neuesten Prognose der EU-Kommission dieses Jahr um 7,4 Prozent sinken. Mit einer schnellen Erholung der Konjunktur sei nicht zu rechnen.
+ Die EU-Kommission rechnet für das Jahr 2020 mit einem Rückgang der Wirtschaftsleistung der 27 Mitgliedsländer um 7,4 Prozent. Die Brüsseler Behörde korrigierte damit ihre Konjunkturprognose vom Sommer leicht nach oben. Dafür geht sie nun von einer langsameren wirtschaftlichen Erholung nach der Corona-Krise sowie einem sprunghaften Anstieg der Neuverschuldung aus.
+ "Es wird nicht erwartet, dass die Produktion sowohl im Euroraum als auch in der EU im Jahr 2022 wieder den Stand vor der Pandemie erreicht", erklärte die Kommission. Für 2021 rechnet Brüssel demnach mit einer Steigerung der Wirtschaftsleistung um 4,1 Prozent.
+Schulden-Spitzenreiter wird Griechenland
+ Die Schuldenquote der EU-Länder wird wegen der Krise in diesem Jahr voraussichtlich von 79,2 Prozent auf 93,9 Prozent der Wirtschaftsleistung springen. Für die 19 Länder der Eurozone geht Brüssel sogar davon aus, dass sie 100 Prozent der Wirtschaftsleistung übersteigen wird. Spitzenreiter ist hier Griechenland mit 207 Prozent. Italien, Portugal, Spanien, Belgien, Frankreich und Zypern liegen ebenfalls deutlich über 100 Prozent.
+
+Spanien mit Rekord-Minus
+ Das mit Abstand am stärksten von der Corona-Krise getroffene Land wäre nach den neuen Zahlen aus Brüssel Spanien. Hier ist ein Wirtschaftseinbruch um 12,4 Prozent in 2020 zu erwarten. Es folgen Italien (minus 9,9 Prozent), Kroatien (minus 9,6 Prozent) und Frankreich (minus 9,4 Prozent). Litauen (minus 2,2 Prozent) und Irland (minus 2,3 Prozent) kämen hingegen eher glimpflich davon.
+ Die Kommission versieht ihre Voraussagen allerdings mit einem deutlichen Fragezeichen: Wegen der Pandemie-Lage seien Wachstumsprognosen derzeit "mit einem extrem hohen Grad an Unsicherheit und Risiken behaftet", erklärte die Behörde.
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

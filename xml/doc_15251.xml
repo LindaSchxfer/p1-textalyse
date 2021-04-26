@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15251</uid>
+   <externalId>15251</externalId>
+   <documentDate>2020-11-19T15:42:00Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Corona-Pandemie in der Schweiz]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[Intensivstationen im kritischen Zustand]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[ausland]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/ausland/schweiz-coronavirus-103.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Im Vergleich zu ihren Nachbarländern hält es die Schweiz recht locker mit den Corona-Maßnahmen. Doch lange halten die Kliniken die hohe Zahl an Patienten nicht mehr durch: Betten und Personal werden immer knapper.]]></value>
+        </field>
+        <field name="author">
+              <value><![CDATA[Sandra Biegger, ARD-Studio Zürich]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Im Vergleich zu ihren Nachbarländern hält es die Schweiz recht locker mit den Corona-Maßnahmen. Doch lange halten die Kliniken die hohe Zahl an Patienten nicht mehr durch: Betten und Personal werden immer knapper.
+Von Sandra Biegger, ARD-Studio Zürich
+ Es ist eine Pressemeldung, die es in sich hat. Geschickt hat sie nicht irgendwer, sondern die Schweizerische Gesellschaft für Intensivmedizin. Das ist eine Gesellschaft, die die Interessen von Pflegenden und Medizinern vertritt, die auf Intensivstationen im Land arbeiten.
+ Alle Personen - vor allem diejenigen, die durch das neue Coronavirus besonders gefährdet sind - werden gebeten, sich im Rahmen einer Patientenverfügung Gedanken zu machen, ob sie im Falle einer schweren Erkrankung lebensverlängernde Maßnahmen erhalten möchten oder nicht. Bei vielen, die das hören, schrillen die Alarmglocken. Für einige schwingt zwischen den Zeilen der Appell mit, dass alte, schwerkranke Menschen sich überlegen sollten, ob sie nicht lieber eines der begehrten und knappen Intensivbetten frei machen für einen jüngeren, gesünderen Menschen. Vor allem, weil in derselben Pressemeldung steht, alle zertifizierten und anerkannten Intensivbetten in der Schweiz seien quasi vollständig ausgelastet.
+ So sei es aber nie gemeint gewesen, sagt die Präsidentin der Ärzteschaft der Schweizerischen Gesellschaft für Intensivmedizin, Antje Heise. Vielmehr sei es eine generelle Aufforderung an alle Schweizer gewesen, sich mit dem unliebsamen Thema Sterben zu beschäftigen. "Wir machen die Erfahrung, dass immer mehr Patienten - vor allem ältere mit Vorerkrankungen - von sich aus auf uns zukommen und sagen, sie möchten nicht mehr auf eine Intensivstation oder beatmet werden", so Heise. Daher appelliert sie an die Bevölkerung: "Macht euch Gedanken. Wie möchtet ihr leben und was sind eure Ziele?"
+Zu wenig Personal für zusätzliche Betten
+ Es sei auch nicht so, dass aktuell alle Intensivbetten vollständig belegt seien. Dazu müsse man wissen, dass in der Schweiz zwischen zertifizierten, das heißt regulären Intensivbetten und nicht zertifizierten Betten unterschieden werde. Das sind Intensivbetten, die wegen der Corona-Pandemie zusätzlich eingerichtet worden sind. "Es gibt diese Zusatzbetten, die in der Schweiz praktisch jedes Krankenhaus mit Intensivstation geschaffen hat", so Heise. Für sie gibt es noch ein anderes Problem: "Sie haben zum Beispiel eine Intensivstation, die hat normalerweise zehn Betten, hätte aber räumlich Platz für zwölf oder 14 Betten. Das Personal auf dieser Intensivstation ist aber berechnet für die zehn Betten." Also müssten die Krankenhäuser auf unqualifiziertes Zusatzpersonal zurückgreifen, um die Patienten mit der gebotenen Sorgfalt zu behandeln.
+
+Lockerere Maßnahmen im Vergleich zu anderen Ländern
+ Die zertifizierten Betten sind nach Angaben der Gesellschaft für Intensivmedizin nach heutigem Stand zu 80 bis 90 Prozent ausgelastet, für die unzertifizierten gebe es keine Zahlen. Damit das Gesundheitssystem nicht an seine Grenzen kommt, appelliert die Gesellschaft an die Bevölkerung, sich an die Corona-Vorgaben zu halten. Die sind im Vergleich zu Deutschland in den meisten Kantonen zwar relativ lax, zum Beispiel haben Cafés, Restaurants und Theater noch geöffnet, Veranstaltungen mit bis zu 50 Personen sind erlaubt. Nur in den Regionen mit besonders vielen Infizierten, wie beispielsweise dem Kanton Genf, wurde das öffentliche Leben komplett heruntergefahren.
+ Das sei auch gut so, sagen die Intensivmediziner. Sie sind mit dem Schweizer Vorgehen hundertprozentig einverstanden. "Wenn ich den Verlauf der Fallzahlen in den letzten Tagen ansehe, bin ich überzeugt, dass die Maßnahmen reichen werden - wenn sie umgesetzt werden und nicht zu schnell wieder in zu große Lockerungsmaßnahmen umschlagen", so Heise.
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

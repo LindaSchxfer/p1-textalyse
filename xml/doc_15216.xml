@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15216</uid>
+   <externalId>15216</externalId>
+   <documentDate>2020-11-16T08:00:00Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Länder, Infektionen, Todesfälle]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[Verlauf der Covid-19-Pandemie]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[ausland]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[http://www.tagesschau.de/ausland/coronavirus-karte-entwicklung-101.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Das Coronavirus breitet sich weltweit aus. Wie entwickelten sich die Infektionen über Monate hinweg? Die Coronavirus-Karte von]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Das Coronavirus breitet sich weltweit aus. Wie entwickelten sich die Infektionen über Monate hinweg? Die Coronavirus-Karte von tagesschau.de gibt einen aktuellen, interaktiven Überblick.
+ Wie entwickeln sich die Zahl der Neuinfektionen und die Gesamtzahl bestätigter Infektionen mit dem neuartigen Coronavirus über einen längeren Zeitraum? Mit den interaktiven Karten lässt sich der Verlauf der Pandemie in den einzelnen Ländern und weltweit nachvollziehen. Die Karten werden einmal pro Tag mit Daten aktualisiert, die die Johns Hopkins University weltweit sammelt. Den tagesaktuellen Überblick der neuesten Zahlen weltweit finden Sie hier.
+ Hinweise zu den Karten: Jeder Klick auf einen Staat liefert Zahlen zu den dortigen Infektionsfällen. Bei den Zahlen für Deutschland ergeben sich durch die unterschiedlichen Quellen und Aktualisierungszeitpunkte Abweichungen zwischen den Angaben der Johns Hopkins University und des Robert Koch-Instituts. Erläuterungen dazu finden Sie hier.
+Wie haben sich die Infektionszahlen seit Januar entwickelt?
+
+
+
+
+Wie haben sich die täglichen Neuinfektionen seit Januar entwickelt?
+
+
+Wie schnell verdoppeln sich die Fallzahlen?
+
+
+Wie hat sich die Zahl der Genesenen seit Januar entwickelt?
+
+
+ Hinweis zur Zahl der Genesenen: Die Zahl der Genesenen wird nicht in allen Ländern durch örtliche Behörden veröffentlicht. Wenn keine verlässlichen Quellen für konkrete Zahlenangaben vorliegen, verzichtet die Johns-Hopkins-University nach eigener Darstellung auf die Ausspielung der Zahl der Genesenen für das betreffende Land bzw. gibt sie im Datensatz für die einzelnen Tage oder im Gesamstand mit Null an. Im Ergebnis zeigt sich das entsprechend auch in der Kartendarstellung, die auf diesem Datensatz beruht. Konkrete Beispiele hierfür sind derzeit unter anderem Schweden und Großbritannien. Ergänzend ist zu berücksichtigen, dass die Zahl der Genesenen in vielen Ländern zumindest teilweise auf Schätzungen der Behörden basiert.
+ Anmerkung der Redaktion: Sollten in seltenen Ausnahmefällen zeitweise unzutreffende Daten für einzelne Länder angezeigt werden, so ist das in der Regel das Ergebnis von Fehlern im Datensatz der Johns Hopkins University. Da dieser Datensatz laufend aktualisiert wird, werden solche Fehler in den meisten Fällen zeitnah entdeckt und behoben.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ihre Meinung - meta.tagesschau.de
+
+
+
+
+Bisher keine Kommentare zur Meldung. Kommentierung der Meldung beendet.
+
+
+Alle Kommentare zur Meldung anzeigen.
+
+
+
+Geo-Schlagwörter der Meldung: Washington D.C.  USA  Nordamerika
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15192</uid>
+   <externalId>15192</externalId>
+   <documentDate>2020-11-12T09:30:17Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Corona-Pandemie]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[21.866 Neuinfektionen in Deutschland]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[inland]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/inland/coronavirus-pandemie-zahlen-101.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Die Zahl der Neuinfektionen bleibt auf hohem Niveau: 21.866 Fälle bundesweit meldete das RKI. Minister Spahn äußerte sich besorgt: Er warnte vor Überlastung des Gesundheitssystems und stimmte auf anhaltende Einschränkungen ein.]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Die Zahl der Neuinfektionen bleibt auf hohem Niveau: 21.866 Fälle bundesweit meldete das RKI. Minister Spahn äußerte sich besorgt: Er warnte vor Überlastung des Gesundheitssystems und stimmte auf anhaltende Einschränkungen ein.
+ Die Zahl der Corona-Neuinfektionen in Deutschland hat erneut die 20.000er-Marke überschritten. Wie das Rober Koch-Institut meldet, wurden in den vergangenen 24 Stunden 21.866 neue Ansteckungsfälle registriert. Das sind rund 3400 mehr als am Vortag, als knapp 18.500 Fälle gemeldet worden waren. Zuletzt lagen die Zahlen vier Tage in Folge unter der Marke von 20.000 Neuinfektionen.
+ Insgesamt wurden seit dem Beginn der Pandemie in Deutschland laut den jüngsten Zahlen des RKI 727.553 Infektionsfälle registriert. Die Gesundheitsämter übermittelten zudem 215 neue Todesfälle, die mit dem Coronavirus im Zusammenhang stehen. Die Gesamtzahl der Todesfälle stieg damit auf 11.982.
+ Das sogenannte Sieben-Tage-R lag laut RKI-Lagebericht vom Mittwochabend bei 0,89 (Vortag: 0,92). Das heißt, dass 100 Infizierte rechnerisch etwa 89 weitere Menschen anstecken. Der Wert bildet jeweils das Infektionsgeschehen vor acht bis 16 Tagen ab. Liegt er für längere Zeit unter eins, flaut das Infektionsgeschehen ab.
+
+Viele Intensivpatienten
+ Gesundheitsminister Jens Spahn machen die anhaltend hohen Zahlen der Neuinfektionen Sorgen. Er befürchtet, dass sich die Zahl der Corona-Patienten auf Intensivstationen noch in diesem Monat verdoppeln wird. Wenn es über einen längeren Zeitraum täglich 20.000 Neu-Infizierte gebe und davon zwei Prozent jeweils zwei Wochen lang auf Intensivstationen behandelt werden müssten, werde ihre Zahl im November wahrscheinlich auf mehr als 6000 gleichzeitig steigen, sagte Spahn der "Frankfurter Allgemeinen Zeitung". "Höher dürfen die Zahlen nicht steigen", betonte er. "Falls doch, würden wir absehbar an einen Punkt kommen, an dem das Gesundheitssystem überfordert ist."
+ Mit 6000 Corona-Patienten auf Intensivstationen könnten Ärzte und Pflegekräfte umgehen, sagte der Minister: "Aber nur unter sehr großem Stress. Deshalb müssen wir alle Kräfte in den Krankenhäusern zusammenziehen." Es müssten wieder Operationen verschoben werden, Personal aus dem OP-Saal müsse auf den Intensivstationen mithelfen.
+Einschränkungen den ganzen Winter über?
+ Spahn rechnet für den gesamten Winter mit anhaltenden Corona-Einschränkungen. Auch wenn die Infektionszahlen durch den Teil-Lockdown im November heruntergebracht würden, bedeute das nicht, dass es ab Dezember oder Januar wieder überall richtig losgehen und es wieder Hochzeitsfeiern oder Weihnachtsfeiern geben könne, als wäre nichts gewesen, sagt der CDU-Politiker dem RBB. "Deswegen finde ich schon jetzt die Botschaft wichtig: Veranstaltungen mit mehr als zehn, 15 Personen (...) sehe ich in diesem Winter nicht mehr."
+ Mit anhaltenden Einschränkungen rechnet auch die Virologin Ulrike Protzer. Die Direktorin des Instituts für Virologie an der TU-München sagte im ARD-Morgenmagazin, sie gehe davon aus, dass diese bis Februar andauerten. Angesichts der erneut gestiegenen Zahl der Neuinfektionen in Deutschland forderte sie die Bevölkerung auf, sich konsequent an die Regeln zu halten und Masken zu tragen, um eine weitere Verschärfung von Maßnahmen zu verhindern.
+ Bereits gestern hatte Bundeskanzlerin Angela Merkel gesagt, die Corona-Pandemie werde aus ihrer Sicht auch in den kommenden Monaten das Leben in Deutschland prägen. Bei einem Statement in Berlin zog Merkel dabei den Vergleich zur Spanischen Grippe "vor rund 100 Jahren". Wie schon damals müsse auch jetzt davon ausgegangen werden, "dass die zweite Welle härter ist". Zudem falle die zweite Corona-Welle "in eine schlechte Jahreszeit". Zwar gebe es nun "positive Botschaften bezüglich der Entwicklung von Impfstoffen". Doch dies werde sich in den Wintermonaten "noch nicht in gravierendem Maße niederschlagen", darum sei es nach wie vor geboten, die Vorsichtsmaßnahmen gegen die Ausbreitung des Virus weiter einzuhalten.
+
+
+
+
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

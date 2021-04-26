@@ -24,45 +24,38 @@ h2{
   color: white;
 }
 
-#gelb {
-  background-color: yellow;
-  width: 25%;
+#pink {
+  background-color: pink;
   margin-left: 5px;
-  height: 20px;
-
 }
 
-#blau {
+#blue {
   background-color: blue;
-  width: 25%;
   margin-left: 5px;
-  height: 20px;
-
-
 }
 
-#rot {
+#red {
   background-color: red;
-  width: 25%;
   margin-left: 5px;
-  height: 20px;
-
 }
 
 
-#grün {
+#green {
   background-color: green;
-  width: 25%;
   margin-left: 5px;
-  height: 20px;
+}
+
+#purple{
+    background-color: purple;
+
+    margin-left: 5px;
 
 }
 
-#lila{
-    background-color: purple;
-    width: 25%;
-    margin-left: 5px;
-    height: 20px;  
+.round{
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
 }
 
 .artikel {
@@ -70,7 +63,6 @@ h2{
     height: 100%;
     margin: 10px;
     border-radius: 30px;
-    background-color: grey;
     padding: 10px;
 }
 
@@ -88,4 +80,44 @@ label {
 h2 {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20pt;
+}
+
+#article-content{
+  width: 800px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#article-content > p{
+  cursor: pointer;
+  display: block;
+  margin-right: 3px;
+  font-size: 18px;
+  font-family: sans-serif;
+  text-align: left;
+}
+
+.green{
+  background-color: green;
+  color: azure;
+}
+
+.blue{
+  background-color: blue;
+  color: azure;
+}
+
+.red{
+  background-color: red;
+  color: azure;
+}
+
+.pink{
+  background-color: pink;
+  color: azure;
+}
+
+.purple{
+  background-color: purple;
+  color: azure;
 }

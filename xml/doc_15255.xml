@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15255</uid>
+   <externalId>15255</externalId>
+   <documentDate>2020-11-20T14:53:50Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Obduktionsergebnis]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[Etwa 85 Prozent an dem Virus gestorben]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[inland]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/inland/corona-obduktionsregister-101.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Ein viel diskutierter Aspekt bei der Zahl der Toten in der Corona-Pandemie ist die Frage, ob jemand an oder mit dem Virus gestorben ist. Die Uniklinik Aachen wertete dazu bundesweit Obduktionsergebnisse aus.]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Ein viel diskutierter Aspekt bei der Zahl der Toten in der Corona-Pandemie ist die Frage, ob jemand an oder mit dem Virus gestorben ist. Die Uniklinik Aachen wertete dazu bundesweit Obduktionsergebnisse aus. 
+ Mehr als 13.000 Covid-19-Patienten sind bisher in Deutschland gestorben. Nur wenige von ihnen wurden obduziert. Wo eine Untersuchung stattgefunden hat, gibt es eine Antwort auf eine häufig gestellte Frage: An oder mit Corona gestorben? Im Obduktionsregister in Aachen werden die Ergebnisse gesammelt.
+Weitere Untersuchungen folgen
+ Demnach sind 85 Prozent der Patienten an Schäden verstorben, die das Coronavirus verursacht hat. Auch wenn die Zahlen nicht repräsentativ sind, bestätigen Mediziner die Tendenz. "Die allermeisten Patienten in Deutschland sterben an der Erkrankung", berichtet etwa Christian Karagiannidis von der Lungenklinik Köln-Merheim.
+ Laut WDR wurden 250 Corona-Todesfälle durch Pathologen untersucht, rund 600 Todesfälle müssen noch ausgewertet werden. Weitere Untersuchungen könnten beim Verstehen des Coronavirus helfen, hoffen die Mediziner.
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

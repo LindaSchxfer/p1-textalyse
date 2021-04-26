@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15181</uid>
+   <externalId>15181</externalId>
+   <documentDate>2020-11-10T13:50:24Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Coronavirus]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[Nerze in Dänemark rechtswidrig getötet?]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[ausland]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/ausland/corona-nerze-daenemark-101.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Nerze sind ein Risiko bei der Bekämpfung der Corona-Pandemie, also müssen sie weg. So einfach war die Sache für die dänische Regierung. Aber offenbar hatte sie gar nicht das Recht, die Tötung aller Tiere anzuordnen.]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Nerze sind ein Risiko bei der Bekämpfung der Corona-Pandemie, also müssen sie weg. So einfach war die Sache für die dänische Regierung. Aber offenbar hatte sie gar nicht das Recht, die Tötung aller Tiere anzuordnen.
+ Die von der Regierung veranlasste Massentötung aller Nerze auf dänischen Pelztierfarmen sorgt zunehmend für Verwirrung. Offenbar gab es für die Anordnung keine rechtliche Grundlage. Lebensmittelminister Mogens Jensen räumte heute im dänischen Fernsehsender TV2 ein: "Wir haben einen Fehler begangen". Es gebe keine gesetzliche Befugnis, um Nerzzüchter außerhalb der Risikozonen dazu aufzufordern, ihre Nerze zu keulen. Dies habe er bei der Bekanntgabe nicht gewusst. Dennoch bat er die Züchter mit Blick auf Volksgesundheit damit weiterzumachen. Das Risiko durch die Nerzzucht bestehe weiter.
+Massentötung wegen Virus-Mutation
+ Regierungschefin Mette Frederiksen hatte bei der Ankündigung der Maßnahme am vergangenen Mittwoch davon gesprochen, dass alle Nerze in Dänemark getötet werden sollten, um so sicherzustellen, dass eine bei den Nerzen aufgetretene Coronavirus-Mutation eingedämmt werde. Auch in einer Mitteilung des Umwelt- und Lebensmittelministeriums hieß es: "Die Regierung hat auf Grundlage einer neuen Risikobewertung der Gesundheitsbehörden beschlossen, alle dänischen Nerzbestände zu schlachten." Den Pelztierzüchtern wurde eine Bonuszahlung in Aussicht gestellt, wenn sie ihre Tiere innerhalb weniger Tage keulen.
+Rechtliche Grundlage im Schnellverfahren
+ Wie TV2 berichtet, deckt die Gesetzeslage nur infizierte Nerzfarmen sowie Bestände in einem Umkreis von 7,8 Kilometer ab. Die Regierung will nun im Schnellverfahren die gesetzliche Grundlage schaffen, dass auch gesunde Nerze getötet werden dürfen. Die Lebensmittelbehörde entschuldigte sich inzwischen in einem Brief an die dänischen Nerzzüchter. Man bedauere, dass aus einem vorherigen Schreiben nicht hervorgegangen sei, dass es sich um eine "Aufforderung" der schnellstmöglichen Tötung gesunder Bestände außerhalb der 7,8-Kilometer-Zonen gehandelt habe.
+
+ Insgesamt wurden auf den Pelztierfarmen in Dänemark zwischen 15 und 17 Millionen Nerze gehalten. Bei Untersuchungen wurde bei einigen Tieren eine mutierte Variante des Coronavirus entdeckt. Auch bei zwölf Menschen wurde die Virusvariante nachgewiesen. Die dänische Regierung ordnete daraufhin die Keulung aller Nerze an, um weitere Ansteckungen zu verhindern. Das mutierte Virus könne weltweit verheerende Folgen haben, hieß es zur Begründung. Unter anderem könne die Wirksamkeit von Impfsstoffen beeinträchtigt werden.
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

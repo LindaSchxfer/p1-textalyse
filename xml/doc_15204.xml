@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15204</uid>
+   <externalId>15204</externalId>
+   <documentDate>2020-11-13T20:01:22Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Coronavirus in Italien]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[Pandemie bringt Kliniken ans Limit]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[ausland]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/ausland/italien-coronavirus-143.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Was in Deutschland befürchtet wird, ist in Italien längst Realität: Durch die Corona-Pandemie sind Kliniken völlig überlastet. Und trotzdem gibt es erste, vorsichtige Töne der Hoffnung.]]></value>
+        </field>
+        <field name="author">
+              <value><![CDATA[Elisabeth Pongratz, ARD-Studio Rom]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Was in Deutschland befürchtet wird, ist in Italien längst Realität: Durch die Corona-Pandemie sind Kliniken völlig überlastet. Und trotzdem gibt es erste, vorsichtige Töne der Hoffnung. 
+Von Elisabeth Pongratz, ARD-Studio Rom
+ Das Krankenhaus Valduce in der Lombardei liegt nur wenige Minuten vom Comer See entfernt, von den Zimmern aus sind die Berge zu sehen. Doch beschaulich geht es hier schon lange nicht mehr zu.
+ "Die Notaufnahme ist überfüllt", sagt Klinikdirektor Claudio Zanon im Gespräch mit der Auslandspresse. In der Notaufnahme stünden die Krankenliegen schon auf den Korridoren, die Ärzte hätten Schwierigkeiten, sich zwischen ihnen in die Untersuchungs- und Krankenzimmer durchzuschlagen. Mehr gehe nicht. Das sei eine nicht mehr zu überschauende Situation - absolut gefährlich auch für die Patienten, die eingeliefert würden. Alle Betten seien belegt, auch auf der Intensivstation, so Zanon weiter. Zeitweise musste er die Notaufnahme wegen Überfüllung schließen.
+
+Video aus Klinik sorgt für Empörung
+ Schon seit Tagen warnen die Ärztevertreter im ganzen Land, dass das Gesundheitssystem an seine Grenzen stoße. Die Neuinfektionen mit dem Coronavirus klettern weiter nach oben. Mehr als 3000 Menschen müssen auf Intensivstationen behandelt werden.
+ Wie im Frühjahr breitet sich das Virus besonders stark in der Lombardei aus, aber nun sind viele weitere Regionen betroffen, auch der Süden. In Kampanien ist die Lage besonders angespannt. In einem Krankenhaus wurde ein Mann tot auf der Toilette einer Notaufnahme gefunden. Das Video dazu sorgte für helle Empörung. Die Tageszeitung "La Repubblica" titelte: "So darf man nicht sterben!"
+ Inzwischen werden sogar die Sauerstoffflaschen knapp, der Apothekerverband schlägt Alarm. Für die Regierung ist klar, dass in Kampanien die Maßnahmen verschärft werden müssen. Außenminister Luigi di Maio erklärt über seinen Facebook-Account:
+
+"Sie sind am Limit. Mich erreichen Nachrichten, ich spreche am Telefon mit Pflegern, Ärzten, Mitarbeitern, die nicht mehr ein noch aus wissen. Sie wissen nicht, wohin mit den Patienten."
+
+
+Italien wird gelb, orange und rot
+ Wegen des unterschiedlichen Verlaufs der Epidemie hat die Regierung in Rom das Land in gelbe, orange und rote Zonen eingeteilt, wo unterschiedliche Einschränkungen gelten. Damit will Regierungschef Giuseppe Conte einen erneuten strengen Lockdown wie im Frühjahr verhindern, doch mittlerweile gelten in immer mehr Regionen strenge Vorschriften. In der roten Zone etwa sind alle Gaststätten geschlossen, ebenso die meisten Geschäfte. Die Menschen dürfen ihre Gemeinden nur für einen triftigen Grund verlassen. 
+
+Der R-Wert sinkt - aber nur langsam
+ Mittlerweile macht sich in manchen Gegenden gleichzeitig Hoffnung breit. Der Epidemologe Stefano Merler etwa sieht eine leichte Verbesserung: "Man kann sagen, dass die Kurve langsamer wächst. Sie wächst nicht mehr, wie noch vor wenigen Tagen, exponentiell an. Aber das reicht meiner Meinung nach nicht für die Krankenhäuser, die unter so enormem Stress stehen. Der R-Wert muss unter 1 sinken. Das ist das wahre Ziel."
+ Dieser R-Wert ist nun in Italien von 1,7 auf 1,5 zurückgegangen. Das bedeutet, dass ein Infizierter etwa 1,5 Menschen ansteckt. In manchen Regionen ist er allerdings niedriger. So geht auch der zuständige Sonderkommissar der Regierung, Domenico Arcuri, davon aus, dass die Ansteckungsrate langsamer wird. Im Fernsehen verbreitet er auch Hoffnung in Bezug auf eine Impfung: "Wir vertrauen darauf, die ersten Italiener Ende Januar impfen zu können. Wir werden mit 1,7 Millionen Mitbürgern beginnen, um dann nach und nach immer mehr Menschen zu impfen."
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

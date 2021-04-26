@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15172</uid>
+   <externalId>15172</externalId>
+   <documentDate>2020-11-09T13:55:35Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Corona-Pandemie]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[Biontech meldet Erfolg bei Impfstoff]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[inland]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/inland/biontech-corona-impfstoff-103.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Die Mainzer Pharmafirma Biontech und ihr US-Partner Pfizer können einen Durchbruch vermelden: Ein Corona-Impfstoff habe sich in klinischen Tests als höchst wirkungsvoll erwiesen. Bald soll eine US-Zulassung folgen.]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Die Mainzer Pharmafirma Biontech und ihr US-Partner Pfizer können einen Durchbruch vermelden: Ein Corona-Impfstoff habe sich in klinischen Tests als höchst wirkungsvoll erwiesen. Bald soll eine US-Zulassung folgen.
+ Erstmals gibt es zu einem Corona-Impfstoff, der für Europa maßgeblich ist, Zwischenergebnisse aus der Studienphase. Sie ist entscheidend für eine Zulassung. Das Mainzer Unternehmen Biontech und der Pharmakonzern Pfizer teilten mit, ihr Impfstoff biete einen mehr als 90-prozentigen Schutz vor der Krankheit Covid-19.
+ Während der Tests seien "keine ernsthaften Sicherheitsbedenken" gemeldet worden, teilten die Firmen mit. Sie wollen die Studie wie geplant fortführen, um zusätzliche "Sicherheits- und Wirksamkeitsdaten" zu erheben. Zuerst hatte die "Frankfurter Allgemeine Zeitung" über den Durchbruch berichtet.
+
+"Schutz nach zweiter Injektion"
+ Der Impfstoff BNT162b2 war von Biontech im Projekt "Lightspeed" (Lichtgeschwindigkeit) seit Mitte Januar entwickelt worden. Die für eine Zulassung entscheidende Phase-3-Studie begann ab Ende Juli in verschiedenen Ländern. Inzwischen haben mehr als 43.500 Menschen mindestens eine der beiden Impfungen bekommen, die im Abstand von drei Wochen verabreicht werden.
+ Ein Impfschutz wird nach Angaben der Hersteller eine Woche nach der zweiten Injektion erreicht. In der Studie wurden demnach bis Sonntag insgesamt 94 Fälle der Krankheit bestätigt. Die Ergebnisse werden den Angaben zufolge erst dann abschließend ausgewertet, wenn insgesamt 164 Fälle erreicht sind. Zudem werde geprüft, in welchem Maß die Impfung nicht nur vor Covid-19 schützt, sondern auch vor schweren Verläufen der Krankheit. Insgesamt sollen sowohl die Schutzwirkung als auch etwaige Nebenwirkungen über einen Zeitraum von zwei Jahren beobachtet werden.
+
+50 Millionen Dosen für 2020
+ Biontech und der Pharmariese Pfizer wollten voraussichtlich ab der kommenden Woche die Zulassung bei der US-Arzneimittelbehörde FDA beantragen. Die Unternehmen rechnen damit, noch in diesem Jahr weltweit bis zu 50 Millionen Impfstoff-Dosen bereitstellen zu können. Im kommenden Jahr kalkulieren sie mit bis zu 1,3 Milliarden Dosen.
+ Bundesgesundheitsminister Jens Spahn begrüßt die Ankündigung von Biontech. Er freue sich, dass gerade ein deutsches Unternehmen so weit sei. Da die Bundesregierung aber keine falschen Versprechungen machen wolle und es immer Rückschläge bei der Impfstoff-Entwicklung geben könne, rechne man vorsichtiger damit, dass ein Impfstoff erst im ersten Quartal 2021 zur Verfügung stehen werde, sagt der CDU-Politiker.
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

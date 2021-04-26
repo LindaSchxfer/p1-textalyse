@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15245</uid>
+   <externalId>15245</externalId>
+   <documentDate>2020-11-18T18:21:04Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Neues Infektionsschutzgesetz]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[Mehr Sicherheit, mehr Transparenz]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[kommentar]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/kommentar/corona-infektionsschutzgesetz-101.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Das neue Infektionsschutzgesetz stellt vieles klar, schafft Transparenz und schützt ausdrücklich etwa das Versammlungsrecht. Dass sich der Staat leichtfertig mehr Zugriff auf den Alltag seiner Bürger verschaffe, stimmt nicht.]]></value>
+        </field>
+        <field name="author">
+              <value><![CDATA[Ein Kommentar von Alfred Schmit, ARD-Hauptstadtstudio]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Das neue Infektionsschutzgesetz stellt vieles klar, schafft Transparenz und schützt ausdrücklich etwa das Versammlungsrecht. Dass sich der Staat leichtfertig mehr Zugriff auf den Alltag seiner Bürger verschaffe, stimmt nicht.
+Ein Kommentar von Alfred Schmit, ARD-Hauptstadtstudio 
+ Die Änderungen am Infektionsschutzgesetz sind sinnvoll und notwendig. Und die Politik hat etwas Wichtiges bewiesen: Sie kann sich korrigieren, wenn sie zu weit geht in der Einschränkung unserer Grundrechte.
+ Die ersten Vor-Entwürfe gingen da tatsächlich noch zu weit. Schutzmaßnahmen in den Verordnungen der Länder müssen jetzt befristet und begründet werden, das ist gut und richtig.
+ Außerdem wird ausdrücklich geregelt, dass gesellschaftliche und wirtschaftliche Auswirkungen beim Infektionsschutz berücksichtigt werden müssen. Damit werden die Befugnisse der Landesregierungen eingeschränkt. Nicht etwa ausgeweitet, wie manche behaupten.
+Versammlungsrecht wird explizit geschützt
+ Ausdrücklich geschützt werden Dinge wie das Versammlungsrecht, Zulässigkeit von Demonstrationen und auch der Zugang zu Pflegeheimen und Krankenhäusern. Alle bisherigen Maßnahmen - wie Maskenpflicht, Abstandsregeln oder das Schließen verschiedener Einrichtungen oder von Geschäften - müssen regelmäßig auf den Prüfstand, und zwar nach vier Wochen.
+ All das ist ein Fortschritt im Kampf gegen das Virus. Das neue Gesetz schafft mehr Rechtssicherheit. Es war gedacht als Gegenstück zu einer Kungelrunde, und das ist größtenteils gelungen. Selbst die umstrittene stärkere Einbindung der Parlamente ist nun zumindest stärker als zuvor, auch das ist ein Fortschritt. Der Weg vor die Gerichte übrigens wird nicht etwa versperrt, er bleibt allen nach wie vor offen, bis hoch zum Bundesverfassungsgericht.
+Parlament wird gestärkt 
+ Zur Erinnerung: Die bisherigen Maßnahmen zur Eindämmung des Virus geschahen auf einer dünnen gesetzlichen Grundlage. "Notwendige Maßnahmen" - das war die betreffende Formulierung im Gesetz, und das konnte man sehr weit auslegen. Nun aber ist der Gesetzestext konkreter gefasst, und das Parlament muss regeln, was erlaubt ist. Dies darf nicht weiter von den Regierungen bestimmt werden. Gerichte haben jetzt auch einen besseren Maßstab, um das Verhalten deutscher Behörden zu kontrollieren.
+ Kurz gesagt: Die Neuregelung stellt vieles auf bessere Füße. Künftige Maßnahmen zur Eindämmung von Infektionen müssen klar gerechtfertigt sein, sie werden damit transparenter. Niemand sollte den Eindruck erwecken, der Staat verschaffe sich hier leichtfertig mehr Zugriff auf unseren Alltag. Wer gegen das Gesetz und gegen Anti-Corona-Maßnahmen demonstrieren will, darf das zum Glück weiter tun. Aber bitte ohne Gewalt. Und ohne die Fakten zu verdrehen.
+
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

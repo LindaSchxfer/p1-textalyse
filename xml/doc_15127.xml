@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15127</uid>
+   <externalId>15127</externalId>
+   <documentDate>2020-11-01T13:44:21Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Wirtschaftsforschungsinstitut DIW]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[November-Lockdown kostet 19 Milliarden]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[wirtschaft]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/wirtschaft/kosten-lockdown-iw-101.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Der November-Lockdown wird die deutsche Wirtschaft mehr als 19 Milliarden Euro kosten, rechnet das Forschungsinstitut DIW vor. Die Maßnahmen gefährden laut Experten zudem Zehntausende Arbeitsplätze.]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Der November-Lockdown wird die deutsche Wirtschaft mehr als 19 Milliarden Euro kosten, rechnet das Forschungsinstitut DIW vor. Die Maßnahmen gefährden laut Experten zudem Zehntausende Arbeitsplätze.
+ Das Deutsche Institut für Wirtschaftsforschung (DIW) sieht durch den Lockdown im November Kosten von 19,3 Milliarden Euro auf die Wirtschaft zurollen. Demnach würden mit Einbußen von 5,8 Milliarden Euro Gastronomie und Hotels am härtesten getroffen. Für die Bereiche Sport, Kultur und Unterhaltung schätzten die Forscher die Einbußen auf 2,1 Milliarden Euro.
+ Den Berechnungen nach kosten die Einschränkungen den Handel 1,3 Milliarden Euro, für die deutsche Industrie seien es 5,2 Milliarden Euro. Ein Großteil der übrigen Summe entfalle auf Unternehmensdienstleister, Logistikunternehmen und Kinobetreiber.
+
+Rund 600.000 Arbeitsplätze könnten wegfallen
+ Auch auf den Arbeitsmarkt dürfte der Lockdown ausstrahlen. Die Zahl der Beschäftigten wird nach der Prognose des DIW im laufenden vierten Quartal um knapp 100.000 sinken. Die Zahl der Kurzarbeiter werde bis Ende des Jahres um 400.000 auf 3,2 Millionen steigen.
+ Zu ähnlichen Prognosen kommt auch das Institut der Deutschen Wirtschaft (IW) in Köln. "Der Lockdown light bis Ende November, den wir jetzt haben, wird das BIP voraussichtlich um einen Prozentpunkt senken", sagte IW-Direktor Michael Hüther der "Bild am Sonntag".
+ Insgesamt könnten demnach im Gesamtjahr 2020 dadurch rund 591.000 Menschen ihren Job verlieren. Im nächsten Jahr sind es laut Hüther noch einmal 15.000 Menschen - "vorausgesetzt, der Lockdown geht wie angekündigt zu Ende." Dauerten die Beschränkungen länger, könne das Bruttoinlandsprodukt (BIP) um zwei Prozentpunkte sinken, sagte Hüther. "Dann können wir für nächstes Jahr mit 180.000 zusätzlichen Arbeitslosen rechnen."
+
+Lockdown beginnt ab Montag
+ Die Forscher vom DIW erwarten im kommenden Jahr allerdings eine deutliche Erholung: "Wir gehen davon aus, dass das Bruttoinlandsprodukt 2021 wieder deutlich wird zulegen können - allerdings nur, wenn die zweite Infektionswelle bald gestoppt werden kann", sagte DIW-Präsident Marcel Fratzscher. Gleichzeitig dürfte sowohl die Zahl der Firmenpleiten als auch die der Arbeitslosen steigen. Letztere wird aktuell noch durch die Kurzarbeit abgemildert.
+ Am Montag treten in Deutschland zahlreiche neue Einschränkungen in Kraft, mit denen die zuletzt rasant steigenden Corona-Neuinfektionen wieder gesenkt werden sollen. Unter anderem gelten strengere Kontaktbeschränkungen. Viele Betriebe und Einrichtungen wie Theater, Museen, Fitnessstudios und Bars müssen schließen. Restaurants dürfen Speisen nur zum Mitnehmen anbieten oder liefern.
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

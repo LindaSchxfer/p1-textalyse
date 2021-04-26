@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15160</uid>
+   <externalId>15160</externalId>
+   <documentDate>2020-11-07T13:40:31Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Corona-Pandemie]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[Gesundheitsminister beschließen Impfstrategie]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[inland]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/inland/impfstrategie-gesundheitsminister-101.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Wenn in Europa der erste Corona-Impfstoff zugelassen wird, sollen viele Menschen in kurzer Zeit geimpft werden. Erforderlich dafür ist eine Strategie. Auf die haben sich Bund und Länder nun verständigt.]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Wenn in Europa der erste Corona-Impfstoff zugelassen wird, sollen viele Menschen in kurzer Zeit geimpft werden. Erforderlich dafür ist eine Strategie. Auf die haben sich Bund und Länder nun verständigt.
+ Die Gesundheitsminister von Bund und Ländern haben ein gemeinsames Vorgehen bei Impfungen gegen das Coronavirus beschlossen. Das teilte die Senatsverwaltung für Gesundheit in Berlin mit.
+ Die Gesundheitsministerkonferenz (GMK) habe sich unter dem Vorsitz von Berlins Gesundheitssenatorin Dilek Kalayci gemeinsam mit Bundesminister Jens Spahn auf ein einheitliches und abgestimmtes Vorgehen zur Versorgung mit Impfstoffen verständigt. Der gemeinsame Beschluss vom Freitagabend sieht unter anderem vor, dass der Bund die Impfstoffe beschafft und finanziert und die Länder Impfzentren einrichten.
+
+60 Impfzentren in Deutschland geplant
+ Die Impfstoffe sollen den Angaben zufolge durch die Bundeswehr oder durch die Hersteller angeliefert werden. Die Impfdosen sollen dem Bevölkerungsanteil entsprechend an die Länder verteilt werden, die die Impfzentren in eigener Verantwortung errichten. Dabei könne beispielsweise die jeweilige Kassenärztliche Vereinigung einbezogen werden.
+ Insgesamt sei von 60 Standorten bundesweit auszugehen. Die Lieferung der Impfdosen sei mit Blick auf Lagerung und Transport nur an einer begrenzten Zahl von Standorten in jedem Bundesland möglich, heißt es in dem Beschluss. Geeignete Standorte sollen bis zum 10. November von den Ländern benannt werden.
+ Hintergrund ist unter anderem, dass einige der Impfstoffe, die derzeit entwickelt werden, voraussichtlich bei Minus 70 Grad tiefgekühlt transportiert und gelagert werden müssen. Dafür müssten etwa entsprechende Ultratiefkühlschränke beschafft werden.
+
+Wer wird zuerst geimpft?
+ "Nach Zulassung eines Impfstoffs ist zunächst von einer begrenzten Anzahl verfügbarer Impfdosen auszugehen", heißt es im Beschlusstext. Zunächst sollen besonders Risikogruppen berücksichtigt werden. Dabei sollen auch mobile Impfteams zum Einsatz kommen. Den Nachweis, dass sie berechtigt sind, müssen die zu Impfenden selbst erbringen. Die Teilnahme an der Impfung sei zudem freiwillig, heißt es weiter. Bund und Länder verständigten sich auch darauf, eine "bundeseinheitliche Impfkampagne" zu starten. 
+ Insgesamt muss noch priorisiert werden, wer den Impfstoff zuerst erhält und in welcher Reihenfolge bestimmte Bevölkerungsgruppen wie etwa Jüngere oder Ältere, medizinisches Personal oder auch Lehrer geimpft werden sollten. Die Ständige Impfkommission (Stiko) am Robert Koch-Institut soll eine Empfehlungen für eine Priorisierung geben. Die Stiko, der Deutsche Ethikrat und die Nationale Akademie der Wissenschaften Leopoldina haben bereits ethische und rechtliche Rahmenbedingungen für die später folgende Stiko-Impfempfehlung erarbeitet. Am Montag wollen die drei Gremien diese Rahmenbedingungen vorstellen.
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

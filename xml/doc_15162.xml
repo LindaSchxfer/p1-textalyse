@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15162</uid>
+   <externalId>15162</externalId>
+   <documentDate>2020-11-08T04:24:41Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Überlastete Gesundheitsämter]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[Nur noch die heiklen Fälle]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[inland]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/inland/coronavirus-gesundheitsaemter-103.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Die Gesundheitsämter werden von der hohen Zahl an Neuinfektionen vielerorts überrollt. Die Kontaktnachverfolgung Infizierter bekommt immer mehr Lücken. Und Betroffene fühlen sich allein gelassen.]]></value>
+        </field>
+        <field name="author">
+              <value><![CDATA[Martin Schmidt und Tom Schneider, ARD Hauptstadtstudio]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Die Gesundheitsämter werden von der hohen Zahl an Neuinfektionen vielerorts überrollt. Die Kontaktnachverfolgung Infizierter bekommt immer mehr Lücken. Und Betroffene fühlen sich allein gelassen. 
+Von Martin Schmidt und Tom Schneider, ARD Hauptstadtstudio
+ Es sind Dialoge, die tausendfach geführt werden im Gesundheitsamt Berlin-Reinickendorf.  "Welche Symptome haben Sie? Husten, Schnupfen … ah, ok, und Fieber? Sie müssten sich tatsächlich Quarantäne begeben, ja?" Vier Mitarbeiterinnen und Mitarbeiter starten an diesem Morgen in ihre Schicht in der Hotline des Bezirks im Norden Berlins.
+"Immer ein bisschen weiter am Abgrund"
+ Immer mehr Corona-Fälle bedeuten immer mehr Probleme bei der Kontaktnachverfolgung der Infizierten. "Wir stehen jede Woche ein bisschen weiter am Abgrund als in der Woche zuvor", beschreibt Behördenchef Patrick Larscheid die Situation. "Wir versuchen zu reagieren, organisieren uns immer ein Stück weit neu. Aber das heißt im Ergebnis, wir müssen bei der Kontaktnachverfolgung Abstriche machen."
+
+Keiner geht ans Telefon
+ Auch wer sich mit dem Virus infiziert hat, merkt das. Die Ämter sind überlastet. Tagelang versuchte Holger Sonnen, Corona-Patient aus Berlin-Lichtenberg, telefonischen Kontakt zum Gesundheitsamt zu bekommen. "Es geht einfach keiner ran. Ich wurde komplett allein gelassen", berichtet Sonnen.
+ Und das, obwohl sie auf den Ämtern seit Ausbruch der Corona-Pandemie ein Leben in Höchstgeschwindigkeit führen, vielerorts unterstützt von Tausenden Bundeswehrsoldaten.
+Jeden Morgen ein Stapel neuer positiver Befunde
+ Larscheid organisiert als Amtsarzt im Norden Berlins den Kampf gegen die Pandemie. Das heißt vor allem: Trotz aller Probleme dran bleiben bei der Nachverfolgung. "Der Morgen erwartet einen mit einem Stapel neuer positiver Befunde. Diese Personen müssen erstmal ganz schnell kontaktiert werden, damit sie wissen, dass sie ein Fall sind ", erzählt Larscheid. "Und dann machen wir eine kurze Ermittlung, um zu wissen: Ist das ein Fall, der für uns relevant ist, oder ist das ein Fall, der erstmal ganz entspannt angefasst werden kann."
+ Relevant seien Infektionen, wenn sie Risikogruppen beträfen, also Altenheime oder Menschen aus Gesundheitsberufen. Sämtliche Kontakte minutiös nachverfolgen können Larscheid und seine Kolleginnen und Kollegen schon seit Wochen nicht mehr. Anfangs hätten sie sogar noch Infektionsverläufe dokumentiert - Arbeit für die Galerie nennt er das heute. Nicht wirklich nötig, tat aber gut. "Die reine Kontaktnachverfolgung, wie die mal gedacht war, die existiert in dieser Strenge längst nicht mehr. Einfach, weil die Zahlen so hoch sind, dass es uns darum geht, die wirklich heiklen Fälle zu identifizieren."
+
+"Geduld, wir melden uns"
+ Holger Sonnen war nach diesen Kriterien wohl kein heikler Fall. Seit diesem Wochenende darf er wieder selbst einkaufen gehen, die Corona-Quarantäne ist vorbei.
+ Nach einem Abendessen mit Freunden war einer positiv getestet worden. Weil sich das Gesundheitsamt nicht meldete, ging Sonnen selbst zum Hausarzt. "Ich bin dienstags getestet worden. Donnerstags sollte das Ergebnis kommen und als Donnerstagmittag immer noch kein Ergebnis da war, habe ich kurz beim Hausarzt angerufen und die konnten mir dann sagen, dass die Probe von Berlin nach München geschickt wurde, weil auch das Berliner Labor überlastet war und es hieß einfach nur: Gedulde dich, sobald wir was wissen, melden wir uns."
+ Das Ganze dauerte vier Tage. Er hatte sich angesteckt. Den Kontakt zum Gesundheitsamt suchte er vergebens. Erst weitere zehn Tage später kam der Anruf in Sachen Kontaktnachverfolgung.
+Bei Jens Spahn klappte es offenbar besser
+ Ganz anders war es im Fall des Bundesgesundheitsministers. Jens Spahn berichtete Anfang der Woche von seinen Erfahrungen als Corona-Infizierter. "Ich danke meinem Berliner Gesundheitsamt hier vor Ort und den Mitarbeitern dort, die einen unglaublich professionellen Job gemacht haben und weiterhin machen und das schon seit Monaten", strahlte Spahn. "Das habe ich als Patient und als Bürger erlebt und eben nicht als Minister."
+
+ Patient Sonnen ist überrascht von solchen Schilderungen. "Ich kann das nicht wirklich glauben, oder es wird unterschieden, wenn sich der Bundesminister krankmeldet, dass es dann heißt: Alles klar, um den kümmern wir uns." Für die Mehrheit der Getesteten gehe es so aus wie für ihn, schließt Sonnen auch aufgrund von Schilderungen aus seinem Bekanntenkreis.
+Chaos und Frust
+ Doch woran genau mangelt es für Bürgerinnen und Bürger, die vermuten, dass sie sich infiziert haben? Christan Dürr hatte auch Corona. Beruflich ist er als FDP-Bundestagsabgeordneter nah dran an Politik und Verwaltung.
+ Doch auch er fühlte sich im ersten Moment allein gelassen. Sonntags erfährt er, dass ein Freund positiv getestet worden ist. Was tun? Aus offiziellen Internetseiten wird er nicht schlau - sie widersprechen sich zum Teil. "Dann habe ich ein bisschen rumtelefoniert, da wurde einem eher geraten, den Sonntag erstmal zu genießen", erinnert sich der Niedersachse. "Da war ich wirklich überrascht, denn ich war eher in Sorge. Natürlich wusste ich zu dem Zeitpunkt nicht, ob ich positiv bin, aber ich wollte es so schnell wie möglich wissen."
+
+ Chaos und Frust von Corona-Betroffenen - er höre viel davon, seit er seine eigene Odyssee öffentlich gemacht hat. Dürr berichtet von vielen Zuschriften, von Menschen, denen es ähnlich ergangen ist. Und nicht jeder, so seine Sorge, sei wahrscheinlich so motiviert, an Informationen zu kommen. "Ich habe jetzt zum ersten Mal die Perspektive des Betroffenen, des Nichtexperten eingenommen. Und ich habe gemerkt, dass es unfassbar schwierig ist, an Informationen heranzukommen, was eigentlich zu tun ist, als potenziell Erkrankter", sagt Dürr. "Und das hat mich offen gestanden schockiert, das ist ein Organisationsversagen der Politik und nicht der Ämter."
+Viele Corona-Fälle bleiben unentdeckt
+ Derweil klingeln im Gesundheitsamt Berlin-Reinickendorf weiter die Telefone. "Wir können im Moment aus Kapazitätsgründen nur testen, wenn die Kinder auch Symptome aufweisen", beruhigt eine Mitarbeiterin eine besorgte Anruferin. Amtsarzt Larscheid geht davon aus, dass viele Corona-Erkrankungen letztlich unentdeckt bleiben. "Wir sehen schon ziemlich viel vom Eisberg: Aber ich schätze, dass etwa vier Fünftel unter der Wasseroberfläche bleibt. Das heißt: Auf einen Fall, den wir sehen, sehen wir ungefähr vier Fälle nicht."
+ Noch so ein Problem im Umgang mit der Pandemie. Dennoch haben sie hier die Hoffnung nicht aufgegeben, dass die November-Maßnahmen der Regierung helfen und die Fallzahlen bald etwas sinken. Aufgeben wäre ohnehin keine Option. Im Gegenteil - auf diversen Pinnwänden prangt ihr Motto: "Durchhalten" - irgendwie.
+ Mehr zu diesem Thema sehen Sie im Bericht aus Berlin heute Abend um 18:05 im Ersten.
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

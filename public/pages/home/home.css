@@ -8,7 +8,7 @@
   }
   
   h1{
-    font-size: 32pt;
+    font-size: 28pt;
   }
 
   .imageContent{
@@ -24,7 +24,7 @@
 
   .starteJetzt{
     left: 40%;
-    font-size: 26pt;
+    font-size: 20pt;
     margin: 10px;
     background-color: #0E76E6;
     padding: 10px 17px 10px 15px;
@@ -39,7 +39,6 @@
   }
 
   .starteJetzt:hover{
-    /*background-color: #0e76e6a2;*/
     transform: scale(1.1);
 
   }

@@ -13,6 +13,12 @@
   transform: translate(-50%, -50%);
 } 
 
+#firststeps-title{
+  text-align: left;
+  font-size: 24px;
+  
+  }
+
 #faq-title{
 text-align: left;
 font-size: 24px;
@@ -62,7 +68,21 @@ font-size: 24px;
   margin-right: auto;
 }
 
-.faq, .video-title  {
+.foot {
+  width: 3%;
+  height: auto;
+  display: inline;
+  vertical-align: middle;
+  margin-right: 0.5cm;
+}
+
+.first-steps-text {
+  color:black;
+  font-size: 18px;
+  text-align: left;
+}
+
+.faq, .video-title, .first-steps {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 15px;
   color: #f5a114;

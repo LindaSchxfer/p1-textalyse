@@ -1,3 +1,18 @@
+function renderPage() {
+  switch (localStorage.getItem("currentPage")) {
+    case "projects":
+      loadProjects();
+      break;
+    case "annotation":
+      loadAnnotation();
+      break;
+    case "help":
+      loadHelp();
+      break;
+    default:
+      loadHome();
+  }
+}
 
 function loadDoc() {
   var xhttp = new XMLHttpRequest();
@@ -26,6 +41,7 @@ function loadHome() {
       document.getElementById("content").innerHTML = xhttp.responseText;
     }
   };
+  localStorage.setItem("currentPage", "home");
   xhttp.open("GET", "home", true);
   xhttp.send();
 }
@@ -37,6 +53,10 @@ function loadProjects() {
       document.getElementById("content").innerHTML = xhttp.responseText;
     }
   };
+  setTimeout(function () {
+    initDom();
+  }, 500);
+  localStorage.setItem("currentPage", "projects");
   xhttp.open("GET", "projects", true);
   xhttp.send();
 }
@@ -48,8 +68,14 @@ function loadAnnotation(id) {
       document.getElementById("content").innerHTML = xhttp.responseText;
     }
   };
-  localStorage.setItem("selectedArticle", JSON.stringify(data[id]));
-  setTimeout(function(){loadAnnotationPage()}, 200);
+  if(id!=undefined){
+    localStorage.setItem("selectedArticle", JSON.stringify(data[id]));
+  }
+
+  setTimeout(function () {
+    loadAnnotationPage();
+  }, 500);
+  localStorage.setItem("currentPage", "annotation");
   xhttp.open("GET", "annotation", true);
   xhttp.send();
 }
@@ -61,7 +87,7 @@ function loadHelp() {
       document.getElementById("content").innerHTML = xhttp.responseText;
     }
   };
-
+  localStorage.setItem("currentPage", "help");
   xhttp.open("GET", "help", true);
   xhttp.send();
 }
@@ -78,7 +104,5 @@ function loadSegmentierer() {
 }
 
 function generateElement(el) {
-  return `<h1>${
-    el.vortitel
-  }</h1>`;
+  return `<h1>${el.vortitel}</h1>`;
 }

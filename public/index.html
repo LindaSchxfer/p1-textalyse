@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" moznomarginboxes mozdisallowselectionprint>
   <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -13,7 +13,7 @@
     <link rel="stylesheet" type="text/css" href="global.css">
     <title>Document</title>
   </head>
-  <body onload="loadHome(); loadData()">
+  <body onload="renderPage(); loadData()">
     <div id="page-container">
  <!-- Header-->
  <div class="header-part">
@@ -70,8 +70,8 @@
      </ul>
     </div>
     
-    <script src="script.js"></script>
-    <script src="pages/projects/projects.js"></script>
-    <script src="pages/annotation/annotation.js"></script>
+    <script defer src="script.js"></script>
+    <script defer src="pages/projects/projects.js"></script>
+    <script defer src="pages/annotation/annotation.js"></script>
   </body>
 </html>

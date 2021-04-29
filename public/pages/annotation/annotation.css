@@ -1,3 +1,47 @@
+@media print {
+  body *{visibility: hidden;}
+  @page 
+  {
+      size:  auto;  
+      margin: 0mm;  
+  }
+  #article-content{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 95%!important;
+    visibility:visible;
+    margin: 20px;
+  }
+  #article-content p{
+    display: initial;
+    font-size: 17px!important;
+    visibility:visible;
+  }
+}
+/*
+@media print {
+  body * {
+    visibility: hidden;
+  }
+  #article-content{
+    visibility: visible;
+    background-color: white;
+    height: 100%;
+    width: 50%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin: 0;
+    padding: 15px;
+    line-height: 18px;
+  }
+  #article-content p{
+    visibility: visible;
+    font-size: 1px;
+  }
+}*/
+
 .annotation {
   display: flex;
   width: 100%;
@@ -15,12 +59,12 @@
 }
 
 .radio-wrapper {
-    display: flex;
-    margin-top: 20px;
-    margin-bottom: 7px;
+  display: flex;
+  margin-top: 20px;
+  margin-bottom: 7px;
 }
 
-h2{
+h2 {
   color: white;
 }
 
@@ -39,56 +83,54 @@ h2{
   margin-left: 5px;
 }
 
-
 #green {
   background-color: green;
   margin-left: 5px;
 }
 
-#purple{
-    background-color: purple;
+#purple {
+  background-color: purple;
 
-    margin-left: 5px;
-
+  margin-left: 5px;
 }
 
-.round{
+.round {
   width: 25px;
   height: 25px;
   border-radius: 50%;
 }
 
 .artikel {
-    width: 75%;
-    height: 100%;
-    margin: 10px;
-    border-radius: 30px;
-    padding: 10px;
+  width: 75%;
+  height: 100%;
+  margin: 10px;
+  border-radius: 30px;
+  padding: 10px;
 }
 
 #bedeutung {
-    width:100%;
-    margin-bottom: 15px;
+  width: 100%;
+  margin-bottom: 15px;
 }
 
 label {
-    font-size: 14pt;
-    font-family: Arial, Helvetica, sans-serif;
-    text-align: center;
+  font-size: 14pt;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
 }
 
 h2 {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 20pt;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20pt;
 }
 
-#article-content{
+#article-content {
   width: 800px;
   display: flex;
   flex-wrap: wrap;
 }
 
-#article-content > p{
+#article-content > p {
   cursor: pointer;
   display: block;
   margin-right: 3px;
@@ -97,27 +139,27 @@ h2 {
   text-align: left;
 }
 
-.green{
+.green {
   background-color: green;
   color: azure;
 }
 
-.blue{
+.blue {
   background-color: blue;
   color: azure;
 }
 
-.red{
+.red {
   background-color: red;
   color: azure;
 }
 
-.pink{
+.pink {
   background-color: pink;
   color: azure;
 }
 
-.purple{
+.purple {
   background-color: purple;
   color: azure;
 }

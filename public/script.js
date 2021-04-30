@@ -55,7 +55,7 @@ function loadProjects() {
   };
   setTimeout(function () {
     initDom();
-  }, 500);
+  }, 1000);
   localStorage.setItem("currentPage", "projects");
   xhttp.open("GET", "projects", true);
   xhttp.send();
@@ -74,7 +74,7 @@ function loadAnnotation(id) {
 
   setTimeout(function () {
     loadAnnotationPage();
-  }, 500);
+  }, 1000);
   localStorage.setItem("currentPage", "annotation");
   xhttp.open("GET", "annotation", true);
   xhttp.send();

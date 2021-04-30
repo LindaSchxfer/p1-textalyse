@@ -69,7 +69,7 @@ function loadAnnotation(id) {
     }
   };
   if(id!=undefined){
-    localStorage.setItem("selectedArticle", JSON.stringify(data[id]));
+    localStorage.setItem("selectedArticle", JSON.stringify(filteredData[id]));
   }
 
   setTimeout(function () {

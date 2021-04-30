@@ -1,4 +1,5 @@
 let data;
+let filteredData;
 let searchMode;
 let filter;
 let wordLength;
@@ -6,6 +7,8 @@ let radioOne;
 let radioTwo;
 let radioThree;
 let radioFour;
+
+let index = 0;
 
 function initDom() {
   filter = document.getElementById("suchbegriff");
@@ -126,29 +129,29 @@ function loadData() {
 }
 
 function showData() {
+  index = 0;
   document.getElementById("project-list").innerHTML = "";
   let word = localStorage.getItem("filterWord").toLowerCase();
   wordLength = localStorage.getItem("wordLength");
-  let copyOfData;
   switch (searchMode) {
     case "vortitel":
-      copyOfData = data.filter((el) =>
+      filteredData = data.filter((el) =>
         el.vortitel.toLowerCase().includes(word)
       );
       break;
     case "abstract":
-      copyOfData = data.filter((el) =>
+      filteredData = data.filter((el) =>
         el.abstract.toLowerCase().includes(word)
       );
       break;
     case "text":
-      copyOfData = data.filter((el) => el.text.toLowerCase().includes(word));
+      filteredData = data.filter((el) => el.text.toLowerCase().includes(word));
     default:
-      copyOfData = data.filter((el) => el.titel.toLowerCase().includes(word));
+      filteredData = data.filter((el) => el.titel.toLowerCase().includes(word));
   }
 
-  copyOfData.forEach(function (element, i) {
-    let splittedText = element.text.split(" ");
+  filteredData.forEach(function (element, i) {
+    let splittedText = element.text.split(' ');
     let wordCount = splittedText.length.toString();
 
     switch (wordLength) {
@@ -196,9 +199,9 @@ function showData() {
 
 function generateElement(el, i, length) {
   let color = "lightgray";
-
-  if (i % 2 == 0) {
+  index++;
+  if (index % 2 == 0) {
     color = "";
   }
-  return `<div class="projects-table-row ${color}" onclick="loadAnnotation(${i});"><p>${el.vortitel}</p><p>${el.titel}</p><p>${el.rubrik}</p><p>${el.publisher}</p><p>${length}</p></div>`;
+  return `<div class="projects-table-row ${color}" onclick="loadAnnotation(${i});"><p>${el.vortitel + i}</p><p>${el.titel}</p><p>${el.rubrik}</p><p>${el.publisher}</p><p>${length}</p></div>`;
 }

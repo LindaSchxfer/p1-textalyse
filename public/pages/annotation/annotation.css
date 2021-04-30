@@ -1,11 +1,12 @@
 @media print {
-  body *{visibility: hidden;}
+  body *{visibility: hidden; page-break-after: avoid !important; }
   @page 
   {
       size:  auto;  
       margin: 0mm;  
   }
   #article-content{
+    display: flex!important;
     position: absolute;
     top: 0;
     left: 0;
@@ -14,9 +15,13 @@
     margin: 20px;
   }
   #article-content p{
-    display: initial;
+    display: block!important;
     font-size: 17px!important;
     visibility:visible;
+  }
+
+  .menü-wrapper{
+    display: none !important;
   }
 }
 /*

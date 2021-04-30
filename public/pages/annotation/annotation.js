@@ -59,7 +59,7 @@ function splitText(txt, symbol) {
 }
 
 function renderText() {
-  let splittetText = splitText(currentArticle.text, /(?<=\.)|(?<=\!)|(?<=\?)/);
+  let splittetText = splitText(currentArticle.text, /(?<=\. )|(?<=\! )|(?<=\? )/);
 
   splittetText.forEach((element) => {
     articleArea.innerHTML += `

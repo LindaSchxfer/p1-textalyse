@@ -68,18 +68,25 @@ font-size: 24px;
   margin-right: auto;
 }
 
+.foot-text {
+  width: 95%;
+  display: flex;
+}
+
 .foot {
   width: 3%;
   height: auto;
   display: inline;
   vertical-align: middle;
   margin-right: 0.5cm;
+  
 }
 
 .first-steps-text {
   color:black;
   font-size: 18px;
   text-align: left;
+  
 }
 
 .faq, .video-title, .first-steps {

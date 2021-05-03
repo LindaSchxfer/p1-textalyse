@@ -227,7 +227,7 @@ a {
   border: solid 0.5px #7a7775;
   border-radius: 5px;
 }
-.tooltip .tooltipText {
+.tooltipText {
   visibility: collapse;
   width: 160px;
   background-color: #d8d8d8;
@@ -239,9 +239,9 @@ a {
   align-items: center;
   font-family: Arial, Helvetica, sans-serif;
 
-  /* Position the tooltip */
+  /* Position des tooltips */
   position: absolute;
-  z-index: 1;
+  z-index: 100;
 }
 
 .tooltip:hover .tooltipText {

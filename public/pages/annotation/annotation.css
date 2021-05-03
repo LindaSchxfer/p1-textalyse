@@ -47,6 +47,10 @@
   }
 }*/
 
+#annotation {
+  display: flex;
+}
+
 .annotation {
   display: flex;
   width: 100%;

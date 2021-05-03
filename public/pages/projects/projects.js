@@ -203,5 +203,5 @@ function generateElement(el, i, length) {
   if (index % 2 == 0) {
     color = "";
   }
-  return `<div class="projects-table-row ${color}" onclick="loadAnnotation(${i});"><p>${el.vortitel + i}</p><p>${el.titel}</p><p>${el.rubrik}</p><p>${el.publisher}</p><p>${length}</p></div>`;
+  return `<div class="projects-table-row ${color}" onclick="loadAnnotation(${i});"><p>${el.vortitel}</p><p>${el.titel}</p><p>${el.rubrik}</p><p>${el.publisher}</p><p>${length}</p></div>`;
 }

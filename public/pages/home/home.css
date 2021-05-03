@@ -18,7 +18,6 @@
     margin: 0%;
     transform: translate(-50%, -50%);
     color: white;
-    
   }
 
   .starteJetzt{
@@ -64,4 +63,8 @@
     background: #f5a114;
     box-sizing: border-box;
     border-radius: 30px;
+  }
+
+  .startboxen{
+    height: 130px;
   }

@@ -19,7 +19,7 @@
   
   }
 
-#faq-title{
+#faq-title, .video-title{
 text-align: left;
 font-size: 24px;
 }
@@ -89,7 +89,7 @@ font-size: 24px;
   
 }
 
-.faq, .video-title, .first-steps {
+.faq, .videoTutorials, .first-steps {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 15px;
   color: #f5a114;

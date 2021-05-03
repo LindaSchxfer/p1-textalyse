@@ -215,12 +215,11 @@ a {
 }
 .tooltip {
   position: relative;
-  font-weight: bold;
 }
 
 .tooltip h3 {
   font-size: 14pt;
-  padding: 2px;
+  padding: 3px 3px 2px 2px;
   margin-left: 15px;
   margin-top: 15px;
   margin-bottom: 5px;

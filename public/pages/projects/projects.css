@@ -214,8 +214,18 @@ a {
 }
 .tooltip {
   position: relative;
-  display: inline-block;
-  border-bottom: 1px dotted black;
+  font-weight: bold;
+}
+
+.tooltip h3 {
+  font-size: 14pt;
+  padding: 2px;
+  margin-left: 15px;
+  margin-top: 15px;
+  margin-bottom: 5px;
+  color: #7a7775;
+  border: solid 0.5px #7a7775;
+  border-radius: 5px;
 }
 .tooltip .tooltipText {
   visibility: collapse;
@@ -225,6 +235,8 @@ a {
   text-align: center;
   border-radius: 5px;
   padding: 5px;
+  margin-left: 15px;
+  align-items: center;
   font-family: Arial, Helvetica, sans-serif;
 
   /* Position the tooltip */

@@ -19,7 +19,7 @@
   
   }
 
-#faq-title{
+#faq-title, .video-title{
 text-align: left;
 font-size: 24px;
 }
@@ -68,21 +68,28 @@ font-size: 24px;
   margin-right: auto;
 }
 
+.foot-text {
+  width: 95%;
+  display: flex;
+}
+
 .foot {
   width: 3%;
   height: auto;
   display: inline;
   vertical-align: middle;
   margin-right: 0.5cm;
+  
 }
 
 .first-steps-text {
   color:black;
   font-size: 18px;
   text-align: left;
+  
 }
 
-.faq, .video-title, .first-steps {
+.faq, .videoTutorials, .first-steps {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 15px;
   color: #f5a114;

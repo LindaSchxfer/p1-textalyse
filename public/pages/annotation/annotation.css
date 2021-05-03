@@ -51,6 +51,41 @@
   display: flex;
 }
 
+.tooltip {
+  position: relative;
+}
+
+.tooltip h3 {
+  font-size: 14pt;
+  padding: 4px 3px 2px 3px;
+  margin-left: 15px;
+  margin-top: 39px;
+  margin-bottom: 5px;
+  color: #7a7775;
+  border: solid 0.5px #7a7775;
+  border-radius: 5px;
+}
+.tooltipText {
+  visibility: collapse;
+  width: 210px;
+  background-color: #d8d8d8;
+  color: rgb(99, 98, 98);
+  text-align: center;
+  border-radius: 5px;
+  padding: 5px;
+  margin-left: 15px;
+  align-items: center;
+  font-family: Arial, Helvetica, sans-serif;
+
+  /* Position des tooltips */
+  position: absolute;
+  z-index: 100;
+}
+
+.tooltip:hover .tooltipText {
+  visibility: visible;
+}
+
 .annotation {
   display: flex;
   width: 100%;

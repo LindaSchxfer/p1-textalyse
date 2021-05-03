@@ -216,7 +216,7 @@ a {
   display: inline-block;
   border-bottom: 1px dotted black;
 }
-.tooltip .tooltipText {
+.tooltipText {
   visibility: collapse;
   width: 160px;
   background-color: #D8D8D8;
@@ -225,11 +225,10 @@ a {
   border-radius: 5px;
   padding: 5px;
 
-  /* Position the tooltip */
+  /* Position des tooltips */
   position: absolute;
-  z-index: 1;
+  z-index: 100;
 }
-
 
 .tooltip:hover .tooltipText{
   visibility: visible;

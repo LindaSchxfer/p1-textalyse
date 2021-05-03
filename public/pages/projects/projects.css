@@ -209,7 +209,8 @@ a {
 
 #suchbegriff,
 #länge,
-#annotaion {
+#annotaion,
+#kategorie {
   display: flex;
 }
 .tooltip {
@@ -229,7 +230,7 @@ a {
 }
 .tooltipText {
   visibility: collapse;
-  width: 160px;
+  width: 210px;
   background-color: #d8d8d8;
   color: rgb(99, 98, 98);
   text-align: center;

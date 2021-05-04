@@ -6,30 +6,32 @@
     <div class="projects-box">
      <h2>Filter</h2> 
             <hr>
-            <div id="suchbegriff">
+            <div class="headline">
             <h3>Suchbegriff</h3>
                 <div class="tooltip"><h3>?</h3>
                     <span class="tooltipText">Hier kannst Du Begriffe eintragen, die in der Artikel enthalten soll. Darunter kannst dann noch genauer auswählen, in welchem Teil des Artikels die Wörter enthalten sein sollen.</span>
                 </div>
             </div>
             <label for="suchbegriff">
-                <input id="suchbegriff" name="suchbegriff" value="0" placeholder="Suchbegriff">
+                <input id="suchbegriff" name="suchbegriff" value="Corona" placeholder="Suchbegriff">
             </label></br>
 
-            <input type="radio" id="radio1" name="radio" checked value="0">
+            <input type="radio" id="radio0" name="radio" checked>
+            <label for="radio1">Alle</label></br>
+            <input type="radio" id="radio1" name="radio">
             <label for="radio1">Vortitel</label></br>
 
-            <input type="radio" id="radio2" name="radio" value="1">
+            <input type="radio" id="radio2" name="radio">
             <label for="radio2">Titel</label> </br>
 
-            <input type="radio" id="radio3" name="radio" value="2">
+            <input type="radio" id="radio3" name="radio">
             <label for="radio3">Abstract</label></br>
 
-            <input type="radio" id="radio4" name="radio" value="3">
+            <input type="radio" id="radio4" name="radio">
             <label for="radio4">Text</label></br>
 
             <hr>
-            <div id="kategorie">
+            <div class="headline">
                 <h3>Kategorie</h3>
                     <div class="tooltip"><h3>?</h3>
                         <span class="tooltipText">Hier kannst Du nach Datum, Verlag, AutorIn und Rubrik des Arikles filtern.</span>
@@ -50,23 +52,26 @@
 
           <hr>
 
-        <div id="länge">
+        <div class="headline">
         <h3>Länge</h3>
         <div class="tooltip"><h3>?</h3>
             <span class="tooltipText">Hier kannst du die Artikel nach der Länge der Wörter sortieren</span>
         </div>
         </div>
-        <input type="radio" id="length1" name="lengthradio" value="0" checked>
-        <label for="option1">1 - 500 Wörter</label></br>
-        
 
-        <input type="radio" id="length2" name="lengthradio" value="1"> 
+        <input type="radio" id="length0" name="lengthradio" checked>
+        <label for="option0">Keine Eingrenzung</label></br>
+
+        <input type="radio" id="length1" name="lengthradio">
+        <label for="option1">1 - 500 Wörter</label></br>
+
+        <input type="radio" id="length2" name="lengthradio"> 
         <label for="option2">501 - 1.500 Wörter</label></br>
 
-        <input type="radio" id="length3" name="lengthradio" value="2"> 
+        <input type="radio" id="length3" name="lengthradio"> 
         <label for="option3">1.501 - 2.500 Wörter</label></br>
 
-        <input type="radio" id="length4" name="lengthradio" value="3"> 
+        <input type="radio" id="length4" name="lengthradio"> 
         <label for="option4"> >2.500 Wörter</label></br>
 
 <!--
@@ -92,7 +97,7 @@
         </div>
     
     </div>
-    <div id="projects-list-wrapper">
+    <div class="headline">
         <div class="project-head"> 
             <!-- Button Datei hochladen
                 <div class= "upload" onclick="showData()">

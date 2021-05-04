@@ -3,6 +3,7 @@ let filteredData;
 let searchMode;
 let filter;
 let wordLength;
+let radioZero;
 let radioOne;
 let radioTwo;
 let radioThree;
@@ -14,6 +15,10 @@ function initDom() {
   filter = document.getElementById("suchbegriff");
   filter.addEventListener("change", function () {
     changeFilterWord(this.value);
+  });
+  radioZero = document.getElementById("radio0");
+  radioZero.addEventListener("change", function () {
+    changeSearchMode("*");
   });
   radioOne = document.getElementById("radio1");
   radioOne.addEventListener("change", function () {
@@ -33,6 +38,10 @@ function initDom() {
   });
   filter.value = localStorage.getItem("filterWord");
 
+  lengthZero = document.getElementById("length0");
+  lengthZero.addEventListener("change", function () {
+    changeWordMode("*");
+  });
   lengthOne = document.getElementById("length1");
   lengthOne.addEventListener("change", function () {
     changeWordMode("500");
@@ -51,13 +60,14 @@ function initDom() {
   });
   changeWordMode(localStorage.getItem("wordLength"));
   changeSearchMode(localStorage.getItem("searchMode"));
+  changeFilterWord(localStorage.getItem("filterWord"));
   showData();
 }
 
 function changeFilterWord(newFilterWord) {
   localStorage.setItem("filterWord", newFilterWord);
 
-  filter.value = localStorage.getItem("filterWord");
+  filter.value = newFilterWord;
 }
 
 function changeSearchMode(mode) {
@@ -66,6 +76,11 @@ function changeSearchMode(mode) {
       localStorage.setItem("searchMode", "vortitel");
       searchMode = localStorage.getItem("searchMode");
       radioOne.checked = true;
+      break;
+    case "titel":
+      localStorage.setItem("searchMode", "titel");
+      searchMode = localStorage.getItem("searchMode");
+      radioTwo.checked = true;
       break;
     case "abstract":
       localStorage.setItem("searchMode", "abstract");
@@ -78,33 +93,38 @@ function changeSearchMode(mode) {
       radioFour.checked = true;
       break;
     default:
-      localStorage.setItem("searchMode", "titel");
+      localStorage.setItem("searchMode", "*");
       searchMode = localStorage.getItem("searchMode");
-      radioTwo.checked = true;
+      radioZero.checked = true;
   }
 }
 
 function changeWordMode(mode) {
   switch (mode) {
+    case "500":
+      localStorage.setItem("wordLength", "500");
+      wordLength = localStorage.getItem("wordLength");
+      lengthOne.checked = true;
+      break;
     case "1500":
       localStorage.setItem("wordLength", "1500");
-      searchMode = localStorage.getItem("wordLength");
+      wordLength = localStorage.getItem("wordLength");
       lengthTwo.checked = true;
       break;
     case "2500":
       localStorage.setItem("wordLength", "2500");
-      searchMode = localStorage.getItem("wordLength");
+      searchwordLengthMode = localStorage.getItem("wordLength");
       lengthThree.checked = true;
       break;
     case "more":
       localStorage.setItem("wordLength", "more");
-      searchMode = localStorage.getItem("wordLength");
+      wordLength = localStorage.getItem("wordLength");
       lengthFour.checked = true;
       break;
     default:
-      localStorage.setItem("wordLength", "500");
-      searchMode = localStorage.getItem("wordLength");
-      lengthOne.checked = true;
+      localStorage.setItem("wordLength", "*");
+      wordLength = localStorage.getItem("wordLength");
+      lengthZero.checked = true;
   }
 }
 
@@ -129,6 +149,7 @@ function loadData() {
 }
 
 function showData() {
+  filteredData = [];
   index = 0;
   document.getElementById("project-list").innerHTML = "";
   let word = localStorage.getItem("filterWord").toLowerCase();
@@ -139,6 +160,9 @@ function showData() {
         el.vortitel.toLowerCase().includes(word)
       );
       break;
+    case "titel":
+      filteredData = data.filter((el) => el.titel.toLowerCase().includes(word));
+      break;
     case "abstract":
       filteredData = data.filter((el) =>
         el.abstract.toLowerCase().includes(word)
@@ -146,15 +170,36 @@ function showData() {
       break;
     case "text":
       filteredData = data.filter((el) => el.text.toLowerCase().includes(word));
+      break;
     default:
-      filteredData = data.filter((el) => el.titel.toLowerCase().includes(word));
+      //filteredData = data.filter((el) => el.titel.toLowerCase().includes(word));
+
+      data.forEach(function (el) {
+        if (
+          el.vortitel.toLowerCase().includes(word) ||
+          el.titel.toLowerCase().includes(word) ||
+          el.abstract.toLowerCase().includes(word) ||
+          el.text.toLowerCase().includes(word)
+        ) {
+          filteredData.push(el);
+        }
+      });
   }
 
   filteredData.forEach(function (element, i) {
-    let splittedText = element.text.split(' ');
+    let splittedText = element.text.split(" ");
     let wordCount = splittedText.length.toString();
 
     switch (wordLength) {
+      case "500":
+        if (parseInt(wordCount) <= 500) {
+          document.getElementById("project-list").innerHTML += generateElement(
+            element,
+            i,
+            wordCount
+          );
+          break;
+        }
       case "1500":
         if (parseInt(wordCount) > 500 && parseInt(wordCount) <= 1500) {
           document.getElementById("project-list").innerHTML += generateElement(
@@ -183,16 +228,14 @@ function showData() {
             wordCount
           );
           break;
-        }break;
-      default:
-        if (parseInt(wordCount) <= 500) {
-          document.getElementById("project-list").innerHTML += generateElement(
-            element,
-            i,
-            wordCount
-          );
-          break;
         }
+        break;
+      default:
+        document.getElementById("project-list").innerHTML += generateElement(
+          element,
+          i,
+          wordCount
+        );
     }
   });
 }

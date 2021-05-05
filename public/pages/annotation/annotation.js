@@ -11,45 +11,37 @@ function loadAnnotationPage() {
 function checkCurrentColor(element) {
     //removeColor(element);
   //Check Radios
-  if (document.getElementById("radioGreen").checked) {
-    element.classList.remove("blue");
-    element.classList.remove("red");
-    element.classList.remove("pink");
-    element.classList.remove("purple");
-    element.classList.toggle("green");
-  } else if (document.getElementById("radioBlue").checked) {
-    element.classList.remove("green");
-    element.classList.remove("red");
-    element.classList.remove("pink");
-    element.classList.remove("purple");
-    element.classList.toggle("blue");
-  } else if (document.getElementById("radioRed").checked) {
-    element.classList.remove("green");
-    element.classList.remove("blue");
-    element.classList.remove("pink");
-    element.classList.remove("purple");
-    element.classList.toggle("red");
-  } else if (document.getElementById("radioPink").checked) {
-    element.classList.remove("green");
-    element.classList.remove("blue");
-    element.classList.remove("red");
-    element.classList.remove("purple");
-    element.classList.toggle("pink");
-  } else if (document.getElementById("radioPurple").checked) {
-    element.classList.remove("green");
-    element.classList.remove("blue");
-    element.classList.remove("red");
-    element.classList.remove("pink");
-    element.classList.toggle("purple");
+  if (document.getElementById("radioColor1").checked) {
+    element.classList.remove("color2");
+    element.classList.remove("color3");
+    element.classList.remove("color4");
+    element.classList.remove("color5");
+    element.classList.toggle("color1");
+  } else if (document.getElementById("radioColor2").checked) {
+    element.classList.remove("color1");
+    element.classList.remove("color3");
+    element.classList.remove("color4");
+    element.classList.remove("color5");
+    element.classList.toggle("color2");
+  } else if (document.getElementById("radioColor3").checked) {
+    element.classList.remove("color1");
+    element.classList.remove("color2");
+    element.classList.remove("color4");
+    element.classList.remove("color5");
+    element.classList.toggle("color3");
+  } else if (document.getElementById("radioColor4").checked) {
+    element.classList.remove("color1");
+    element.classList.remove("color2");
+    element.classList.remove("color3");
+    element.classList.remove("color5");
+    element.classList.toggle("color4");
+  } else if (document.getElementById("radioColor5").checked) {
+    element.classList.remove("color1");
+    element.classList.remove("color2");
+    element.classList.remove("color3");
+    element.classList.remove("color4");
+    element.classList.toggle("color5");
   }
-}
-
-function removeColor(element){
-    element.classList.remove("green");
-    element.classList.remove("blue");
-    element.classList.remove("red");
-    element.classList.remove("pink");
-    element.classList.remove("purple");
 }
 
 function splitText(txt, symbol) {

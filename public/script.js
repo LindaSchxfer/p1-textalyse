@@ -106,3 +106,24 @@ function loadSegmentierer() {
 function generateElement(el) {
   return `<h1>${el.vortitel}</h1>`;
 }
+
+function scrallToFirstStepps(){
+  window.scrollTo({
+    top: 900,
+    behavior: 'smooth'
+  });
+}
+
+function scrallToVideo(){
+  window.scrollTo({
+    top: 1300,
+    behavior: 'smooth'
+  });
+}
+
+function scrallToFaq(){
+  window.scrollTo({
+    top: 1700,
+    behavior: 'smooth'
+  });
+}

@@ -55,17 +55,6 @@
   position: relative;
 }
 
-.tooltip h3 {
-  font-size: 14pt;
-  padding: 3px 3px 2px 3px;
-  margin-left: 15px;
-  margin-top: 10px;
-  margin-bottom: 5px;
-  color: #7a7775;
-  border: solid 0.5px #7a7775;
-  border-radius: 5px;
-  font-family: Arial, Helvetica, sans-serif;
-}
 .tooltipText {
   visibility: collapse;
   width: 210px;

@@ -214,13 +214,12 @@ a {
   position: relative;
 }
 
-.tooltip h3 {
-  font-size: 14pt;
+.tooltip {
   padding: 3px 3px 2px 2px;
   margin-left: 15px;
   margin-top: 10px;
   margin-bottom: 5px;
-  color: #7a7775;
+  color: white;
   border-radius: 5px;
 }
 .tooltipText {

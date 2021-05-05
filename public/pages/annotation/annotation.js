@@ -9,8 +9,6 @@ function loadAnnotationPage() {
 }
 
 function checkCurrentColor(element) {
-    //removeColor(element);
-  //Check Radios
   if (document.getElementById("radioGreen").checked) {
     element.classList.remove("blue");
     element.classList.remove("red");
@@ -44,14 +42,6 @@ function checkCurrentColor(element) {
   }
 }
 
-function removeColor(element){
-    element.classList.remove("green");
-    element.classList.remove("blue");
-    element.classList.remove("red");
-    element.classList.remove("pink");
-    element.classList.remove("purple");
-}
-
 function splitText(txt, symbol) {
   let splText;
   splText = txt.split(symbol);
@@ -59,31 +49,14 @@ function splitText(txt, symbol) {
 }
 
 function renderText() {
-  let splittetText = splitText(currentArticle.text, /(?<=\. )|(?<=\! )|(?<=\? )/);
+  let splittetText = splitText(
+    currentArticle.text,
+    /(?<=\. )|(?<=\! )|(?<=\? )/
+  );
 
   splittetText.forEach((element) => {
     articleArea.innerHTML += `
-        <p onclick="checkCurrentColor(this)">${element + ""}</p>
+        <p onclick="checkCurrentColor(this)">${element}</p>
         `;
   });
 }
-
-
-/* function printElem(elem)
-{
-    var mywindow = window.open('', 'PRINT', 'height=400,width=600');
-
-    mywindow.document.write('<html><head><title>' + document.title  + '</title>');
-    mywindow.document.write('</head><body >');
-    //mywindow.document.write('<h1>' + document.title  + '</h1>');
-    mywindow.document.write(document.getElementById(elem).innerHTML);
-    mywindow.document.write('</body></html>');
-
-    mywindow.document.close(); // necessary for IE >= 10
-    mywindow.focus(); // necessary for IE >= 10
-
-    mywindow.print();
-    mywindow.close();
-
-    return true;
-} */

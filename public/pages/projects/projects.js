@@ -128,10 +128,6 @@ function changeWordMode(mode) {
   }
 }
 
-window.addEventListener("load", (event) => {
-  console.log("page is fully loaded");
-});
-
 function loadData() {
   var xhttp = new XMLHttpRequest();
   xhttp.onreadystatechange = function () {
@@ -198,8 +194,8 @@ function showData() {
             i,
             wordCount
           );
-          break;
         }
+        break;
       case "1500":
         if (parseInt(wordCount) > 500 && parseInt(wordCount) <= 1500) {
           document.getElementById("project-list").innerHTML += generateElement(
@@ -207,7 +203,6 @@ function showData() {
             i,
             wordCount
           );
-          break;
         }
         break;
       case "2500":
@@ -217,7 +212,6 @@ function showData() {
             i,
             wordCount
           );
-          break;
         }
         break;
       case "more":
@@ -227,7 +221,6 @@ function showData() {
             i,
             wordCount
           );
-          break;
         }
         break;
       default:

@@ -1,71 +1,71 @@
 
-  .head {
-    display: block;
-    position: relative;
-    top: -50px;
-    text-align: center;
-  }
-  
-  h1{
-    font-size: 28pt;
-  }
+.head {
+  display: block;
+  position: relative;
+  top: -50px;
+  text-align: center;
+}
 
-  .imageContent{
-    font-family: Arial, Helvetica, sans-serif;
-    position: absolute;
-    top: 40%;
-    left: 50%;
-    margin: 0%;
-    transform: translate(-50%, -50%);
-    color: white;
-  }
+h1{
+  font-size: 28pt;
+}
 
-  .starteJetzt{
-    left: 40%;
-    font-size: 20pt;
-    margin: 10px;
-    background-color: #0E76E6;
-    padding: 10px 17px 10px 15px;
-    margin: 0 auto;
-    position: relative;
-    border-radius: 5px;
-    font-family: Arial, Helvetica, sans-serif;
-    color: white;
-    cursor: pointer;
-    border: none;
-    text-align: center;
-  }
+.imageContent {
+  font-family: Arial, Helvetica, sans-serif;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  margin: 0%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
 
-  .starteJetzt:hover{
-    transform: scale(1.1);
-  }
-  
- .welcome-image{
-    width: 100%;
-    height: 500px;
-  }
+.starteJetzt {
+  left: 40%;
+  font-size: 20pt;
+  margin: 10px;
+  background-color: #0E76E6;
+  padding: 10px 17px 10px 15px;
+  margin: 0 auto;
+  position: relative;
+  border-radius: 5px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  cursor: pointer;
+  border: none;
+  text-align: center;
+}
 
-  .box-wrapper {
-    display: block;
-    width: 100%;
-    margin: 0 auto;
-    display: flex;
-    justify-content: space-between;
-    width: 75%;
-    padding: 20px 0 20px 0;
-  }
+.starteJetzt:hover {
+  transform: scale(1.1);
+}
 
-  .box {
-    width: 30%;
-    padding: 15px;
-    font-family: Helvetica, sans-serif;
-    color: white;
-    background: #f5a114;
-    box-sizing: border-box;
-    border-radius: 30px;
-  }
+.welcome-image {
+  width: 100%;
+  height: 500px;
+}
 
-  .startboxen{
-    height: 180px;
-  }
+.box-wrapper {
+  display: block;
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  width: 75%;
+  padding: 20px 0 20px 0;
+}
+
+.box {
+  width: 30%;
+  padding: 15px;
+  font-family: Helvetica, sans-serif;
+  color: white;
+  background: #f5a114;
+  box-sizing: border-box;
+  border-radius: 30px;
+}
+
+.startboxen {
+  height: 180px;
+}
 

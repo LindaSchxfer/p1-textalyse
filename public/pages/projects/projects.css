@@ -125,6 +125,10 @@ form {
   cursor: pointer;
 }
 
+.usefilter button:hover{
+  background-color: #0E76E6;
+}
+
 .projects-box #date {
   margin-bottom: 10px;
   margin-top: 3px;
@@ -183,6 +187,10 @@ form {
   cursor: pointer;
 }
 
+.undofilter button:hover {
+  text-decoration: underline;
+}
+
 .undofilter {
   margin: 0;
 }
@@ -210,6 +218,7 @@ a {
 .headline{
   display: flex;
 }
+
 .tooltip {
   position: relative;
 }
@@ -222,6 +231,7 @@ a {
   color: white;
   border-radius: 5px;
 }
+
 .tooltipText {
   visibility: collapse;
   width: 210px;

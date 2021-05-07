@@ -107,21 +107,21 @@ function generateElement(el) {
   return `<h1>${el.vortitel}</h1>`;
 }
 
-function scrollToFirstStepps(){
+function scrollToFirstStepps() {
   window.scrollTo({
     top: 900,
     behavior: 'smooth'
   });
 }
 
-function scrollToVideo(){
+function scrollToVideo() {
   window.scrollTo({
-    top: 1300,
+    top: 1400,
     behavior: 'smooth'
   });
 }
 
-function scrollToFaq(){
+function scrollToFaq() {
   window.scrollTo({
     top: 1700,
     behavior: 'smooth'

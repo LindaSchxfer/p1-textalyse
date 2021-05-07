@@ -13,25 +13,26 @@
   transform: translate(-50%, -50%);
 } 
 
-#firststeps-title{
+#firststeps-title {
   text-align: left;
   font-size: 24px;
   margin-top: 20px;
   }
 
-#faq-title, .video-title{
+#faq-title, .video-title {
   text-align: left;
   font-size: 24px;
 }
-#faq-title{
+
+#faq-title {
   margin-top: 40px;
 }
 
-.titelhelp{
+.titelhelp {
   margin-top: -20px;
 }
 
-.help-image{
+.help-image {
   width: 100%;
   opacity: 100%;
 }
@@ -105,11 +106,11 @@
   width: 75%;
 }
 
-.faq{
+.faq {
   margin-bottom: 40px;
 }
 
-details, .video-text  {
+details, .video-text {
   color: #383635;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 18px;
@@ -130,7 +131,7 @@ summary:hover {
   color: #f5a114;
 }
 
-.video{
+.video {
   display: block;
   margin: 0 auto;
   border: solid 1px #f5a114;

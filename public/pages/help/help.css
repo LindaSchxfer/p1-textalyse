@@ -136,3 +136,13 @@ summary:hover {
   margin: 0 auto;
   border: solid 1px #f5a114;
 }
+
+.grafik {
+  align-items: center;
+  text-align: center;
+}
+
+.grafikTextalyse {
+  width: 70%;
+  height: auto;
+}

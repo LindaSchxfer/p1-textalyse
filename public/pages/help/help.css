@@ -10,15 +10,16 @@
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
-} 
+}
 
 #firststeps-title {
   text-align: left;
   font-size: 24px;
   margin-top: 20px;
-  }
+}
 
-#faq-title, .video-title {
+#faq-title,
+.video-title {
   text-align: left;
   font-size: 24px;
 }
@@ -82,18 +83,19 @@
   display: inline;
   vertical-align: middle;
   margin-right: 0.5cm;
-  
 }
 
 .first-steps-text {
-  color:black;
+  color: black;
   font-size: 18px;
   text-align: left;
   width: 100%;
   margin-left: 10px;
 }
 
-.faq, .videoTutorials, .first-steps {
+.faq,
+.videoTutorials,
+.first-steps {
   font-size: 15px;
   color: #f5a114;
   display: block;
@@ -108,7 +110,8 @@
   margin-bottom: 40px;
 }
 
-details, .video-text {
+details,
+.video-text {
   color: #383635;
   font-size: 18px;
   margin-bottom: 5px;
@@ -142,4 +145,8 @@ summary:hover {
 .grafikTextalyse {
   width: 70%;
   height: auto;
+}
+
+html {
+  scroll-behavior: smooth;
 }

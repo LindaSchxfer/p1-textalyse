@@ -43,7 +43,6 @@
   padding: 5px;
   margin-left: 15px;
   align-items: center;
-  font-family: Arial, Helvetica, sans-serif;
 
   /* Position des tooltips */
   position: absolute;
@@ -124,12 +123,10 @@ h2 {
 
 label {
   font-size: 14pt;
-  font-family: Arial, Helvetica, sans-serif;
   text-align: center;
 }
 
 h2 {
-  font-family: Arial, Helvetica, sans-serif;
   font-size: 20pt;
 }
 

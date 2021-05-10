@@ -18,7 +18,6 @@ function loadDoc() {
   var xhttp = new XMLHttpRequest();
   xhttp.onreadystatechange = function () {
     if (this.readyState == 4 && this.status == 200) {
-      //document.getElementById("demo").innerHTML += this.responseText;
       let r = JSON.parse(this.responseText);
       let filter = document.getElementById("filter");
       let word = filter.value;

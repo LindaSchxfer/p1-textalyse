@@ -53,11 +53,6 @@ app.get("/csv", (req, res) => {
     .on("end", () => {
       console.log(results);
       res.send(results);
-
-      // [
-      //   { NAME: 'Daffy Duck', AGE: '24' },
-      //   { NAME: 'Bugs Bunny', AGE: '22' }
-      // ]
     });
 });
 
@@ -66,9 +61,7 @@ app.listen(port, () => {
 });
 
 app.get("/xml", (req, res) => {
-  //console.log(req.params);
   res.send(getXML());
-  //res.send(data);
 });
 
 function getFiles(path) {
@@ -81,7 +74,6 @@ function getFiles(path) {
 
 function parseXML(file) {
   let obj = {};
-  //console.log(file);
   let content = fs.readFileSync("xml/" + file);
 
   const $ = cheerio.load(content.toString(), {
@@ -91,15 +83,10 @@ function parseXML(file) {
   const fields = $("fields field");
 
   fields.each((index, element) => {
-    //console.log(element.attribs["name"]);
     const value = $("value", element);
-
-    //console.log(value.text());
     obj[element.attribs["name"]] = value.text();
   });
-  //console.log(obj);
   return obj;
-  //console.log(resultArray.length);
 }
 
 function getXML() {

@@ -67,7 +67,7 @@ function loadAnnotation(id) {
       document.getElementById("content").innerHTML = xhttp.responseText;
     }
   };
-  if(id!=undefined){
+  if (id != undefined) {
     localStorage.setItem("selectedArticle", JSON.stringify(filteredData[id]));
   }
 
@@ -107,22 +107,17 @@ function generateElement(el) {
 }
 
 function scrollToFirstStepps() {
-  window.scrollTo({
-    top: 900,
-    behavior: 'smooth'
-  });
+  document.getElementById("ersteSchritte").scrollIntoView();
 }
 
 function scrollToVideo() {
-  window.scrollTo({
-    top: 1400,
-    behavior: 'smooth'
-  });
+  document.getElementById("videoTutorials").scrollIntoView();
 }
 
 function scrollToFaq() {
-  window.scrollTo({
+  document.getElementById("faqTitel").scrollIntoView();
+  /*window.scrollTo({
     top: 1700,
-    behavior: 'smooth'
-  });
+      behavior: "smooth",
+  });*/
 }

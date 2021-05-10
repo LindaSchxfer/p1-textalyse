@@ -1,5 +1,4 @@
 #helpText {
-  font-family: Arial, Helvetica, sans-serif;
   width: 60%;
   text-align: center;
   color: white;
@@ -95,7 +94,6 @@
 }
 
 .faq, .videoTutorials, .first-steps {
-  font-family: Arial, Helvetica, sans-serif;
   font-size: 15px;
   color: #f5a114;
   display: block;
@@ -112,7 +110,6 @@
 
 details, .video-text {
   color: #383635;
-  font-family: Arial, Helvetica, sans-serif;
   font-size: 18px;
   margin-bottom: 5px;
   padding-right: 15px;

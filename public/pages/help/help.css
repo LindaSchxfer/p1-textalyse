@@ -19,12 +19,14 @@
 }
 
 #faq-title,
-.video-title {
+.video-title,
+#docs-title {
   text-align: left;
   font-size: 24px;
 }
 
-#faq-title {
+#faq-title,
+#docs-title {
   margin-top: 40px;
 }
 
@@ -85,7 +87,8 @@
   margin-right: 0.5cm;
 }
 
-.first-steps-text {
+.first-steps-text,
+.docs-text {
   color: black;
   font-size: 18px;
   text-align: left;
@@ -93,9 +96,15 @@
   margin-left: 10px;
 }
 
+.docs-text {
+  margin-left: 0px;
+  padding-top: 3px;
+}
+
 .faq,
 .videoTutorials,
-.first-steps {
+.first-steps,
+.docs {
   font-size: 15px;
   color: #f5a114;
   display: block;

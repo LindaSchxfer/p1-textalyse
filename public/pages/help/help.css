@@ -99,6 +99,7 @@
 .docs-text {
   margin-left: 0px;
   padding-top: 3px;
+  margin-top: 20px;
 }
 
 .faq,
@@ -158,4 +159,8 @@ summary:hover {
 
 html {
   scroll-behavior: smooth;
+}
+
+.video-text {
+  margin-top: 30px;
 }

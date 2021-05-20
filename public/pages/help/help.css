@@ -164,3 +164,21 @@ html {
 .video-text {
   margin-top: 30px;
 }
+
+.button-docs {
+  margin: 20px auto;
+  background-color: #383635;
+  border: none;
+  padding: 10px 20px 10px 20px;
+  border-radius: 10px;
+  width: 300px;
+  font-family: sans-serif;
+  font-size: 15px;
+  color: white;
+  cursor: pointer;
+
+  display: inline;
+  margin-left: auto;
+  margin-right: 30px;
+  margin-bottom: 50px;
+}

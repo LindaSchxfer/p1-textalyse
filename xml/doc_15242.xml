@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15242</uid>
+   <externalId>15242</externalId>
+   <documentDate>2020-11-18T15:54:52Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Corona-Pandemie in Dänemark]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[Skandal um Nerztötung kostet Minister den Job]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[ausland]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/ausland/nerze-coronavirus-daenemark-101.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Nach dem Fund einer Coronavirus-Mutation bei dänischen Nerzen wollte die Regierung Millionen der Pelztiere keulen. Doch offenbar fehlte dafür bislang die Rechtsgrundlage. Den Landwirtschaftsminister kostete das jetzt den Job.]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Nach dem Fund einer Coronavirus-Mutation bei dänischen Nerzen wollte die Regierung Millionen der Pelztiere keulen. Doch offenbar fehlte dafür bislang die Rechtsgrundlage. Den Landwirtschaftsminister kostete das jetzt den Job. 
+ Der dänische Landwirtschaftsminister Mogens Jensen ist wegen der Tötung von Millionen Nerzen zurückgetreten. "Ich habe heute die Ministerpräsidentin informiert, dass ich von der Regierung zurücktreten will", teilte er mit. Die dänische Regierung hatte wegen des Funds einer mutierten Version des Coronavirus die Tötung aller auf Farmen gehaltenen Nerze angeordnet, ohne dass es für das Keulen von gesunden Tieren die notwendige Gesetzgebung gegeben hatte. "Ich entschuldige mich", sagte Jensen dem dänischen Sender DR.
+
+Jensen fehlte Unterstützung im Parlament
+ Die Regierung in Kopenhagen teilte mit, dass nun eine Mehrheit des Parlaments ihre Entscheidung zur Tötung der Nerze unterstütze. Die linksgerichteten Parteien, von denen die Minderheitsregierung der Sozialdemokraten unterstützt wird, hätten indes kein Vertrauen mehr in den Landwirtschaftsminister. Dieser zog daraufhin die Konsequenzen und teilte auf Facebook mit, nicht länger auf die ausreichende Unterstützung einer Mehrheit der dänischen Parlamentsparteien bauen zu können. Er habe der Ministerpräsidentin Mette Frederiksen mitgeteilt, aus der Regierung auszutreten.
+ Anfang des Monats war eine mutierte Version des Coronavirus auf einigen dänischen Farmen gefunden worden, mit der sich auch Menschen angesteckt hatten. Insgesamt sollten daraufhin rund 15 Millionen Nerze getötet werden, darunter auch gesunde Tiere. Besonders die sogenannte Cluster-5-Variante des Virus war vom dänischen Gesundheitsinstitut SSI als besorgniserregend eingestuft worden, weil diese nach Angaben des Instituts mögliche Auswirkungen auf künftige Corona-Impfstoffe haben könnte.
+ Laut der dänischen Lebensmittelbehörde Fødevarestyrelsen wurden inzwischen alle Nerze auf den mit dem Coronavirus befallenen Farmen getötet - 284 sind insgesamt betroffen. Das entspricht etwa jeder vierten Nerzfarm in Dänemark. 25 weitere stünden darüber hinaus unter Corona-Verdacht.
+
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

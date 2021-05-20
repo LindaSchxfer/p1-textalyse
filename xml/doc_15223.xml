@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15223</uid>
+   <externalId>15223</externalId>
+   <documentDate>2020-11-16T13:31:30Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Coronavirus-Pandemie]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[Spahn will Kliniken entlasten]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[inland]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/inland/spahn-kliniken-corona-101.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Zuletzt meldete das RKI fast 11.000 Neuinfektionen - dennoch bleibt die Lage in den Kliniken angespannt: Mehrfach hatten Ärzteverbände mehr Unterstützung vom Bund gefordert. Jetzt hat Gesundheitsminister Spahn reagiert.]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Zuletzt meldete das RKI fast 11.000 Neuinfektionen - dennoch bleibt die Lage in den Kliniken angespannt: Mehrfach hatten Ärzteverbände mehr Unterstützung vom Bund gefordert. Jetzt hat Gesundheitsminister Spahn reagiert.
+ Bundesgesundheitsminister Jens Spahn hat den Krankenhäusern in der Corona-Pandemie Entlastungen zugesagt. Er werde mit den Bundesländern zunehmend konkrete Maßnahmen beraten, damit kein Krankenhaus durch die Pandemie in eine wirtschaftliche Schieflage gerate, sagte Spahn in einer Videobotschaft zur Eröffnung des Deutschen Krankenhaustages in Düsseldorf. Spahn verwies zudem auf bereits in die Wege geleitete Maßnahmen wie das Krankenhauszukunftsgesetz.
+ Nach Angaben der Deutschen Krankenhausgesellschaft werden in Deutschland derzeit 3500 Covid-19-Patienten auf Intensivstationen behandelt - laut Gerald Gaß, Präsident der Deutschen Krankenhausgesellschaft, sind das 20 Prozent mehr als bei der ersten Welle im Frühjahr. Auf den normalen Stationen der Kliniken befänden sich derzeit 15.000 Covid-19-Patienten.
+
+Ärztepräsident hatte Unterstützung gefordert
+ Vor Spahns Hilfsankündigung hatte der Präsident der Bundesärztekammer, Klaus Reinhardt, angesichts der anhaltend hohen Infektionszahlen mehr Unterstützung für Krankenhäuser gefordert. Viele Kliniken in Regionen mit zahlreichen Infektionen hätten bereits jetzt die Belastungsgrenze erreicht, sagte Reinhardt der Nachrichtenagentur dpa.
+ "Die Maßnahmen des Lockdown-light mögen das exponentielle Wachstum der Pandemie in Deutschland bremsen", so der Ärztepräsident. Für die Sicherstellung der Behandlung der zahlreichen Covid-19-Patienten seien aber mehr personelle Ressourcen auch auf den Intensivstationen nötig. "Deshalb müssen wir jetzt entscheiden, wie wir mit planbaren Eingriffen umgehen", verlangte Reinhardt. In medizinisch vertretbaren Fällen müssten diese notfalls verschoben werden.
+
+Besserer Schutz für Pflegekräfte und Ärzte?
+ Reinhardt machte sich für verstärkte Kooperation zwischen den Kliniken stark, um möglichst wenige Behandlungen verschieben zu müssen. Freie Kapazitäten müssten genutzt werden. Auch andere Patienten müssten möglichst voll versorgt werden. Die Länder sollten entsprechende Maßnahmen ergreifen. Bis zum Ende der Pandemie müssten die Länder diese auch finanzieren, verlangte Reinhardt.
+ Zudem müssten die Ärzte und Pflegekräfte besser vor Corona-Infektionen geschützt werden. Mindestens 21.000 Beschäftigte in Krankenhäusern, Arztpraxen und anderen Einrichtungen des Gesundheitswesens hätten sich seit Beginn der Pandemie mit Corona infiziert. Aktuell seien es 1700 Mitarbeiter. "Hier muss dringend etwas passieren", so Reinhardt.
+Neuinfektionszahlen niedriger als noch vor einer Woche
+ Am Montagmorgen hatten die Gesundheitsämter in Deutschland dem Robert Koch-Institut (RKI) 10.824 Neuinfektionen mit dem Coronavirus innerhalb eines Tages gemeldet. Das sind rund 6100 Fälle weniger als am Sonntag, wie aus Angaben des RKI vom Morgen hervorgeht. An Montagen sind die erfassten Fallzahlen meist niedriger, unter anderem weil am Wochenende weniger getestet wird und nicht alle Gesundheitsämter Daten an das RKI übertragen. Am vergangenen Montag hatte die Zahl gemeldeter Neuinfektionen bei 13.363 gelegen. Der Höchststand war am vergangenen Freitag mit 23.542 gemeldeten Fällen erreicht worden.
+ Die Zahl der Todesfälle im Zusammenhang mit dem Virus stieg bis Montag um 62 auf insgesamt 12.547. Insgesamt haben sich dem RKI zufolge seit Beginn der Pandemie bundesweit 801.327 Menschen mit Sars-CoV-2 infiziert (Stand: 16. 11., 00.00 Uhr).
+ Das sogenannte Sieben-Tage-R lag laut RKI-Lagebericht vom Sonntag bei 1,03 (Vortag: 1,05). Das heißt, dass 100 Infizierte rechnerisch gut 100 weitere Menschen anstecken. Der Wert bildet jeweils das Infektionsgeschehen vor 8 bis 16 Tagen ab. Liegt er für längere Zeit unter 1, flacht das Infektionsgeschehen ab.
+
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

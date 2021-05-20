@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en" moznomarginboxes mozdisallowselectionprint>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="pages/home/home.css">
+    <link rel="stylesheet" type="text/css" href="pages/projects/projects.css">
+    <link rel="stylesheet" type="text/css" href="pages/annotation/annotation.css">
+    <link rel="stylesheet" type="text/css" href="pages/help/help.css">
+    <link rel="stylesheet" type="text/css" href="pages/segmentierer/segmentierer.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="global.css">
+    <title>TEXTALYSE | Text-Analyseplattform mit Segmentierer</title>
+  </head>
+  <body onload="renderPage(); loadData()">
+    <div id="page-container">
+ <!-- Header-->
+ <div class="header-part">
+  <div class="header">
+   <div class="logo" onclick="loadHome()">
+     <img src="assets/logo.png" alt="Logo: Textalyse"></img>
+   </div>
+   <!--<div class= "anmeldung">
+     <p>Willkommen!</p>
+     <button onclick="loadHome()"><p>Anmelden</p></button>
+     </div>-->
+ </div>
+ <div class="headerTeil"></div>
+<!-- Button-Bar-->
+<div class="button-bar">
+   <div class="txa-button-wrapper" onclick="loadHome()">
+       <div class="txa-icon shadow">
+         <span class="material-icons md-light md-36">home</span>
+       </div>          
+       <p href="projects/projects.html">Start</p>
+   </div>
+   <div class="txa-button-wrapper" onclick="loadProjects()">
+       <div class="txa-icon shadow">
+         <span class="material-icons md-light md-36">lightbulb</span>
+       </div>
+       <p>Projekte</p>
+   </div>
+   <!--<div class="txa-button-wrapper" onclick="loadUser()">
+       <div class="txa-icon shadow">
+         <span class="material-icons md-light md-36">people</span>
+       </div>
+       <p>Nutzerprofil</p>
+   </div>-->
+   <div class="txa-button-wrapper" onclick="loadHelp()">
+       <div class="txa-icon shadow">
+         <span class="material-icons md-light md-36">help</span>
+       </div>
+       <p>Hilfe</p>
+   </div>
+ </div>
+</div>
+
+ <!--Dynamic Content-->
+ <!--<input id="filter"><button type="button" ">Read CSV Data</button>-->
+
+ <div id="content"></div>
+
+    <!--Footer-->
+    <div class="footer">
+     <ul>
+       <li><a class="footerText" href="#">Impressum</a></li>
+       <li><a class="footerText" href="#">Datenschutzerklärung</a></li>
+       <li><a class="footerText" href="#">Kontakt</a></li>
+     </ul>
+    </div>
+    
+    <script defer src="script.js"></script>
+    <script defer src="pages/projects/projects.js"></script>
+    <script defer src="pages/annotation/annotation.js"></script>
+  </body>
+</html>

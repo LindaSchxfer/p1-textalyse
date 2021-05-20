@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15213</uid>
+   <externalId>15213</externalId>
+   <documentDate>2020-11-16T00:30:00Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Coronavirus-Ausbreitung]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[So schnell verdoppeln sich die Fallzahlen]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[ausland]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/ausland/coronavirus-karte-verdopplungszeit-101.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Wann könnten Maßnahmen gegen die Ausbreitung des Coronavirus gelockert werden? Die Verdopplungszeit der Fallzahlen gilt als wichtiges Kriterium bei dieser Entscheidung. Wie sich die Verdopplungszeiten entwickeln, zeigt die interaktive Karte.]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Wann könnten Maßnahmen gegen die Ausbreitung des Coronavirus gelockert werden? Die Verdopplungszeit der Fallzahlen gilt als wichtiges Kriterium bei dieser Entscheidung. Wie sich die Verdopplungszeiten entwickeln, zeigt die interaktive Karte.
+ Wie wirksam sind die Maßnahmen, die die Ausbreitung des Coronavirus bremsen sollen? Einige Kennzahlen helfen dabei, Antworten auf diese Frage zu finden. Neben dem Anstieg der Fallzahlen gilt die Reproduktionszahl als wichtiger Indikator. Sie gibt an, wie viele weitere Menschen ein Infizierter im Schnitt ansteckt. Das Robert Koch-Institut (RKI) verfolgt das Ziel, diesen Wert unter 1,0 zu senken.
+
+"Ein erster wichtiger Anhaltspunkt"
+ Ein anderer Wert, den Bundeskanzlerin Angela Merkel Ende März als Kriterium nannte, ist die sogenannte Verdopplungszeit. Bei einer Epidemie handelt es sich dabei um die Zeitspanne, in der sich die Fallzahlen verdoppeln. Eine Verlängerung der Verdopplungszeit ist aus Sicht des RKI „ein erster wichtiger Anhaltspunkt für die Wirksamkeit von Maßnahmen“.
+ Aber auch bei einer deutlichen Verlangsamung der Ausbreitung kann die Zahl der Infizierten so stark steigen, dass das Gesundheitssystem überlastet wird. Als alleiniger Maßstab ist der Wert deshalb nicht geeignet. Bei welcher Verdopplungszeit welche Maßnahmen gelockert werden können, ist vor allem eine politische Entscheidung, die verschiedene Kriterien berücksichtigt.
+
+Unterschiedliche Berechnungen möglich
+ Die Verdopplungszeit kann auf unterschiedliche Weise berechnet werden und unterscheidet sich daher von Quelle zu Quelle. Für die folgenden Karten wurde für jedes Land und jedes Datum ein Wachstumswert auf Basis der Infektionszahlen der vorangegangenen fünf Tage errechnet. So wird der Einfluss von Schwankungen minimiert, die sich etwa durch geringere Meldezahlen an Wochenenden ergeben. Mit Hilfe dieses Wachstumswertes wird die Zeit ermittelt, innerhalb der sich bei einer Fortsetzung der Epidemie mit gleichbleibendem Wachstumswert die Fallzahlen verdoppeln würden.
+ Da die Weltkarte auf Infektionszahlen der Johns Hopkins University und die Bundesländer-Karte auf Zahlen des Robert Koch-Instituts basiert, finden sich in den Karten zwei unterschiedliche Verdopplungszeiten für Deutschland.
+
+
+Wie schnell verdoppeln sich die Fallzahlen weltweit?
+
+
+Wie schnell verdoppeln sich die Fallzahlen in den Bundesländern?
+
+
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

@@ -1,0 +1,100 @@
+<!-- Seitenname mit Hintergrundbild -->
+<div class="pageName">Hilfe</div>
+<!-- Image-->
+<div class="titelhelp">
+      <div class="bildrahmen">
+        <h1 id="helpText">Alles was du zum Start mit TEXTALYSE wissen musst:</h1>
+        <img class="help-image" src="../assets/help.jpg" alt="Test" />
+      </div>
+  </div>
+
+  <!--Cards-->
+  <div class="box-wrapper">
+    <div class="box shadow">
+      <b>Erste Schritte</b></br>
+      <br>Aller Anfang ist schwer. Hier findest Du Einstiegsmöglichkeiten.
+      <br><button type="button" onclick="scrollToFirstStepps()"  class="button-hilfe">Erste Schritte</button>
+    </div>
+    <div class="box shadow">
+      <b>Video-Tutorials</b><br>
+      <br>Wir erklären Dir Schritt für Schritt, wie Du vorgehen kannst.
+      <br><button type="button" onclick="scrollToVideo()" class="button-hilfe">Video-Tutorials</button>
+    </div>
+    <div class="box shadow">
+      <b>FAQ</b></br>
+      <br>Die am häufigsten gestellten Fragen für Dich beantwortet.
+      <br><button type="button"onclick="scrollToFaq()" class="button-hilfe">FAQ</button>
+    </div>
+  </div>
+  
+  <!--Grafik zum Einstieg in TEXTALYSE-->
+  <div class="grafik">
+    <img class="grafikTextalyse" src="../assets/Grafik-Nutzung-TEXTALYSE_orange.png" alt="Test"/>
+  </div>
+
+    <div class="first-steps">
+      <p id="firststeps-title"><b id="ersteSchritte">Erste Schritte</b><br><br>
+      <div class="foot-text">
+      <img class="foot" src="assets/foot_1.png"> 
+      <p class= "first-steps-text">Um zu starten, wähle in unserer Menüleiste den Punkt "Projekte" aus. </p> </div><br>
+      <div class="foot-text">
+      <img class="foot" src="assets/foot_2.png">
+      <p class= "first-steps-text">Falls Du mit Deinen eigenen Daten arbeiten möchtest, kannst Du diese ganz einfach mit den bereits vorhandenen austauschen. Dafür siehst Du dir am besten unser Video-Tutorial an.</p></div><br>
+      <div class="foot-text">
+      <img class="foot" src="assets/foot_3.png">
+      <p class= "first-steps-text">Deine Dateien kannst Du nun beliebig filtern und anzeigen lassen. 
+        Wähle dazu in unserem Filterbereich aus, wonach Du Deine Dateien sortieren möchtest und klicke auf "Filter anwenden".</p></div><br>
+      <div class="foot-text">
+      <img class="foot" src="assets/foot_4.png">
+      <p class= "first-steps-text">Nun kannst Du eine Datei auswählen und diese mithilfe der Segmentierfunktion individuell mit Tags versehen. 
+        Dafür wählst Du in dem Segmentierbereich eine Farbe und weist dieser im darunterliegenden Textfeld eine Bedeutung zu. 
+        Durch das Anklicken von Textabschnitten in Deiner Datei, kannst Du diese passend markieren.  </p></div><br>
+    <div class="foot-text">
+      <img class="foot" src="assets/foot_5.png">
+      <p class= "first-steps-text">Bei Bedarf kannst Du anschließend Deine Dateien ausdrucken. Vergiss dabei nicht die Hintergrundgrafiken im Druckmenü zu aktivieren, damit Deine Markierungen sichtbar bleiben. </p></div>
+     </div> </br> </br>
+    <div class="videoTutorials">
+      <p class="video-title"><b id="videoTutorials">Video-Tutorials</b></p></br>
+        <p class="video-text">Wie starte ich mit TEXTALYSE?</p>
+        <iframe class="video" width="672" height="378" src="https://www.youtube.com/embed/LM3k_TWfdgA" 
+          title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+        </iframe>
+        <p class="video-text">Wie pflege ich meine eigenen Daten ein?</p>
+        <iframe class="video" width="672" height="378" src="https://www.youtube.com/embed/lA7HHPchbnE" 
+          title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+        </iframe>
+        <p class="video-text">Wie binde ich neue Features ein?</p>
+        <iframe class="video" width="672" height="378" src="https://www.youtube.com/embed/TsqKuNuTBVs" 
+          title="YouTube video player" frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+        </iframe>
+    </div>
+    <div class="faq">
+      <p id="faq-title"><b id="faqTitel">FAQ</b></p>
+      <details>
+        <summary>Wo finde ich den Daten-Upload?</summary>
+        <p class="faq-answers">Den Daten-Upload findest du unter dem Menüpunkt "Projekte".</p>
+      </details>
+      <details>
+        <summary>Kann ich auch Personen zur Mitarbeit an einem Projekt einladen?</summary>
+        <p class="faq-answers">Im Moment arbeiten wir noch an einer Anmeldefunktion und somit auch einer Funktion zum gemeinsamen Arbeiten.</p>
+      </details>
+      <details>
+        <summary>Welche Kosten kommen auf mich zu, wenn ich TEXTALYSE benutze?</summary>
+        <p class="faq-answers">TEXTALYSE wurde im Rahmen eines Hochschul-Projektes erstellt. Die Nutzung ist somit komplett kostenfrei.</p>
+      </details>
+      <details>
+        <summary>Kann ich die Daten nach der Bearbeitung herunterladen?</summary>
+        <p class="faq-answers">Herunterladen direkt nicht, aber das Ausdrucken der Seite als PDF ist möglich.</p>
+      </details>
+    </div>
+   <div class="docs">
+     <p id="docs-title"><b id="docsTitle">Hilfreiche Dokumente</b></p>
+     <button type="button" onclick="window.open('/assets/How to start – TEXTALYSE.pdf','_blank')" class="button-docs">Download PDF <br>"How to start – TEXTALYSE"</button>
+     <button type="button" onclick="window.open('/assets/Wie erstelle ich neue Features.pdf','_blank')" class="button-docs">Download PDF <br>"Wie erstelle ich neue Features?"</button>
+     <button type="button" onclick="window.open('/assets/TEXTALYSE_Dokumentation_allgemein.pdf','_blank')" class="button-docs">Download PDF <br>"Dokumentation TEXTALYSE"</button>
+   </div>
+  </div>
+ 

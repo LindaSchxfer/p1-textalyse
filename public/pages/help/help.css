@@ -1,0 +1,184 @@
+#helpText {
+  width: 60%;
+  text-align: center;
+  color: white;
+  margin: 0 auto;
+  background-color: #38363577;
+  padding: 10px 5px 10px 5px;
+  border-radius: 10px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#firststeps-title {
+  text-align: left;
+  font-size: 24px;
+  margin-top: 20px;
+}
+
+#faq-title,
+.video-title,
+#docs-title {
+  text-align: left;
+  font-size: 24px;
+}
+
+#faq-title,
+#docs-title {
+  margin-top: 40px;
+}
+
+.titelhelp {
+  margin-top: -20px;
+}
+
+.help-image {
+  width: 100%;
+  opacity: 100%;
+}
+
+.bildrahmen {
+  height: 500px;
+  overflow: hidden;
+  margin-bottom: 20px;
+  position: relative;
+}
+
+.box-wrapperHelp {
+  display: block;
+  padding: 0;
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  width: 75%;
+  margin-bottom: 20px;
+}
+
+.button-hilfe {
+  margin: 20px auto;
+  background-color: #383635;
+  border: none;
+  padding: 10px 20px 10px 20px;
+  border-radius: 10px;
+  width: 200px;
+  font-family: sans-serif;
+  font-size: 12px;
+  color: white;
+  cursor: pointer;
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.foot-text {
+  width: 95%;
+  display: flex;
+}
+
+.foot {
+  width: 3%;
+  height: auto;
+  display: inline;
+  vertical-align: middle;
+  margin-right: 0.5cm;
+}
+
+.first-steps-text,
+.docs-text {
+  color: black;
+  font-size: 18px;
+  text-align: left;
+  width: 100%;
+  margin-left: 10px;
+}
+
+.docs-text {
+  margin-left: 0px;
+  padding-top: 3px;
+  margin-top: 20px;
+}
+
+.faq,
+.videoTutorials,
+.first-steps,
+.docs {
+  font-size: 15px;
+  color: #f5a114;
+  display: block;
+  width: 100%;
+  margin: 0 auto;
+  display: block;
+  justify-content: space-between;
+  width: 75%;
+}
+
+.faq {
+  margin-bottom: 40px;
+}
+
+details,
+.video-text {
+  color: #383635;
+  font-size: 18px;
+  margin-bottom: 5px;
+  padding-right: 15px;
+  padding-top: 10px;
+  padding-bottom: 5px;
+  width: 100%;
+}
+
+.faq-answers {
+  text-align: left;
+}
+
+summary:hover {
+  text-decoration: underline;
+  cursor: pointer;
+  color: #f5a114;
+}
+
+.video {
+  display: block;
+  margin: 0 auto;
+  border: solid 1px #f5a114;
+}
+
+.grafik {
+  align-items: center;
+  text-align: center;
+}
+
+.grafikTextalyse {
+  width: 70%;
+  height: auto;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.video-text {
+  margin-top: 30px;
+}
+
+.button-docs {
+  margin: 20px auto;
+  background-color: #383635;
+  border: none;
+  padding: 10px 20px 10px 20px;
+  border-radius: 10px;
+  width: 300px;
+  font-family: sans-serif;
+  font-size: 15px;
+  color: white;
+  cursor: pointer;
+
+  display: inline;
+  margin-left: auto;
+  margin-right: 30px;
+  margin-bottom: 50px;
+}

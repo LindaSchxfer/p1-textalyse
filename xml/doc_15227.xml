@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15227</uid>
+   <externalId>15227</externalId>
+   <documentDate>2020-11-16T18:50:03Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Steigende Infektionszahlen]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[Schweden verschärft Corona-Maßnahmen]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[ausland]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/ausland/schweden-verschaerft-coronaregeln-101.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Schweden bekommt die Corona-Pandemie nicht unter Kontrolle. Um die Infektionszahlen zu verringern, greift das Land, das lange einen Sonderweg ging, nun zu schärferen Maßnahmen und begrenzt Veranstaltungen auf acht Teilnehmer.]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Schweden bekommt die Corona-Pandemie nicht unter Kontrolle. Um die Infektionszahlen zu verringern, greift das Land, das lange einen Sonderweg ging, nun zu schärferen Maßnahmen und begrenzt Veranstaltungen auf acht Teilnehmer.
+ Angesichts schnell steigender Infektionszahlen führt die schwedische Regierung verschärfte Maßnahmen im Kampf gegen die Corona-Pandemie ein. Ab Dienstag kommender Woche dürfen sich nur noch maximal acht Menschen für öffentliche Zusammenkünfte und Veranstaltungen versammeln, wie Ministerpräsident Stefan Löfven auf einer Pressekonferenz mitteilte.
+ Bislang lag die maximale Teilnehmerzahl für Versammlungen bei 50 Personen. Für Kinos, Konzerte, Theater und Sportveranstaltungen mit gewissen Sitzplatzkapazitäten galt sogar eine Grenze von bis zu 300 Teilnehmern.
+
+Löfven appelliert an Vernunft der Bürger
+ Die verschärften Maßnahmen seien "beispiellos", aber notwendig, um die Ausbreitung des Virus einzudämmen - auch weil die Bereitschaft zur Einhaltung der Restriktionen geringer geworden sei. "Wir leben in einer Zeit der Prüfung. Es wird schlimmer werden. Erfülle deine Pflicht, übernimm Verantwortung, um die Ausbreitung der Infektionen zu stoppen", sagte Löfven - gleich zweimal eindringlich an seine Landsleute gerichtet.
+
+Schwedens Sonderweg ist gescheitert
+ Mit Ratschlägen und Empfehlungen sei man im Frühjahr weit gekommen, nun aber brauche es Verbote, um die Zahl der Infizierten zu senken. Man sende ein deutliches Signal an jeden Schweden, sagte Löfven. Man solle darauf verzichten, ins Fitnessstudio oder die Bibliothek zu gehen oder Feste zu feiern. Innenminister Mikael Damberg ergänzte, zu viele Menschen verhielten sich so, als sei die Gefahr vorüber.
+ Schweden war in der Corona-Krise bislang einen viel beachteten Sonderweg mit vergleichsweise lockeren Maßnahmen und Appellen an die Vernunft der Bürger gegangen. Kritiker hatten den schwedischen Behörden deshalb vorgeworfen, mit ihrer Strategie Menschenleben zu gefährden.
+
+Schweden hat meiste Neuinfektionen in Skandinavien
+ Die verschärften Maßnahmen sollen nun vorläufig für vier Wochen - und damit bis unmittelbar vor Weihnachten - gelten. Die Teilnehmerbeschränkung gilt allerdings nur für Versammlungen im öffentlichen Raum, wie zum Beispiel für Sport- und Kulturveranstaltungen. Private Feste kann die schwedische Regierung formal nicht verbieten.
+ Wie im Frühjahr hat Schweden mit seinen rund 10,3 Millionen Einwohnern mittlerweile wieder die mit Abstand höchsten Neuinfektionszahlen Skandinaviens. Auf die Bevölkerung heruntergerechnet lag das Land in den vergangenen 14 Tagen bei etwa 430 Neuinfektionen pro 100.000 Einwohner, verglichen mit einem Wert von rund 309 für Deutschland.
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

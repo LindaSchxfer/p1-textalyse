@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15182</uid>
+   <externalId>15182</externalId>
+   <documentDate>2020-11-10T14:50:12Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Corona-Impfstoff]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[Ein Lichtblick - und viele Fragen]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[inland]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/inland/corona-impfstoff-faq-101.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Der Hoffnungsträger hat einen sperrigen Namen: BNT162b2. So heißt der Corona-Impfstoff des deutschen Unternehmens Biontech und des US-Konzerns Pfizer. Doch so groß die Freude ist - viele Fragen sind offen. Ein Überblick.]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Der Hoffnungsträger hat einen sperrigen Namen: BNT162b2. So heißt der Corona-Impfstoff des deutschen Unternehmens Biontech und des US-Konzerns Pfizer. Doch so groß die Freude ist - viele Fragen sind offen. Ein Überblick.
+
+Alles einklappen
+
+
+ Mitten in das Novembergrau und den trüben Lockdown-light-Alltag platzte am Montag die Erfolgsmeldung des Mainzer Unternehmens Biontech und des US-Pharmakonzerns Pfizer zur Entwicklung eines Corona-Impfstoffs. Auf wohl kaum etwas wartet die Welt derzeit so sehr wie auf einen wirksamen Schutz vor dem Virus. Doch so groß die Freude über die beeindruckenden Zwischenergebnisse der westlichen Impfstoffhersteller auch ist - es bleiben viele Fragen.
+Was ist über BNT162b2 bekannt?
+ Als erste westliche Hersteller hatten Biontech und Pfizer am Montag Ergebnisse einer für die Zulassung entscheidenden Studie veröffentlicht. Demnach bietet ihr Impfstoff einen mehr als 90-prozentigen Schutz vor der Krankheit Covid-19. Schwere Nebenwirkungen seien bislang nicht registriert worden, hieß es. Die Unternehmen wollten voraussichtlich ab der kommenden Woche die Zulassung bei der US-Arzneimittelbehörde FDA beantragen.
+ Biontech hatte den Impfstoff BNT162b2 im Projekt "Lightspeed" (Lichtgeschwindigkeit) seit Mitte Januar entwickelt. Die für eine Zulassung entscheidende Phase-3-Studie begann Ende Juli. Bis Montag haben mehr als 43.500 Menschen mindestens eine der beiden Impfungen bekommen, die im Abstand von drei Wochen verabreicht werden. Ein Impfschutz wird nach Angaben der Hersteller eine Woche nach der zweiten Injektion erreicht.
+
+Wie wirkt der Biontech-Impfstoff?
+ Das Biontech-Präparat ist ein sogenannter RNA-Impfstoff, der auf einem bislang völlig neuen Mechanismus basiert. Er enthält genetische Informationen des Erregers, aus denen der Körper ein Viruseiweiß herstellt - in diesem Fall das Oberflächenprotein, mit dessen Hilfe das Virus in Zellen eindringt. Ziel der Impfung ist es, den Körper zur Bildung von Antikörpern gegen dieses Protein anzuregen, um die Viren abzufangen, bevor sie in die Zellen eindringen und sich vermehren.
+90-prozentiger Schutz - ist das viel?
+ Ja. Allerdings beruht diese Angabe bislang nur auf der kurzen Mitteilung der Hersteller. Virologen sind daher noch zurückhaltend in der Einschätzung. "Ich hoffe, dass die Daten möglichst bald veröffentlicht werden, damit man sich ein genaueres Bild machen kann", sagte Stephan Becker, Leiter des Instituts für Virologie an der Universität Marburg, der Deutschen Presse-Agentur. Insgesamt spricht er aber von "einem sehr erfreulichen Ergebnis".
+ Auch Clemens Wendtner von der München Klinik Schwabing zeigte sich überrascht von der hohen Wirksamkeit, die Biontech und Pfizer mit über 90 Prozent angeben. "Dies ist bemerkenswert, da viele laufende Impfstudien zu Covid-19 derzeit lediglich eine Erfolgsquote von mindestens 50 Prozent voraussetzen." Auch die US-Zulassungsbehörde FDA hatte eine Wirksamkeit von 50 Prozent als Mindestwert für eine mögliche Zulassung festgelegt.
+ Sollte sich die hohe Wirksamkeit von mehr als 90 Prozent bestätigen, "wäre dies eine unerwartet hohe Impfeffizienz", sagt auch Leif-Erik Sander, Leiter der Forschungsgruppe Infektionsimmunologie und Impfstoffforschung an der Berliner Charité. Viele routinemäßig eingesetzte Impfstoffe wie etwa gegen Influenza erreichten keine so hohen Werte. "Dies ist umso erstaunlicher, als mit der mRNA-Technologie noch nie ein Impfstoff zugelassen wurde."
+Was ist über mögliche Nebenwirkungen bekannt?
+ Bislang wenig. Nach Angaben der Unternehmen zeigten sich bislang keine sicherheitsrelevanten Nebenwirkungen. Charité-Virologe Sander verweist aber darauf, "dass der Beobachtungszeitraum für relevante Impfnebenwirkungen noch zu kurz ist".
+Was weiß man alles nicht?
+ Unklar ist, ob der Impfstoff in verschiedenen Gruppen - insbesondere Risikogruppen wie älteren Menschen - gleichermaßen effizient wirkt. Wahrscheinlich bräuchten Senioren wegen ihres schwächeren Immunsystems größere Mengen an Impfstoff, ergänzt Sebastian Ulbert, Abteilungsleiter Immunologie am Fraunhofer-Institut für Zelltherapie und Immunologie in Leipzig.
+ Virologe Sander vermisst auch Angaben dazu, wie sehr die Impfung vor schweren Verläufen von Covid-19 schütze. "Zudem muss sich zeigen, wie lange der Impfschutz anhält." Biontech-Chef Ugur Sahin geht davon aus, dass durch die Impfung eine einjährige Immunisierungswirkung erreicht werden kann. Dies sei aber noch nicht sicher. Der in der Zwischenanalyse bekannt gegebene Schutz vor einer Covid-19-Infektion von mehr als 90 Prozent wurde 28 Tage nach Beginn der Impfbehandlung erreicht.
+Wie geht es jetzt weiter?
+ Die Unternehmen Biontech und Pfizer wollen in den USA demnächst einen Antrag auf Zulassung eines Corona-Impfstoffes stellen. Sie gehen davon aus, in den USA in den kommenden Wochen eine umfassende Notfallzulassung des Impfstoffes für Personen im Alter von 16 bis 85 Jahren zu beantragen. Dazu müssen die Firmen zwei Monate lang Sicherheitsdaten von etwa der Hälfte der rund 44.000 Studienteilnehmer gesammelt haben. Dieses Ziel soll kommende Woche erreicht werden.
+Wie schnell kann der Impfstoff produziert werden?
+ Biontech und Pfizer, die bereits bei der Entwicklung von mRNA-basierten Impfstoffen gegen Influenza zusammenarbeiten, gehen derzeit davon aus, dass noch in diesem Jahr weltweit bis zu 50 Millionen Dosen des Coronavirus-Impfstoffs hergestellt werden. Das wäre genug, um 25 Millionen Menschen zu impfen. 2021 sollen bis zu 1,3 Milliarden Dosen produziert werden.
+ Basierend auf dem Liefervertrag mit den USA soll der Preis für eine Behandlung mit zwei Impfstoff-Dosen voraussichtlich bei 39 Dollar liegen. Andere Industrieländer sollen keinen niedrigeren Preis erhalten als die USA, hieß es im Juli.
+Wie sieht es mit der Zulassung des Impfstoffes aus?
+ In der Pandemie gibt es in Europa ein beschleunigtes Zulassungsverfahren bei der europäischen Arzneimittelbehörde EMA. Dauern Impfstoffzulassungen sonst mitunter Jahre, können Pharmafirmen ihre Impfstoff-Kandidaten nun in einer Art Vorverfahren zur Zulassung noch während der Phase der klinischen Studien bei der EMA melden. Dazu werden Daten fortlaufend eingereicht und von der EMA bewertet (Rolling-Review-Verfahren). Im Moment setzt neben Biontech zum Beispiel auch das britisch-schwedische Unternehmen Astrazeneca auf diesen Weg.
+ Dieses Verfahren bedeute aber nicht, dass weniger Daten eingereicht werden müssen, betonte die Ethikrat-Vorsitzende Alena Buyx am Montag. In Europa werde keine vorläufige Zulassung erfolgen. Haben die EMA-Experten mitunter Tausende Seiten Ergebnisse aus allen vorgeschriebenen klinischen Phasen gelesen und bewertet, geben sie ihre Empfehlung an die Europäische Kommission. Sie entscheidet, ob eine Zulassung erfolgt. Im positiven Fall erteilt sie die Zulassung für alle EU-Mitgliedstaaten. Mit ersten Zulassungen wird von vielen Experten noch für dieses Jahr oder Anfang 2021 gerechnet.
+ Schnelligkeit dürfe nicht auf Kosten der Gründlichkeit gehen, heißt es auch beim deutschen Paul-Ehrlich-Institut (PEI), das Arzneimittel national zulässt. Denn Impfungen können Nebenwirkungen haben oder Schäden verursachen, wenn sie nicht aufwändig getestet und bewertet sind.
+Wie lange dauert es, bis ein Impfstoff nach der Zulassung verfügbar ist? 
+ Um früh mit dem begehrten Mittel versorgt zu sein, schließen die EU und auch andere Länder schon jetzt Lieferverträge mit Pharmakonzernen. Von der EU-Kommission unterzeichnet sind bisher Rahmenverträge mit den Pharmafirmen Johnson&Johnson, Astrazeneca und Sanofi-GSK. Inzwischen sind auch die Gespräche der EU-Kommission mit Biontech und Pfizer abgeschlossen. Ein fester Vertrag solle "in den kommenden Tagen unterzeichnet" werden, sagte EU-Gesundheitskommissarin Stella Kyriakide. Die Kommission bekräftigte, dass die EU-Staaten gemäß ihrem Bevölkerungsanteil Impfstoff zugewiesen bekommen sollen. Rechnerisch wären dies für Deutschland bei dem Mittel von Pfizer und Biontech maximal 56 Millionen Dosen.
+ Gesundheitsminister Jens Spahn hatte zuvor den Druck auf die EU erhöht. "Ich könnte es als deutscher Gesundheitsminister jedenfalls schwer erklären, wenn in anderen Regionen der Welt ein in Deutschland produzierter Impfstoff schneller verimpft würde als in Deutschland selbst", betonte Spahn im ZDF. Für Deutschland sollen nach einer Zulassung des Impfstoffs des Mainzer Unternehmens Biontech bis zu 100 Millionen Dosen des Serums zur Verfügung stehen.
+
+ Doch auch wenn Biontech bereits vor der Zulassung in die Produktion geht: Diese großen Bedarfsmengen kann die Firma zumindest am Anfang bei weitem nicht abdecken.
+ In einem Thesenpapier geht Matthias Schrappe, Internist an der Uni Köln, davon aus, dass es rund tausend Arbeitstage - also vier Jahre - dauern würde, rund 60 Millionen Menschen in Deutschland zu impfen. Und das auch nur, wenn pro Tag 60.000 Impfungen verabreicht werden können. Deshalb müssen die Tageskapazitäten gesteigert werden.
+ Anfang November hatten sich Bund und Länder darauf geeinigt, dass der Bund die Impfstoffe beschafft und finanziert. Die Länder kümmern sich um das notwendige Zubehör und richten eigenverantwortlich Impfzentren ein. Insgesamt wird derzeit von bis zu 60 Standorten ausgegangen. Der Impfstoff wird - sobald es ihn gibt - entweder durch die Bundeswehr oder durch die Firmen selbst zu diesen Standorten geliefert. Der Transport und die Lagerung des Impfstoffes könnten eine Herausforderung darstellen: Er soll grundsätzlich bei einer Temperatur von rund minus 70 Grad Celsius aufbewahrt werden.
+
+Und mit dem Impfstoff wird wieder alles gut?
+ Impfstoff da - Corona weg? Das wird wohl nicht klappen, zumindest nicht schnell. "Der Impfstoff wird uns helfen, aus der Pandemie rauszukommen", sagte die Schweizer Virologin Isabella Eckerle in der ARD-Sendung Hart aber fair. Es werde aber eine lange Übergangsphase geben, in der die Corona-Schutzmaßnahmen beibehalten werden müssten.  "Man darf sich das nicht so vorstellen, dass der Impfstoff kommt und ab morgen können wir wieder in unser altes Leben zurück", sagte Eckerle, die Leiterin des Zentrums für neu auftretende Viruserkrankungen an der Universität Genf ist.
+ Auch SPD-Gesundheitsexperte Karl Lauterbach dämpfte überzogene Erwartungen. Bis ganz Deutschland bis zu einer "Herdenimmunität" durchgeimpft ist, vergehe mindestens ein Jahr. Erst danach könne man darüber reden, auf Maske und Abstand zu verzichten. Die nächsten Monate würden sehr hart - 2021 werde im Wesentlichen noch ein Jahr der Einschränkungen sein.
+ Der Vorsitzende des Weltärztebundes, Frank Ulrich Montgomery, wertete die erfreulichen Impfstoff-Ergebnisse zwar als "großen Erfolg". Es sei aber noch kein Durchbruch. "Die Studie ist nicht zu Ende ausgewertet", sagte er der "Passauer Neuen Presse". Die Hoffnung wachse, dass man in absehbarer Zeit einen Impfstoff habe. Wenn aber im November der Zulassungsantrag gestellt werde, heiße das nicht, dass der Antrag im Dezember genehmigt werde.
+Wer steckt hinter Biontech?
+ Das Mainzer Unternehmen beschäftigt etwa 1300 Mitarbeiter, es ist also ein vergleichsweise kleiner Player im Pharma-Geschäft. Laut Wirtschaftsredaktion von NDR info hat Biontech in seiner zwölfjährigen Firmengeschichte noch kein einziges Produkt auf den Markt gebracht. Chef von Biontech ist Ugur Sahin - er gründete Biontech 2008 zusammen mit seiner Frau Özlem Türeci. Sahin ist CEO, seine Frau leitet die klinische Entwicklung.
+ Die Firmenadresse "An der Goldgrube 12" hat Symbolcharakter: Über mangelndes Interesse von Geldgebern kann sich Biontech nicht beklagen. Rund 1,5 Milliarden Dollar sammelt die Firma in den vergangenen Jahren bei Investoren ein. Zu den Hauptgeldgebern gehören die Strüngmann-Brüder, die Gründer des Generika-Konzerns Hexal. Auch Microsoft-Gründer Bill Gates pumpt über seine Stiftung Millionen in Biontech. Zu den Partnern gehören Pharmariesen wie Sanofi, Eli Lilly, die Roche-Tochter Genentech und Pfizer.
+ Der Erfolg lässt sich auch am Kurs der Biontech-Aktien ablesen: Zum US-Börsengang im September 2019 wurden die Papiere zu 15 Dollar ausgeben, inzwischen kosten sie mehr als 90 Dollar. Das katapultierte Sahin in die Liste der 100 reichsten Deutschen. "Die Welt am Sonntag" führt ihn zusammen mit seiner Ehefrau, die ebenfalls im Vorstand sitzt, auf Platz 93 mit einem Vermögen von 2,4 Milliarden Euro.
+Wer forscht noch an Corona-Impfstoffen?
+ Weltweit forschen Pharmafirmen und wissenschaftliche Institutionen an Impfstoffen gegen das Coronavirus. Auch mehrere deutsche Hoffnungsträger sind dabei. Wer das ist lesen Sie hier:
+
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

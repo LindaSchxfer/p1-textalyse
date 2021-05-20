@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15257</uid>
+   <externalId>15257</externalId>
+   <documentDate>2020-11-20T16:15:41Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Corona-Pandemie]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[Südtirol startet Massentest]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[ausland]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/ausland/corona-massentest-suedtirol-101.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Im Kampf gegen die Corona-Pandemie hat in der italienischen Provinz Südtirol ein kostenloser Massentest begonnen. Die Gesundheitsbehörden hoffen, dass bis Sonntag rund zwei Drittel der Bevölkerung getestet werden.]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Im Kampf gegen die Corona-Pandemie hat in der italienischen Provinz Südtirol ein kostenloser Massentest begonnen. Die Gesundheitsbehörden hoffen, dass bis Sonntag rund zwei Drittel der Bevölkerung getestet werden.
+ Das norditalienische Südtirol will mit einem dreitägigen Massentest die zweite Corona-Welle schneller brechen. Zum Auftakt der kostenlosen Massenuntersuchung bildeten sich lange Schlangen vor vielen Teststationen.
+ Die kleine Alpen-Provinz mit gut einer halben Million Menschen möchte bis zum Sonntag bei rund zwei Drittel der Bürger einen Abstrich machen. Der Antigen-Schnelltest ist freiwillig. Schon seit Wochenbeginn läuft im norditalienischen Venetien ein Versuch mit Corona-Testsets für den Hausgebrauch.
+
+ Die Landesregierung in Bozen will mit der Aktion unter dem Motto "Südtirol testet" Virusträger aufspüren, die nichts von ihrer Infektion ahnen. Sie gelten als gefährliche Ansteckungsquelle.
+350.000 Menschen aufgerufen
+ Südtirol hofft, dass bis zum Sonntag etwa 350.000 Menschen teilnehmen. Wer ein positives Ergebnis bekommt, aber beschwerdefrei ist, soll sich zehn Tage zu Hause isolieren. Mitmachen können Männer, Frauen sowie Kinder ab fünf Jahren. Es gibt knapp 200 Teststandorte. Getestet wird auch in Betrieben, Arztpraxen und Apotheken.
+ Das jeweilige Resultat soll nach spätestens einer halben Stunde vorliegen. Die Bürger können es sich per E-Mail oder Kurzmitteilung aufs Handy schicken lassen. Auf einer Internetseite veröffentlichten die Behörden erste Ergebnisse: Danach gab es bis Freitag 10 Uhr mehr als 24.000 Teilnehmer. Fast 600 Menschen wurden positiv getestet.
+Provinz gehört zur Roten Zone
+ Südtirol zählt wegen der hohen Corona-Zahlen zu den sogenannten Roten Zonen mit besonders strengen Ausgangsbeschränkungen. Die Menschen sollen ihre Häuser nur verlassen, wenn sie etwa zur Arbeit, zum Arzt oder zum Einkaufen müssen. Am Donnerstag hatten die Behörden dort rund 700 Neuinfektionen innerhalb von 24 Stunden registriert.
+
+Wie groß ist der Erfolg?
+ Der Erfolg eines solchen Massentests hängt nach Einschätzung des Experten Stephan Ortner stark von der Teilnahmequote ab. Wie der Direktor des Eurac Research Zentrums in Bozen erläuterte, kann ein gut organisierter Test mit hoher Beteiligung so gut "wie ein totaler Lockdown von vielen Wochen" wirken. Ein starker Erfolg sei möglich bei einer Quote ab 70 Prozent, wie Studien seines Instituts zeigten. In einem großen Staat, etwa in ganz Italien oder Deutschland, lasse sich so ein freiwilliger Test aber wohl nicht in ähnlicher Weise durchführen.
+
+Do-It-Yourself-Tests in Venetien
+ In der Region Venetien startete Anfang der Woche der Probelauf mit den Do-It-Yourself-Tests. Die Test-Tüten enthalten ein Stäbchen und ein Kontroll-Röhrchen für die Probe. Die Region will zunächst rund 5000 der Antigen-Test-Kits ausgeben. Die Studie soll einen Monat laufen. Parallel werden in dieser Phase an denselben Menschen klassische Abstriche vorgenommen, die im Labor untersucht werden. Im Anschluss soll der Eigentest dem nationalen Gesundheitsinstitut ISS zur Zulassung vorgelegt werden. Das Produkt könnte dann für wenige Euro etwa in Apotheken verkauft werden.
+ Italien war in der ersten Welle im Frühjahr heftig getroffen worden. Nach einer Erholung im Sommer sind die Ansteckungszahlen jetzt - auch im Vergleich zu Deutschland - wieder hoch.
+
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

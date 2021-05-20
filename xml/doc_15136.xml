@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15136</uid>
+   <externalId>15136</externalId>
+   <documentDate>2020-11-02T17:31:42Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Corona-Teststrategie]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[Wer wird wie getestet?]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[inland]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/inland/hintergrund-teststrategie-corona-101.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Mehr als eine Million Corona-Tests werden inzwischen jede Woche in Deutschland durchgeführt. Viele Labore und Gesundheitsämter sind überfordert. Neue Richtlinien sollen Abhilfe schaffen.]]></value>
+        </field>
+        <field name="author">
+              <value><![CDATA[Ruth Schulz, WDR-Wissenschaftsredaktion]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Mehr als eine Million Corona-Tests werden inzwischen jede Woche in Deutschland durchgeführt. Viele Labore und Gesundheitsämter sind überfordert. Neue Richtlinien sollen Abhilfe schaffen.
+Von Ruth Schulz, WDR-Wissenschaftsredaktion
+ In der Woche vom 19. bis 25. Oktober wurden in Deutschland 1.358.706 Corona-Tests durchgeführt. 76.373 oder 5,62 Prozent davon waren positiv - deutlich mehr als in der Vorwoche, als die Positiv-Rate bei 3,6 Prozent lag. Die Testkapazitäten sind aber nicht unerschöpflich. Viele Labore stoßen an ihre Kapazitätsgrenzen. Deshalb hat das Robert Koch-Institut (RKI) Mitte Oktober die nationale Teststrategie überarbeitet.
+ Getestet werden soll vor allem, wenn es nötig und auch sinnvoll ist. Jetzt sind auch Antigen-Schnelltests möglich, die vor allem Risikogruppen in Wohn- und Pflegeeinrichtungen besser schützen sollen. Massentests für Reiserückkehrer sind nicht mehr vorgesehen.
+Nicht jeder wird auf Verdacht getestet
+ Getestet werden noch immer alle Menschen, die typische Covid-19-Symptome haben, also Husten, Fieber oder auch Schnupfen. Einige Infizierte riechen und schmecken auch nichts mehr. Oft empfehlen Ärzte, ein bis zwei Tage abzuwarten, ob die Symptome zurückgehen um festzustellen, ob es eventuell doch nur eine Erkältung ist. Wenn nicht, testen sie.
+ Zweite Priorität haben Personen, die mit einem positiv Getesteten zusammenleben, engen Kontakt hatten, oder von der Corona-Warn-App alarmiert wurden - auch wenn die Kontaktperson selbst noch keine Symptome bemerkt. Wenn man sich 15 Minuten unterhalten hat, ist dies ein solch enger Kontakt. Das gilt auch für Patienten und Personal von Einrichtungen oder Praxen, in denen ein Fall nachgewiesen wurde. Zehn Tage nach einem positiven Test wird noch einmal nachgetestet.
+
+Länder und Gesundheitsämter mit Spielraum bei Testroutinen
+ In vielen anderen Situationen hält das RKI Corona-Tests für möglich, aber nicht für unbedingt nötig. Bundesländer und Gesundheitsämter haben einen gewissen Spielraum, Teststrategien können sich also hier und da leicht unterscheiden.
+ Krankenhäuser und Gemeinschaftseinrichtungen testen ihre Mitarbeiter und Mitarbeiterinnen regelmäßig. Auch Lehrer und Lehrerinnen haben in einigen Bundesländern die Möglichkeit sich regelmäßig freiwillig testen zu lassen.
+
+Ämter hoffen auf freiwillige Quarantäne
+ 38 von etwa 400 Gesundheitsämtern meldeten dem RKI Ende Oktober, dass sie überlastet sind. Sie haben zu wenig Personal und können die Kontakte von positiv Getesteten nicht mehr oder nicht mehr schnell genug nachverfolgen. Menschen, die nicht wissen, dass sie sich infiziert haben, verbreiten das Virus ungewollt.
+ Viele Ämter fordern deshalb dazu auf, sich möglichst schnell freiwillig in Quarantäne zu begeben, wenn man erfährt, dass man engen Kontakt zu einer infizierten Person hatte. Hausarzt oder Gesundheitsamt entscheiden dann, ob getestet wird. Das kann in der Arztpraxis sein, in einer Klinik, beim Gesundheitsamt oder in einem der lokalen Abstrichzentren. Ist das Testergebnis positiv, ordnet das Gesundheitsamt an, sich für zehn Tage zu isolieren und fragt, zu wem man in den vergangenen Tagen engeren Kontakt hatte.
+ Menschen, die aus einem Risikogebiet im Ausland kommen, müssen sich für 14 Tage in häusliche Quarantäne begeben und sich sofort beim zuständigen Gesundheitsamt melden. Dort können sie ein negatives Testergebnis vorlegen, das nicht älter als 48 Stunden sein darf. Oder sie können sich frühestens nach fünf Tagen in Deutschland noch immer kostenlos testen lassen.
+
+Schnelltests sollen entlasten
+ Die Labore teilen das Testergebnis den Gesundheitsämtern normalerweise nach spätestens 48 Stunden mit. Weil aber auch viele Labore inzwischen an ihre Grenzen stoßen, kann es auch länger dauern. Fast 60 Labore meldeten, dass sich Proben bei ihnen stauen. Inzwischen werden auch Reagenzien und Verbrauchsmaterial wie Abstrichtupfer und Pipettenspitzen knapp.
+ Inzwischen können Schnelltests schon innerhalb von 15 bis 30 Minuten am Ort des Testes eine Infektion mit Sars-CoV-2 nachweisen. Die Tests sind nicht ganz so empfindlich wie ein PCR-Test im Labor, aber sie identifizieren doch sehr zuverlässig Menschen, die gerade relativ viel Virusmaterial im Rachen haben und andere anstecken könnten.
+ Anerkannte Labore wie das Labor der Berliner Charité haben die Qualität dieser Tests überprüft. Die besten erkennen 96 Prozent der Infizierten als infiziert und bis zu 99 Prozent der Gesunden als gesund.
+ Das Bundesinstitut für Arzneimittel und Medizinprodukte hat inzwischen eine Liste von mehr als 80 geprüften Tests veröffentlicht. Diese Antigen-Tests weisen das Virus durch eine Farbreaktion nach. Fällt sie positiv aus, wird ein weiterer Abstrich ins Labor geschickt und mit der empfindlicheren PCR Methode überprüft. Die Antigen-Schnelltests gehören zur nationalen Impfstrategie und können und sollen die Labore bald entlasten.
+
+Mehr Schutz für Risikogruppen
+ Mithilfe der Schnelltests sollen auch die Bewohner von Alten- und Pflegeheimen besser geschützt werden. Besucher und das Personal können sich so häufig und preiswert testen lassen. Ein Schnelltest kostet etwa fünf bis zehn Euro. In stationären Einrichtungen sollen pro Bewohner 20 solcher Tests pro Monat zur Verfügung gestellt werden. Ein Gesundheitsamt muss das Testkonzept genehmigen, Krankenkassen und Pflegeversicherungen übernehmen die Kosten, die vom Staat erstattet werden. Die Hersteller produzieren auf Hochtouren, aber noch sind die Bestellungen nicht überall angekommen.
+ Auch für den Antigen-Schnelltests wird ein Abstrich in Mund und Nase genommen. Er soll nach wie vor von geschultem Personal durchgeführt werden, denn es können dabei Fehler gemacht werden, die das Testergebnis verfälschen. Einfache Tests für den Hausgebrauch werden derzeit entwickelt. Sie könnten dann zum Beispiel Angehörigen oder ambulanten Pflegepersonen mehr Sicherheit geben.
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

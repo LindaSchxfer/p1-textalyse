@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15214</uid>
+   <externalId>15214</externalId>
+   <documentDate>2020-11-16T07:00:00Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Covid-19 weltweit]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[Coronavirus-Zahlen im Überblick]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[ausland]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/ausland/coronavirus-tabelle-103.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Wo nehmen die Neuinfektionen mit dem Coronavirus derzeit zu? Wo gibt es die meisten Todesfälle? Ein interaktiver Überblick von]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Wo nehmen die Neuinfektionen mit dem Coronavirus derzeit zu? Wo gibt es die meisten Todesfälle? Ein interaktiver Überblick von tagesschau.de zeigt die aktuellen Covid-19-Zahlen in mehr als 180 Ländern.
+ Die Pandemie verläuft in den einzelnen Regionen der Erde unterschiedlich. Von Staat zu Staat schwankt die Zahl der bestätigten Infektionen und Neuinfektionen mit dem Coronavirus ebenso wie die Zahl der schweren Verläufe mit Todesfälle. Mit einer täglich aktualisierten Tabelle gibt tagesschau.de einen schnellen Überblick wichtiger Kennzahlen in mehr als 180 Staaten. Der Trendpfeil basiert dabei auf einer Berechnung der bestätigten Neuinfektionen der vorangegangenen fünf Tage. So wird der Einfluss von Schwankungen minimiert, die sich etwa durch geringere Meldezahlen an Wochenenden ergeben.
+
+
+
+
+
+
+ Hinweis: Die Darstellung wird täglich zwischen 7 Uhr und 8 Uhr mit den Zahlen des vergangenen Tages aktualisiert. Die Zahlen für alle Länder weltweit basieren auf den Angaben der Johns Hopkins University. Durch die verschiedenen Quellen und Aktualisierungszeitpunkte kann es für die Fallzahlen in Deutschland zu Abweichungen von den Zahlen des Robert Koch-Instituts kommen. Die unterschiedlichen Angaben beider Quellen sind nicht falsch. Entscheidend ist, wann welche Zahlen gemeldet und wie sie ermittelt werden.
+Karten zur weltweiten Ausbreitung des Coronavirus
+ Die interaktiven Karten veranschaulichen die regionale Verteilung des Infektionsgeschehens in der Welt. Sie zeigen auch, wie viele Menschen aktuell nachweislich infiziert sind, wie viele gestorben und wie viele genesen sind.
+
+Aktuelle Meldungen zur Pandemie
+ tagesschau.de informiert rund um die Uhr über die Pandemie, über die Suche nach wirksamen Medikamenten und Impfstoffen, über Maßnahmen gegen die weitere Ausbreitung des SARS-CoV-2-Erregers und über die Folgen dieser Schritte. Alle Meldungen rund um das Coronavirus finden sie gesammelt auf einer laufend aktualisierten Themenseite.
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15234</uid>
+   <externalId>15234</externalId>
+   <documentDate>2020-11-17T15:12:18Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Zahl der Neuinfektionen]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[Trügerische Entspannung?]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[faktenfinder]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/faktenfinder/rki-zahlen-corona-105.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Mehrere Tage in Folge ist die Zahl der Menschen, die positiv auf das Corona-Virus getestet wurden, nun schon geringer als in der Vorwoche. Doch ob es sich um einen echten Rückgang handelt, ist fraglich. Denn auch die Zahl der durchgeführten Tests sinkt zur Zeit deutlich.]]></value>
+        </field>
+        <field name="author">
+              <value><![CDATA[Markus Grill, NDR/WDR]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Mehrere Tage in Folge ist die Zahl der Menschen, die positiv auf das Corona-Virus getestet wurden, nun schon geringer als in der Vorwoche. Doch ob es sich um einen echten Rückgang handelt, ist fraglich. Denn auch die Zahl der durchgeführten Tests sinkt zur Zeit deutlich. 
+Von Markus Grill, NDR/WDR
+ Das Robert Koch-Institut hat heute 14.419 Neuinfektionen mit dem Corona-Virus gemeldet. Das ist ein Rückgang gegenüber dem Dienstag der vergangenen Woche um sechs Prozent. Auch am Montag lag die Zahl der gemeldeten Neuinfektionen um neunzehn Prozent unter dem Montag in der Woche zuvor. Die Zahlen am Sonntag waren dagegen um sechs Prozent höher als am Sonntag, den 8. November.
+ Die Bewertung dieser Zahlen ist schwierig. Denn nach Angaben des Verbands "Akkreditierte Labore in der Medizin" (ALM) lag die Zahl der durchgeführten Corona-Tests in der 46. Kalenderwoche (9. bis 15. November) um 12,3 Prozent unter der Vorwoche. Der Rückgang der Tests ist also deutlich größer als der Rückgang der Neuinfizierten. ALM-Vorstand Wolf Kupatt ist deshalb der Ansicht, dass sich aus den bisherigen Zahlen "keine Trendwende" ablesen lasse. 
+
+ Dafür spricht auch die Tatsache, dass derzeit immer mehr Corona-Tests positiv ausfallen. Der Anteil der positiven Tests ist nach Ansicht der Weltgesundheitsorganisation (WHO) ein gutes Anzeichen dafür, ob ein Land das Pandemiegeschehen unter Kontrolle hat - oder nicht. Denn je kleiner die Positivrate ist, desto geringer ist auch die Zahl weiterer unentdeckter Infizierter in einer Bevölkerung. Die WHO schreibt deshalb auf ihrer Internetseite, dass ein Anteil von "weniger als fünf Prozent positiver Covid-19-Tests" ein Zeichen dafür ist, dass ein Land einen Überblick über das tatsächliche Infektionsgeschehen habe. 
+ Im Sommer lag diese so genannte Positivrate in Deutschland bei unter einem Prozent. Anfang Oktober stieg sie auf 2,5 Prozent - um in der vergangenen Woche nun einen Höchststand von 9,2 Prozent zu erreichen. Dies gilt zumindest in den 163 Laboren, die an der Datenerhebung der ALM teilnehmen. Der Wert war damit in der vergangenen Woche sogar höher als zu Spitzenzeiten Anfang April, als nach Angaben des Robert Koch-Instituts die Positivrate einmal einen Wert von 9,03 Prozent erreichte. 
+Hohe Dunkelziffer wahrscheinlich
+ Eine hohe Positivrate ist gleichzeitig ein Anzeichen dafür, dass auch die Dunkelziffer hoch ist - also die Zahl jener Menschen, die sich zwar mit dem Coronavirus infiziert haben, aber nicht getestet worden sind, weil sie nur leichte Symptome zeigen oder weil die Testkapazitäten nicht ausreichen. Immerhin ist Deutschland nicht das einzige Land, das derzeit mit einer hohen Positivrate zu kämpfen hat. In den USA beträgt sie elf Prozent, in Spanien 13 Prozent, in Italien 16 Prozent, in Frankreich 18 Prozent und in Österreich sogar 24 Prozent. 
+ Dass die durchgeführten Corona-Tests in Deutschland binnen einer Woche von 1,45 Millionen auf 1,27 Millionen sanken, liegt nach Angaben von ALM-Vorstandsvorsitzendem Michael Müller auch an den veränderten Testkriterien des RKI. Am 11. November hatte das RKI die neuen Kriterien veröffentlicht, denen zufolge grundsätzlich nur noch Personen mit "schweren respiratorischen Symptomen" getestet werden sollen, also nicht mehr jeder mit Husten und Schnupfen, wie in den vergangenen Monate. Ausgenommen von dieser strikten Regelung sind Menschen, die zu einer Risikogruppe gehören, Alten- und Krankenpfleger, Lehrerinnen und Lehrer sowie Sporttrainer und Chorleiterinnen und -leiter.
+ Die Kapazität der klassischen Corona-PCR-Tests liege derzeit bei rund 1,6 Millionen, wie das RKI mitteilt. Da in Wintermonaten aber jede Woche bis zu fünf Millionen Menschen an Erkältungen leiden, sei es unmöglich, alle diese Kranken künftig auf das Coronavirus zu testen. Allein für Kinder im Alter von 0 bis 15 Jahren bräuchte man sonst bis zu 1,5 Millionen Tests pro Woche. Folgerichtig räumt das RKI auch ein: "Es ist nicht realistisch, alle Covid 19-Erkrankungen in Deutschland durch Testung zu bestätigen."
+
+ Angesichts einer stark rückläufigen Zahl an Coronatests bei gleichzeitigem Anstieg der Positivrate und rigoroseren Testkriterien deutet ein leichter Rückgang der Zahl der positiv Getesteten deshalb noch nicht auf eine tatsächliche Entspannung der Lage hin.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ihre Meinung - meta.tagesschau.de
+
+
+
+
+159 Kommentare zur Meldung. Kommentierung der Meldung beendet.
+
+
+Alle Kommentare zur Meldung anzeigen.
+
+
+
+Geo-Schlagwörter der Meldung: Berlin  Deutschland  Europa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

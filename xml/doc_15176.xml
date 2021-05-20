@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15176</uid>
+   <externalId>15176</externalId>
+   <documentDate>2020-11-09T18:22:17Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Möglicher Betrug bei Corona-Tests]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[Ermittlungen gegen Lazio Rom]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[sport]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/sport/lazio-rom-corona-101.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[In Italien sind alle Erstliga-Vereine verpflichtet, ihre Spieler auf das Coronavirus zu testen. Lazio Rom hat dabei möglicherweise ziemlich offensichtlich betrogen. Die Presse spricht von einer "Farce".]]></value>
+        </field>
+        <field name="author">
+              <value><![CDATA[Jörg Seisselberg, ARD-Studio Rom]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+In Italien sind alle Erstliga-Vereine verpflichtet, ihre Spieler auf das Coronavirus zu testen. Lazio Rom hat dabei möglicherweise ziemlich offensichtlich betrogen. Die Presse spricht von einer "Farce". 
+Von Jörg Seisselberg, ARD-Studio Rom
+ Es war kein Fan-Besuch auf dem Trainingsgelände von Lazio Rom in der Gemeinde Formello: Die Polizisten präsentierten einen Durchsuchungsbefehl der Staatsanwaltschaft - und beschlagnahmten alle Unterlagen zu den Corona-Tests, die der Erstligaklub in den vergangenen Wochen hat durchführen lassen. Denn bei den Testergebnissen einiger Spitzenspieler des Vereins sind Ungereimtheiten zu Tage getreten.
+Erst positiv, dann negativ, dann positiv, dann negativ
+ Eine dieser Ungereimtheiten betrifft Nationalstürmer Ciro Immobile, der im Sommer als bester Torschütze Europas ausgezeichnet worden war. Am 27. Oktober wurde Immobile vor dem Champions-League-Spiel in Brügge von der UEFA positiv auf das Coronavirus getestet, gemeinsam mit seinen beiden Mannschaftskollegen Strakosha und Leiva. Alle drei durften nicht spielen. Drei Tage später, vor der Begegnung in der ersten italienischen Liga gegen den FC Turin, zeigte sich dann ein anderes Bild: Der Verein hatte nun selbst Corona-Tests in Auftrag gegebenen - und plötzlich waren die Ergebnisse aller drei Spieler negativ. Alle drei durften folglich antreten, Immobile trug mit einem Tor zum Sieg für Lazio bei.
+ Wiederum drei Tage später erfolgte erneut ein Test seitens der UEFA. Und siehe da: Immobile und seine zwei Kollegen Strakosha und Leiva waren wieder Corona-positiv, sie durften gegen St.Petersburg in der Champions League nicht spielen. Zu Hause in Italien jedoch war dann einen Tag später wieder alles anders. Erneut folgte ein von Lazio in Auftrag gegebener Test - erneutes Resultat: Immobile, Strakosha und Leiva waren negativ.
+
+Vereinsarzt erscheint wegen Krankheit nicht zur Anhörung
+ Eine "Farce" sei das, titelt die Zeitung "Gazzetta dello Sport", die den Fall aufgedeckt und den Anstoß für die Untersuchungen der Staatsanwaltschaft gegeben hat. Lazio Rom ist nun unter Druck und muss unter anderem die merkwürdige Auswahl seines Untersuchungslabors rechtfertigen. Es liegt nicht in Rom oder Umgebung, sondern im 250 Kilometer entfernen Avellino in der Region Kampanien - was wiederum bedeutet, dass die Meldepflicht vom örtlichen Gesundheitsamt auf den Verein übergeht.
+ Die Verantwortlichen von Lazio Rom beteuern, es sei alles korrekt gelaufen. Nicht nur die Staatsanwaltschaft, sondern auch der Fußballverband haben jedoch erhebliche Zweifel. Der Vereinsarzt wurde mittlerweile vom Verbandsgericht zu einer Anhörung einbestellt, sagte aber kurzfristig aus Krankheitsgründen ab.
+ Sollten Lazio Rom Manipulationen bei den Corona-Tests nachgewiesen werden, könnte der Verein im schlimmsten Fall zum Zwangsabstieg aus der ersten Liga verurteilt werden. Vor den ordentlichen Gerichten drohen den Verantwortlichen wegen fahrlässiger Verursachung einer Epidemie bis zu zwölf Jahren Haft.
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

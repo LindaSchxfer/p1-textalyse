@@ -1,0 +1,247 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+form {
+  padding-right: 5px;
+}
+
+.projects-wrapper {
+  display: flex;
+  height: 100%;
+}
+
+#projects-list-wrapper {
+  width: 80%;
+}
+
+.project-head {
+  height: 80px;
+  width: 100%;
+  display: flex;
+}
+
+.upload {
+  margin: 20px auto;
+  background-color: #aaa8a7;
+  border: none;
+  padding: 13px 15px 8px 15px;
+  border-radius: 30px;
+  width: 200px;
+  font-family: sans-serif;
+  font-size: 15px;
+  color: white;
+  cursor: pointer;
+}
+
+.upload:hover {
+  background-color: #f5a114;
+}
+
+.projects-table-head {
+  margin: 30px;
+  width: 1200px;
+  margin-left: 50px;
+  margin-bottom: 5px;
+  font-family: sans-serif;
+  font-size: 13px;
+  color: #f5a114;
+  display: flex;
+  justify-content: space-around;
+}
+
+.projects-table-head > h3 {
+  width: 20%;
+}
+
+.projects-table-row {
+  background-color: #d8d8d8;
+  width: 1200px;
+  margin-left: 50px;
+  font-family: sans-serif;
+  font-size: 18px;
+  padding: 10px 5px 10px 5px;
+  font-weight: 100;
+  color: gray;
+  display: flex;
+  justify-content: space-around;
+  cursor: pointer;
+}
+
+.projects-table-row > p {
+  margin: 0;
+  width: 20%;
+  text-align: left;
+}
+
+.lightgray {
+  background-color: #efefef;
+}
+
+#project-table {
+  width: 100%;
+  padding: 0;
+}
+
+.filterbuttons {
+  text-align: center;
+}
+
+.projects-box {
+  height: 100%;
+  color: white;
+  background: #f5a114;
+  box-sizing: border-box;
+  border-radius: 5px;
+  width: 20%;
+  margin: 10px;
+  padding: 30px;
+}
+
+.projects-box h2 {
+  margin-bottom: 18px;
+}
+
+/*.projects-box #radio1 #radio2 #radio3 #radio4 #length1 #length2 #length3 #length4{
+  margin-bottom: 50px;
+}
+.projects-box label{
+  margin-bottom: 35px;
+}*/
+
+.usefilter button {
+  background-color: #383635;
+  border: none;
+  padding: 15px;
+  border-radius: 30px;
+  margin-top: 20px;
+  font-size: 12pt;
+  color: white;
+  position: relative;
+  cursor: pointer;
+}
+
+.usefilter button:hover{
+  background-color: #0E76E6;
+}
+
+.projects-box #date {
+  margin-bottom: 10px;
+  margin-top: 3px;
+  width: 100%;
+  border: none;
+  padding: 5px 0 5px 2px;
+  border-radius: 5px;
+}
+
+.projects-box #publisher {
+  margin-bottom: 10px;
+  margin-top: 3px;
+  width: 100%;
+  border: none;
+  padding: 5px 0 5px 2px;
+  border-radius: 5px;
+}
+
+.projects-box #autor {
+  margin-bottom: 10px;
+  margin-top: 3px;
+  width: 100%;
+  border: none;
+  padding: 5px 0 5px 2px;
+  border-radius: 5px;
+}
+
+.projects-box #rubrik {
+  width: 100%;
+  margin-bottom: 10px;
+  margin-top: 3px;
+  border: none;
+  padding: 5px 0 5px 2px;
+  border-radius: 5px;
+}
+
+.projects-box #suchbegriff {
+  width: 100%;
+  margin-bottom: 10px;
+  margin-top: 3px;
+  border: none;
+  padding: 5px 0 5px 2px;
+  border-radius: 5px;
+}
+
+.undofilter button {
+  background-color: #f5a114;
+  border: none;
+  padding: 10px 20px 10px 20px;
+  border-radius: 30px;
+
+  font-family: sans-serif;
+  font-size: 12px;
+  color: white;
+  position: relative;
+  cursor: pointer;
+}
+
+.undofilter button:hover {
+  text-decoration: underline;
+}
+
+.undofilter {
+  margin: 0;
+}
+
+ul li {
+  list-style: none;
+  float: left;
+  padding: 30px;
+  color: white;
+  font-size: 20px;
+  font-weight: 400;
+  text-align: center;
+  text-decoration: none;
+}
+a {
+  text-decoration: none;
+  color: aliceblue;
+}
+
+.projects-box label {
+  font-size: 16px;
+}
+
+.headline{
+  display: flex;
+}
+
+.tooltip {
+  position: relative;
+}
+
+.tooltip {
+  padding: 3px 3px 2px 2px;
+  margin-left: 15px;
+  margin-top: 10px;
+  margin-bottom: 5px;
+  color: white;
+  border-radius: 5px;
+}
+
+.tooltipText {
+  visibility: collapse;
+  width: 210px;
+  background-color: #d8d8d8;
+  text-align: center;
+  padding: 5px;
+  margin-left: 15px;
+  align-items: center;
+
+  /* Position des tooltips */
+  position: absolute;
+  z-index: 100;
+}
+
+.tooltip:hover .tooltipText {
+  visibility: visible;
+}

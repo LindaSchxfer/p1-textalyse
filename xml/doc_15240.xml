@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15240</uid>
+   <externalId>15240</externalId>
+   <documentDate>2020-11-18T08:16:38Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Corona in Krankenhäusern]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[Klinikpersonal fühlt sich oft überfordert]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[investigativ]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/investigativ/br-recherche/corona-krankenhaus-107.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Viele Kliniken sehen sich laut einer]]></value>
+        </field>
+        <field name="author">
+              <value><![CDATA[Claudia Gürkov und Christiane Hawranek, BR]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Viele Kliniken sehen sich laut einer BR-Umfrage gut aufgestellt. Das Klinikpersonal aber widerspricht: Pflegekräfte und Mediziner berichten von Überlastung, Testlücken und Personal, das trotz positivem Corona-Test arbeitet.
+Von Claudia Gürkov und Christiane Hawranek, BR
+ Paul* ist Mitte 40, der Familienvater ist ein hochspezialisierter Krankenpfleger - noch. Im Frühjahr hat Paul Corona überlebt, über Wochen war er im Krankenhaus und noch immer geht es ihm nicht gut, immer wieder bekommt er Atemnot. Er weiß nicht, ob er seinen Job an einer Uniklinik in Nordrhein-Westfalen auf Dauer durchhalten kann. Denn seine Arbeitsbedingungen hätten sich in der Pandemie rapide verschlechtert: Personalmangel, Überstunden, psychischer Druck. Hinzu käme, dass auf seiner Station weiterhin planbare Operationen durchgeführt werden - zusätzlich zur Pandemie.
+"Wir gehen alle auf dem Zahnfleisch"
+ BR Recherche hat eine Umfrage zur aktuellen Situation in der Pandemie an 50 Krankenhäuser mit verschiedenen Trägern, vor allem in Bayern, verschickt, 20 antworteten: Man gehe gut aufgestellt in die zweite Welle, geben die meisten an. Das Personal sieht das anders: Das geht aus zahlreichen Hintergrundgesprächen hervor, die BR Recherche mit Ärztinnen und Ärzten sowie Pflegekräften geführt hat. Viele klagen über hunderte Überstunden, Doppelschichten, unterbesetzten Schichten und den Einsatz von Hilfskräften. Das gehe auch zu Lasten der Patienten. Beschäftigte sagen: "Wir gehen alle ziemlich auf dem Zahnfleisch" oder sie seien jetzt schon "am Ende".
+ In der BR-Umfrage geben viele Kliniken an, dass Pflegepersonal fehlt, auch wegen Krankheit oder Quarantänemaßnahmen. Siegfried Hasenbein von der Bayerischen Krankenhausgesellschaft gibt sich dennoch optimistisch und hofft, "dass Beschäftigte bereit sind, Überstunden zu machen und auf Freizeit zu verzichten". Die bayerischen Krankenhäuser versuchten aktuell, ausgeschiedenes Personal zurückzubekommen sowie Medizinstudenten aus späteren Semestern.
+
+Keine einheitlichen Testverfahren für Klinikpersonal
+ Laut der BR-Umfrage reicht das Corona-Schutzmaterial aktuell zwar noch. Dennoch fühlen sich Beschäftigte teils schlecht geschützt, weil es keine einheitlichen Corona-Testungen für das Klinikpersonal gebe. Die Fragebögen zeigen, es hängt vom Krankenhaus ab, wie getestet wird: Sieben der 20 Kliniken testen nach eigenen Angaben bei Symptomen. Etwa ein Viertel der Häuser gibt an, sie testen im ein- oder zwei-Wochen-Rhythmus regelmäßig das gesamte medizinische Personal. In Hintergrundgesprächen berichten viele aber von Testlücken.
+ Professor Gerd Antes, Medizinstatistiker und früherer Direktor des deutschen Cochrane-Instituts, zeigt sich im Interview erstaunt: "Nach acht Monaten Pandemie sollte man eigentlich erwarten, dass das Testgeschehen zielstrebig und rational erfolgt - dem ist leider nicht so." Antes fordert eine möglichst einheitliche Teststrategie und empfiehlt, Antigen-Schnelltests zu verwenden und bei positivem Ergebnis mit einem PCR-Test nachzuarbeiten.
+
+Corona-positives medizinisches Personal im Einsatz
+ In der BR-Umfrage gibt eine bayerische Uniklinik an, positiv getestete Beschäftigte einzusetzen, die für die Patientenbehandlung unentbehrlich seien. Die Bayerische Krankenhausgesellschaft spricht im Interview von "wenigen besonderen Ausnahmefällen". Klinikbeschäftigte dagegen sagen dem BR, es gebe mündliche "Ansagen", man solle weiterarbeiten, auch wenn man positiv getestet worden sei und keine Symptomatik habe. Die Priorität sei, dass niemand ausfallen dürfe.
+ Auch Professor Michael Isfort vom Deutschen Institut für angewandte Pflegeforschung in Köln bekommt solche Berichte regelmäßig. Die betroffenen Corona-positiven Pflegefachkräfte sind zwar als Privatperson in Quarantäne, sollen aber trotzdem zum Dienst antreten. Der Wissenschaftler sagt: “Das ist das Verheizen einer Berufsgruppe, wie ich es in Deutschland noch nie erlebt habe."
+ Das Robert Koch-Institut empfiehlt, nur im absoluten Ausnahmefall, bei gravierendem Personalmangel, Corona-positives medizinisches Personal im Krankenhaus arbeiten zu lassen. Wenn kaum Symptome vorliegen, ist die Arbeit mit Schutzausrüstung und lediglich bei Covid-positiven Patienten möglich.
+Viele Krankenhäuser melden extremen Personalmangel
+ Etliche Kliniken haben offene Stellen in der Pflege, bei den meisten sind es mehr als zehn. Laut Umfrage kompensieren sieben von 20 Krankenhäusern unbesetzte Stellen mit Hilfskräften. Das deckt sich unter anderem mit Schilderungen von Pflegefachkräften aus Unterfranken: "Die Personaldecke ist so dünn, dass bei uns Hilfskräfte und Schüler als Vollzeitpflegekraft mit eingerechnet werden." Der Arbeitgeber weist auf Nachfrage den Vorwurf zurück: Hilfskräfte würden nur assistieren.
+ Auch Professor Martina Hasseler kennt Fälle, in denen Praktikanten, Auszubildende oder Hilfskräfte Patienten pflegen. Die Pflegewissenschaftlerin von der Ostfalia Hochschule kritisiert das unter Verweis auf eine ganze Reihe internationaler Studien. Diese hätten gezeigt, dass die Patientenversorgung leide, es zu Pflegefehlern und einer höheren Sterblichkeit komme, wenn Hilfskräfte Fachkräfte ersetzen würden.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ihre Meinung - meta.tagesschau.de
+
+
+
+
+27 Kommentare zur Meldung. Kommentierung der Meldung beendet.
+
+
+Alle Kommentare zur Meldung anzeigen.
+
+
+
+Geo-Schlagwörter der Meldung:   Deutschland  Europa
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

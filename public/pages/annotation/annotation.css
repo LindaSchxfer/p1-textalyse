@@ -1,0 +1,166 @@
+@media print {
+  body *{visibility: hidden; page-break-after: avoid !important; }
+  @page 
+  {
+      size:  auto;  
+      margin: 0mm;  
+  }
+  #article-content{
+    display: flex!important;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 95%!important;
+    visibility:visible;
+    margin: 20px;
+  }
+  #article-content p{
+    display: block!important;
+    font-size: 17px!important;
+    visibility:visible;
+  }
+
+  .menü-wrapper{
+    display: none !important;
+  }
+}
+
+#annotation {
+  display: flex;
+}
+
+.tooltip {
+  position: relative;
+}
+
+.tooltipText {
+  visibility: collapse;
+  width: 210px;
+  background-color: #d8d8d8;
+  color: rgb(99, 98, 98);
+  text-align: center;
+  border-radius: 5px;
+  padding: 5px;
+  margin-left: 15px;
+  align-items: center;
+
+  /* Position des tooltips */
+  position: absolute;
+  z-index: 100;
+}
+
+.tooltip:hover .tooltipText {
+  visibility: visible;
+}
+
+.annotation {
+  display: flex;
+  width: 100%;
+}
+
+.menü-wrapper {
+  height: 100%;
+  color: white;
+  background: #f5a114;
+  box-sizing: border-box;
+  width: 25%;
+  border-radius: 30px;
+  margin: 10px;
+  padding: 30px;
+}
+
+.radio-wrapper {
+  display: flex;
+  margin-top: 20px;
+  margin-bottom: 7px;
+}
+
+h2 {
+  color: white;
+}
+
+#color4 {
+  margin-left: 5px;
+}
+
+#color2 {
+  margin-left: 5px;
+}
+
+#color3 {
+  margin-left: 5px;
+}
+
+#color1 {
+  margin-left: 5px;
+}
+
+#color5 {
+  margin-left: 5px;
+}
+
+.round {
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+}
+
+.artikel {
+  width: 75%;
+  height: 100%;
+  margin: 10px;
+  border-radius: 30px;
+  padding: 10px;
+}
+
+#bedeutung {
+  margin-bottom: 10px;
+  width: 100%;
+  border: none;
+  padding: 5px 0 5px 2px;
+  border-radius: 5px;
+}
+
+label {
+  font-size: 14pt;
+  text-align: center;
+}
+
+h2 {
+  font-size: 20pt;
+}
+
+#article-content {
+  width: 800px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#article-content > p {
+  cursor: pointer;
+  display: block;
+  margin-right: 3px;
+  font-size: 18px;
+  font-family: sans-serif;
+  text-align: left;
+}
+
+.color1 {
+  background-color: #7ccaae;
+}
+
+.color2 {
+  background-color: #a9dfed;
+}
+
+.color3 {
+  background-color:#ffb69b;
+}
+
+.color4 {
+  background-color: #ecec84;
+}
+
+.color5 {
+  background-color: #a299ca;
+}

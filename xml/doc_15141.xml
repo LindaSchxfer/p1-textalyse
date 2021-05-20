@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15141</uid>
+   <externalId>15141</externalId>
+   <documentDate>2020-11-03T14:02:11Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Coronavirus in Deutschland]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA["Es wird ein harter November"]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[inland]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/inland/deutschland-corona-lage-101.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Gesundheitsminister Spahn hat die Deutschen auf die Notwendigkeit des Teil-Lockdowns eingeschworen. Das sei eine echte Mammutaufgabe. Intensivmediziner halten die November-Auflagen für geboten, pochen aber auf bessere Prävention.]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Gesundheitsminister Spahn hat die Deutschen auf die Notwendigkeit des Teil-Lockdowns eingeschworen. Das sei eine echte Mammutaufgabe. Intensivmediziner halten die November-Auflagen für geboten, pochen aber auf bessere Prävention. 
+ Bundesgesundheitsminister Jens Spahn (CDU) sieht Corona als enorme Herausforderung sowohl für die Staatsführung als auch für die Bürger. "Diese Pandemie ist eine echte Mammutaufgabe für uns als Regierung und für jede und jeden einzelnen in der Gesellschaft", sagte er auf einer Pressekonferenz mit Intensivmedizinern. Der "Höhepunkt" dieser Aufgabe sei noch nicht erreicht. "Wir sind in einer entscheidenden Phase", betonte Spahn. "Die Lage ist ernst." Zur Infektionslage in Deutschland sagte er, es gebe "nichts zu beschönigen".
+ Die Zahl der Infizierten steige exponentiell. Auch die Zahl derjenigen, die wegen einer Covid-19-Erkrankung beatmet werden müsse, steige zu stark. "Um die Pandemie in Griff zu behalten, mussten wir die Notbremse ziehen", sagte Spahn mit Blick auf den Teil-Lockdown. Es werde ein harter November sein. Auch nach Ende des Monats müssten alle weiterhin vorsichtig sein.
+ Spahn appellierte direkt an die Bürger, die Bemühungen zur Eindämmung der Pandemie zu unterstützen. "Am Ende kommt es auf jeden einzelnen an, auf Sie ganz persönlich." Jeder könne einen Unterschied machen. "Wir wissen, wie es geht." Der Gesundheitsminister sagte Kliniken und Krankenhäusern in der Corona-Krise umfassende Unterstützung. "Keine Klinik soll wegen Corona wirtschaftlich benachteiligt sein", sagte er.
+"Sommer verschwendet"
+ Die Virologin Melanie Brinkmann vom Helmholtz Zentrum für Infektionsforschung kritisierte, Deutschland habe im Sommer viel Zeit verschwendet. "Wir müssen unsere Präventionsmaßnahmen deutlich verbessern", sagte sie. Oberste Priorität sei nun, die neue Infektionswelle zu brechen. Dies könne nur dadurch geschehen, in dem jeder einzelne seine Kontakte reduziere, sagte sie. Wenn 100 Prozent bei den aktuellen Maßnahmen mitmachten, dauere der Lockdown deutlich kürzer und das sei für alle von Vorteil.
+ Der Vizepräsidenten des Robert Koch-Instituts, Lars Schaade, räumte ein, dass es beim jetzigen Pandemiegeschehen wöchentlich drei Millionen Test geben müsse, wenn alle Personen mit Erkältungskrankheiten auf Corona getestet würden. "Das ist weder möglich noch erforderlich", sagt er. Er verteidigte den Teil-Lockdown als einzige Möglichkeit, die Ausbreitung des Virus zu verlangsamen. "Ansonsten könnten uns zu Weihnachten 400.000 neue tägliche Fälle drohen", sagte er.
+
+Mehr als 500.000 Menschen infiziert
+ Vor der Pressekonferenz hatten die lokalen Behörden in Deutschland dem Robert Koch-Institut (RKI) 15.352 neue Corona-Infektionen innerhalb eines Tages gemeldet. Zum Vergleich: Am Dienstag vor einer Woche hatte die Zahl bei 11.409 gelegen. Der bisherige Höchstwert war am vergangenen Samstag erreicht worden - er lag bei 19.059 Neuinfektionen.
+ Insgesamt haben sich laut RKI seit Beginn der Corona-Krise 560.379 Menschen in Deutschland nachweislich mit Sars-CoV-2 angesteckt. Die Zahl der Todesfälle im Zusammenhang mit dem Virus stieg bis heute um 131 auf insgesamt 10.661. Das RKI schätzt, dass etwa 371.500 Menschen inzwischen genesen sind.
+
+"Die Welle rollt jetzt auf uns zu"
+ Angesichts der weiterhin sehr hohen Zahl an täglichen Neuinfektionen und der kaum mehr möglichen Kontaktnachverfolgung der Infizierten, wächst die Sorge vor einer Überlastung des Gesundheitssystems. Zumal sich die Auswirkungen der seit Montag geltenden Beschränkungen erst in zwei bis drei Wochen in den Zahlen spiegeln dürften.
+ Experten rechnen daher mit mehr Covid-19-Patienten in den Krankenhäusern, auch auf den Intensivstationen. "Der Lockdown wird sich wahrscheinlich erst nach 14 Tagen auf die Infektionszahlen auswirken und wiederum 14 Tage später auf die Intensivbetten", sagte der Direktor der Klinik für Intensivmedizin des Universitätsklinikums Hamburg-Eppendorf (UKE), Stefan Kluge, im Bayerischen Rundfunk. "Das heißt, diese Welle rollt jetzt auf uns zu."
+
+
+
+
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

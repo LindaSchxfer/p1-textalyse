@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15250</uid>
+   <externalId>15250</externalId>
+   <documentDate>2020-11-19T11:35:52Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[RKI-Chef zu Corona-Lage]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA["Noch lange nicht über den Berg"]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[inland]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/inland/rki-neuinfektionen-127.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Ein Hauch von Optimismus - mehr ist aus Sicht von RKI-Chef Wieler noch nicht angebracht. Die Corona-Neuinfektionen bleiben auf hohem Niveau. Doch immerhin zeigen die Maßnahmen laut Wieler erste Wirkung.]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Ein Hauch von Optimismus - mehr ist aus Sicht von RKI-Chef Wieler noch nicht angebracht. Die Corona-Neuinfektionen bleiben auf hohem Niveau. Doch immerhin zeigen die Maßnahmen laut Wieler erste Wirkung.
+ Aus Sicht des Robert Koch-Institutes (RKI) zeigt der "Lockdown light" im November eine erste vorsichtige Wirkung. Die Zahl der bundesweiten Neuinfektionen stabilisiere sich - allerdings auf einem hohen Niveau.
+ Der Chef des Institutes, Lothar Wieler, warnte: "Wir sind noch lange nicht über den Berg." Die Situation bleibe "sehr ernst". Es sei unklar, ob man schon von einer Trendwende sprechen könne. Aber Wieler zeigte sich optimistisch, dass sich der Effekt der Maßnahmen fortsetzen werde.
+ Wie lange die strikteren Auflagen in Kraft bleiben sollten, lasse sich jetzt noch nicht abschätzen, sagte Wieler weiter. Sollte es nicht gelingen, die Zahl der Neuinfektionen einzudämmen, drohe immer noch die Gefahr, dass Kliniken an ihre Grenzen stoßen und Patienten nicht optimal versorgt werden könnten.
+
+Schulen und Kitas sollen offen bleiben
+ Trotz der anhaltend hohen Zahl an Ansteckungen riet Wieler davon ab, die Maßnahmen durch die Schließung von Schulen und Kitas noch auszuweiten. Das Infektionsgeschehen an den Schulen lasse sich kontrollieren. Die Inzidenzen bei Kindern unter zwölf Jahren seien niedriger als in anderen Altersgruppen. Kinder liefen dem Infektionsgeschehen eher hinterher. Allerdings sollten die "schlauen Konzepte", die Schulen und Kitas zum Schutz entwickelt hätten, auch umgesetzt werden.
+ Die größte Hoffnung im Kampf gegen die Pandemie bleibt aber ein baldiger Impfstoff. Dieser wäre "eine ganz hervorragende Waffe", sagte Wieler. In dem Moment, in dem ein Impfstoff zugelassen werde, könne man die Pandemie entschieden besser kontrollieren.
+ Zuletzt hatten die beiden kooperierenden Konzerne Biontech und Pfizer sowie das Unternehmen Moderna große Fortschritte bei ihrer Suche nach einem Wirkstoff gemeldet.
+
+Rund 22.600 Neuinfektionen bundesweit
+ Am Morgen hatte das RKI 22.609 neue Corona-Infektionen binnen 24 Stunden gemeldet und damit etwa 5000 Fälle mehr als am Vortag. Im Vergleich zum Wert von vor einer Woche wurden etwa 750 Fälle mehr gemeldet. Am vergangenen Donnerstag hatte die Zahl gemeldeter Neuinfektionen bei 21.866 gelegen.
+ Der Höchststand war am vergangenen Freitag mit 23.542 gemeldeten Fällen erreicht worden. Das RKI zählt seit Beginn der Pandemie insgesamt 855.916 nachgewiesene Infektionen mit Sars-CoV-2 in Deutschland (Stand: 19. 11., 00.00 Uhr). Die Zahl der Todesfälle im Zusammenhang mit dem Virus stieg bis Donnerstag um 251 auf insgesamt 13.370.
+
+RKI spricht von "diffusem Geschehen"
+ Das RKI schätzt, dass rund 562.700 Menschen inzwischen genesen sind. Das sogenannte Sieben-Tage-R lag laut RKI-Lagebericht vom Mittwochabend bei 0,95 (Vortag: 0,97). Das heißt, dass 100 Infizierte rechnerisch 95 weitere Menschen anstecken. Der Wert bildet jeweils das Infektionsgeschehen vor acht bis 16 Tagen ab. Liegt er für längere Zeit unter 1, flaut das Infektionsgeschehen ab.
+ Das RKI machte ein "zumeist diffuses Geschehen" für die hohen Fallzahlen verantwortlich. Zahlreiche Häufungen gebe es in Haushalten, jedoch zunehmend auch in Gemeinschaftseinrichtungen und Alten- und Pflegeheimen sowie im beruflichen Umfeld. Auch ausgehend von religiösen Veranstalten gibt es demnach eine Häufung. Für einen großen Anteil könne das Infektionsumfeld aber nicht ermittelt werden.
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

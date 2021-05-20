@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15140</uid>
+   <externalId>15140</externalId>
+   <documentDate>2020-11-03T10:42:44Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Coronavirus in Deutschland]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[15.352 Neuinfektionen - Zweifel an Bettenzahl]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[inland]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/inland/rki-corona-intensivbetten-101.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[Mit den steigenden Corona-Fällen wächst auch die Sorge vor einem Mangel an Intensivbetten. 8000 Betten sind derzeit noch als verfügbar erfasst - doch daran gibt es Zweifel. Das RKI meldet 15.352 Neuinfektionen.]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+Mit den steigenden Corona-Fällen wächst auch die Sorge vor einem Mangel an Intensivbetten. 8000 Betten sind derzeit noch als verfügbar erfasst - doch daran gibt es Zweifel. Das RKI meldet 15.352 Neuinfektionen.
+ Die lokalen Behörden in Deutschland haben dem Robert Koch-Institut (RKI) 15.352 neue Corona-Infektionen innerhalb eines Tages gemeldet. Zum Vergleich: Am Dienstag vor einer Woche hatte die Zahl bei 11.409 gelegen. Der bisherige Höchstwert war am vergangenen Samstag erreicht worden - er lag bei 19.059 Neuinfektionen.
+
+ Insgesamt haben sich laut RKI seit Beginn der Corona-Krise 560.379 Menschen in Deutschland nachweislich mit Sars-CoV-2 angesteckt. Die Zahl der Todesfälle im Zusammenhang mit dem Virus stieg bis heute um 131 auf insgesamt 10.661. Das RKI schätzt, dass rund 371.500 Menschen inzwischen genesen sind.
+
+"Die Welle rollt jetzt auf uns zu"
+ Angesichts der weiterhin sehr hohen Zahl an täglichen Neuinfektionen und der kaum mehr möglichen Kontaktnachverfolgung der Infizierten, wächst die Sorge vor einer Überlastung des Gesundheitssystems. Zumal sich die Auswirkungen der seit Montag geltenden Beschränkungen erst in zwei bis drei Wochen in den Zahlen spiegeln dürften. Experten rechnen daher mit mehr Covid-19-Patienten in den Krankenhäusern, auch auf den Intensivstationen. "Der Lockdown wird sich wahrscheinlich erst nach 14 Tagen auf die Infektionszahlen auswirkt und wiederum 14 Tage später auf die Intensivbetten", sagte der Direktor der Klinik für Intensivmedizin des Universitätsklinikums Hamburg-Eppendorf (UKE), Stefan Kluge, im Bayerischen Rundfunk. "Das heißt, diese Welle rollt jetzt auf uns zu."
+
+Zweifel an Bettenzahl
+ Die Zahl der intensivmedizinisch behandelten Covid-19-Fälle hat sich in den vergangenen zwei Wochen von 851 Patienten (19.10.) auf 2243 Patienten (2.11.) nahezu verdreifacht, wie die DIVI-Daten zeigen. Knapp 8000 Intensivbetten sind als verfügbar erfasst. Experten zweifeln jedoch an den Angaben der Kliniken. Hinweise und Stichproben zeigten, dass mitunter auch Betten als frei gemeldet würden, für die gar kein Pflegepersonal verfügbar sei, sagte der Chef der Deutschen Interdisziplinären Vereinigung für Intensiv- und Notfallmedizin (DIVI), Uwe Janssens der Deutschen Presse-Agentur. Das Ausmaß der fehlerhaften Meldungen sei unklar.
+ Krankenhäuser sind seit dem Frühjahr verpflichtet, die Zahl belegbarer Intensivbetten täglich an die DIVI zu melden. Dabei zählt ausdrücklich die Zahl der Betten, für die ausreichend Intensivkräfte für die Betreuung und Behandlung zur Verfügung stehen. Für ein Intensivbett werden durchschnittlich fünf Pflegekräfte benötigt.
+
+Mehr Pflegekräfte für Intensivstationen nötig
+ "Wir haben jetzt schon angefangen, Pflegepersonal zu bitten, wieder auf der Intensivstation zu arbeiten und wir machen nach und nach Bereiche auf den normalen Stationen zu oder fahren den OP runter, weil wir das Personal jetzt auf der Intensivstation brauchen", beschrieb Intensivmediziner Kluge die Situation. Derzeit stünden beispielsweise in München Intensivbetten leer, die aufgrund von fehlendem Pflegepersonal nicht belegt werden können, das sei allerdings auch vor der Pandemie schon der Fall gewesen.
+ Momentan liefen die Kliniken anders als bei der Infektionswelle im Frühjahr noch im Regelbetrieb, erläuterte DIVI-Präsident Janssens. Manche Kliniken meldeten ihre Intensivbetten-Zahl aber offenbar so, als seien sie bereits aus dem Regelbetrieb genommen. Dann würden Eingriffe, die problemlos später vorgenommen werden können, verschoben - und es stehe mehr Intensivpersonal etwa aus der Anästhesie zur Verfügung. "Diesen Zustand haben wir aber momentan noch gar nicht."
+ Janssens forderte Bundesgesundheitsminister Jens Spahn auf, die Freihaltepauschale wieder einzuführen, damit Kliniken aus dem Regelbetrieb herausgingen und Kapazitäten für die Intensivmediziner freimachten.
+ NRW-Gesundheitsminister Karl-Josef Laumann wies die Forderung zurück: "Stand heute sehe ich keinen Anlass für eine Freihalteprämie, denn es sind noch genug Intensivkapazitäten vorhanden", sagte der CDU-Politiker der "Rheinischen Post".
+"Betten pflegen keine Menschen"
+ Die Grünen forderten ein rasches Gegensteuern gegen drohende Engpässe bei Pflegekräften. "Betten pflegen keine Menschen - erst recht nicht auf einer Intensivstation" sagte Grünen-Fachpolitikerin Kordula Schulz-Asche der dpa. Es sei allerhöchste Zeit, dafür zu sorgen, dass die Personalsituation in Intensivstationen nicht zum "Waterloo der Pandemiebekämpfung" werde. Bemühungen vom Frühjahr für den Aufbau einer Notfallreserve müssten wieder aufgenommen werden. Nötig seien außerdem auch Delegationskonzepte, damit Intensivpflegefachkräfte von Teams aus erfahrenen Pflegefachkräften unterstützt werden könnten.
+ Auch die Deutsche Stiftung Patientenschutz hatte Zweifel daran angemeldet, dass tatsächlich nur belegbare Betten von den Kliniken gemeldet werden. Zu befürchten sei, dass die Kliniken eine merkliche Zahl von Betten als belegbar melden, für die in Wahrheit gar kein Pflegepersonal verfügbar wäre.
+ Am Mittag wollen sich Janssens und Spahn zum weiteren Vorgehen in der Corona-Pandemie äußern. Erwartet werden auch RKI-Vertreter und von Corona-Testlaboren.
+ Spahn hatte zum Start des von Bund und Ländern beschlossenen Teil-Lockdowns am Montag bereits deutlich gemacht, dass es um eine "nationale Kraftanstrengung" gehe. Ziel ist auch, eine Überlastung der Krankenhäuser abzuwenden.
+
+Gestaffelter Schulbeginn am Morgen?
+ Ein ganz anderer Vorschlag als Maßnahme gegen steigende Corona-Fallzahlen kommt von den Verkehrsunternehmen: Sie fordern einen gestaffelten Beginn des Schulunterrichts in den Morgenstunden. Dadurch würde das Verkehrsaufkommen in Bussen und Bahnen am Morgen gemindert und der Gesundheitsschutz im öffentlichen Nahverkehr verstärkt, argumentierte der Präsident des Verband Deutscher Verkehrsunternehmen (VDV), Ingo Wortmann, in den Zeitungen der Funke Mediengruppe.
+ Die Beeinträchtigung des Schulbetriebes wäre "minimal", wenn der Unterricht für die jüngeren Kinder gegen 8 Uhr beginnen und für die älteren zeitversetzt, beispielsweise eine Stunde später, führte Wortmann aus. Der Effekt auf den Nahverkehr in der Hauptverkehrszeit am Morgen wäre nach seinen Worten "enorm" - die Kapazität und damit der zur Verfügung stehende Platz in den Fahrzeugen würde demnach "sofort um mindestens 20 Prozent steigen".
+ Die am Montag in Kraft getretenen neuen Corona-Restriktionen in Deutschland gelten nicht für Schulen und Kitas, sie dürfen grundsätzlich weiter offen bleiben. Dagegen bleiben Restaurants, Kneipen, Kultur- und Sporteinrichtungen bis zunächst Ende November geschlossen.
+
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

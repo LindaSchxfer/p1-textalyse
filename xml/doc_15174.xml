@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doc:document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+              xmlns:ice1="http://ice.rc.ag/xml/ns/2007/08/Document"
+              xmlns:doc="http://ice.rc.ag/xml">
+   <uid>15174</uid>
+   <externalId>15174</externalId>
+   <documentDate>2020-11-09T15:25:06Z</documentDate>
+   <fields>
+        <field name="publisher">
+              <value><![CDATA[Tagesschau]]></value>
+        </field>
+        <field name="vortitel">
+              <value><![CDATA[Corona-Kranke in Deutschland]]></value>
+        </field>
+        <field name="titel">
+              <value><![CDATA[Neuer Höchststand auf Intensivstationen]]></value>
+        </field>
+        <field name="rubrik">
+              <value><![CDATA[inland]]></value>
+        </field>
+        <field name="href">
+              <value><![CDATA[https://www.tagesschau.de/inland/intensivbetten-corona-103.html]]></value>
+        </field>
+        <field name="abstract">
+              <value><![CDATA[3005 Intensivbetten sind derzeit mit Corona-Patienten belegt - das ist ein neuer Höchststand im Vergleich zum Frühjahr. Die Situation sei sogar noch kritischer als im April, heißt es.]]></value>
+        </field>
+        <field name="text">
+              <value><![CDATA[
+
+
+
+
+3005 Intensivbetten sind derzeit mit Corona-Patienten belegt - das ist ein neuer Höchststand im Vergleich zum Frühjahr. Die Situation sei sogar noch kritischer als im April, heißt es. 
+ Die Zahl der auf der Intensivstation behandelten Corona-Infizierten in Deutschland hat ein neues Hoch erreicht. 3005 Intensivbetten waren am Montag nach Angaben der Deutschen Interdisziplinären Vereinigung für Intensiv- und Notfallmedizin (DIVI) von Covid-Patienten belegt. Davon werden 1688 (56 Prozent) invasiv beatmet. Der bisherige Höchststand war laut DIVI am 18. April mit 2933 Covid-19-Patienten auf Intensivstationen erreicht worden.
+
+Lage schlimmer als im April
+ Tatsächlich sei die Lage in den Kliniken derzeit sogar schlimmer als im Frühjahr, hatte DIVI-Chef Uwe Janssens der Deutschen Presse-Agentur gesagt. Es gebe wesentlich mehr infizierte Patienten auf den anderen Stationen - von denen ein Teil noch auf den Intensivstationen landen werde. Die gesamte Infektionslage sei nicht mit der im April vergleichbar.
+ Anders als bei der Spitze am 18. April werde diesmal kein Abflauen folgen, der Anstieg werde sich vielmehr vorerst fortsetzen, sagte Janssens. Der Grund sei, dass sich die jeweilige Zahl an Neuinfektionen erst verzögert in schweren Verläufen und schließlich in der Belegung der Intensivstationen niederschlägt. "In vier Wochen werden wir die Folgen der Spitzenwerte jetzt sehen." Einige Zentren seien bereits am Anschlag, es müssten vereinzelt bereits Covid-19-Patienten in andere Kliniken gebracht werden.
+
+ DIVI-Tagesreport: Knapp 8400 freie Intensivbetten 
+ Laut aktuellem DIVI-Tagesreport meldeten die Kliniken in Deutschland knapp 8400 freie Intensivbetten (Stand 9.11., 12.15 Uhr), bei denen sowohl ausreichend Technik als auch Personal zur Verfügung steht. Seit April liefert das Intensivregister der Divi und des Robert Koch-Instituts (RKI) Daten zu den freien und belegten Intensivbetten der etwa 1300 Akutkrankenhäuser in Deutschland.
+ Für die Kliniken gilt eine Meldepflicht. Erfasst wird unter anderem die Zahl der belegten Intensivbetten und der insgesamt belegbaren Betten - unabhängig von der Diagnose. Außerdem müssen die Kliniken melden, wie viele Corona-Infizierte aktuell intensivmedizinisch behandelt beziehungsweise invasiv beatmet werden und wie viele freie Beatmungsplätze es gibt.
+
+13.363 Neuinfektionen in Deutschland
+ Derweil sind in Deutschland innerhalb eines Tages mehr als 13.000 Neuinfektionen mit dem Coronavirus innerhalb eines Tages verzeichnet worden. Laut RKI wurden 13.363 neue Ansteckungsfälle erfasst. Da am Wochenende nicht alle Gesundheitsämter diese Daten übermitteln, liegen die neuen Fallzahlen des RKI sonntags und montags in der Regel niedriger als an anderen Wochentagen. Insgesamt wurden seit dem Beginn der Pandemie in Deutschland 671.868 Infektionsfälle registriert. Die Zahl der mit dem Coronavirus in Zusammenhang stehenden Todesfälle stieg demnach auf 11.352 - dies waren 63 mehr als am Vortag. Die Zahl der Genesenen lag bei etwa 429.600.
+
+
+
+
+
+
+
+]]></value>
+        </field>
+   </fields>
+</doc:document>

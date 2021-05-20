@@ -1,0 +1,120 @@
+<!-- Seitenname mit Hintergrundbild-->
+<div class="pageName">PROJEKTE</div>
+        
+<!-- Filter-->
+<div class="projects-wrapper">
+    <div class="projects-box">
+     <h2>Filter</h2> 
+            <hr>
+            <div class="headline">
+            <h3>Suchbegriff</h3>
+                <div class="tooltip"><span class="material-icons md-light md-24">help</span>
+                    <span class="tooltipText">Hier kannst Du Begriffe eintragen, die der Artikel enthalten soll. Darunter kannst dann noch genauer auswählen, in welchem Teil des Artikels die Wörter enthalten sein sollen.</span>
+                </div>
+            </div>
+            <label for="suchbegriff">
+                <input id="suchbegriff" name="suchbegriff" value="Corona" placeholder="Suchbegriff">
+            </label></br>
+
+            <input type="radio" id="radio0" name="radio" checked>
+            <label for="radio1">Alle</label></br>
+            <input type="radio" id="radio1" name="radio">
+            <label for="radio1">Vortitel</label></br>
+
+            <input type="radio" id="radio2" name="radio">
+            <label for="radio2">Titel</label> </br>
+
+            <input type="radio" id="radio3" name="radio">
+            <label for="radio3">Abstract</label></br>
+
+            <input type="radio" id="radio4" name="radio">
+            <label for="radio4">Text</label></br>
+
+            <hr>
+            <div class="headline">
+                <h3>Kategorie</h3>
+                    <div class="tooltip"><span class="material-icons md-light md-24">help</span>
+                        <span class="tooltipText">Hier kannst Du nach Datum, Verlag, AutorIn und Rubrik des Arikles filtern.</span>
+                    </div>
+            </div>
+          
+          <label for="date">Datum: </label>
+          <input type="date" id="date" name="input"> </br>
+
+          <label for="publisher">Verlag: </label> 
+          <input type="filter" id="publisher" name="input"> </br>
+
+          <label for= "autor">AutorIn: </label> 
+          <input type="filter" id="autor" name="input"> </br>
+
+          <label for="rubrik">Rubrik: </label> 
+          <input type="filter" id="rubrik" name="input"> </br>
+
+          <hr>
+
+        <div class="headline">
+        <h3>Länge</h3>
+        <div class="tooltip"><span class="material-icons md-light md-24">help</span>
+            <span class="tooltipText">Hier kannst Du die Artikel nach der Länge der Wörter sortieren.</span>
+        </div>
+        </div>
+
+        <input type="radio" id="length0" name="lengthradio" checked>
+        <label for="option0">Keine Eingrenzung</label></br>
+
+        <input type="radio" id="length1" name="lengthradio">
+        <label for="option1">1 - 500 Wörter</label></br>
+
+        <input type="radio" id="length2" name="lengthradio"> 
+        <label for="option2">501 - 1.500 Wörter</label></br>
+
+        <input type="radio" id="length3" name="lengthradio"> 
+        <label for="option3">1.501 - 2.500 Wörter</label></br>
+
+        <input type="radio" id="length4" name="lengthradio"> 
+        <label for="option4"> >2.500 Wörter</label></br>
+
+<!--
+    <p>Sprache:</p>
+    <label for="sprache1">Deutsch</label>
+    <input type="radio" ide="sprache1" name="sprache1" value="0"> </br>
+    <label for="sprache2">Englisch</label>
+    <input type="radio" ide="sprache2" name="sprache2" value="1"> </br>
+    <label for="sprache3">Französisch</label>
+    <input type="radio" ide="sprache3" name="sprache3" value="2"> </br>
+    <label for="sprache4">Italienisch</label>
+    <input type="radio" ide="sprache4" name="sprache4" value="3"> </br>
+</br> -->
+<hr>
+<div class="filterbuttons">
+<div class= "usefilter">
+    <button onclick="showData()"><p>Filter anwenden</p></button>
+    </div>
+</br>
+<div class= "undofilter">
+    <button><p>Filter zurücksetzen</p></button>
+    </div>
+        </div>
+    
+    </div>
+    <div class="headline">
+        <div class="project-head"> 
+            <!-- Button Datei hochladen
+                <div class= "upload" onclick="showData()">
+                    <p>Filter Dateien</p>
+                </div>-->
+        </div>
+        <div id="project-table">
+            <div class="projects-table-head">
+                <h3>Vortitel</h3>
+                <h3>Titel</h3>
+                <h3>Rubrik</h3>
+                <h3>Publisher</h3>
+                <h3>Wortanzahl</h3>
+            </div>
+            <div id="project-list"></div>
+        </div>
+
+    </div>
+</div>
+    

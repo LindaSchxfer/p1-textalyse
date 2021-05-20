@@ -1,0 +1,62 @@
+<!-- Seitenname mit Hintergrundbild -->
+<div class="pageName" onload="loadAnnotationPage()">Annotation</div>
+
+    <!--Annotation-->
+    <div class="annotation">
+      <div class="menü-wrapper">
+        <div id="annotation">
+            <h2>Annotation</h2>
+                <div class="tooltip"><span class="material-icons md-light md-24">help</span>
+                    <span class="tooltipText">Hier kannst Du die verschiedenen Farben dazu verwenden die einzelnen Sätze im Text zu markieren. Hierzu wählst Du einfach die gewünschte Farbe aus, gibts der Farbe eine Bedeutung und kannst dann durch Klicken auf den Satz diesen markieren.
+                        <br>Um die Farben der Annotation ebenfalls zu drucken, wähle im Dialogfeld "Drucken" den Reiter "Erweiterte Einstellungen" und setze das Häkchen bei "Hintergrundgrafiken".
+                    </span>
+                </div>
+            </div>
+          <hr>
+  
+              <div class="radio-wrapper">
+              <input type="radio" id="radioColor1" name="radio" checked value="0"><div id="color1" class="round color1"></div> 
+              </div>
+              <label for="radio1">Bedeutung der Farbe grün:  <input type="text" id="bedeutung"></label>
+              
+  
+              <hr>
+  
+              <div class="radio-wrapper">
+              <input type="radio" id="radioColor2" name="radio" value="1"><div id="color2" class="round color2"></div>
+              </div>
+              <label for="radio1">Bedeutung der Farbe blau:<input type="text" id="bedeutung"></label>
+  
+              <hr>
+              
+  
+              <div class="radio-wrapper">
+              <input type="radio" id="radioColor3" name="radio" value="2"><div id="color3" class="round color3"></div>
+              </div>
+              <label for="radio1">Bedeutung der Farbe rosa:<input type="text" id="bedeutung"></label>
+  
+              <hr>
+  
+              <div class="radio-wrapper">
+              <input type="radio" id="radioColor4" name="radio" value="3"><div id="color4" class="round color4"></div>
+              </div>
+              <label for="radio1">Bedeutung der Farbe gelb:<input type="text" id="bedeutung"></label>
+  
+              <hr>
+  
+              <div class="radio-wrapper">
+              <input type="radio" id="radioColor5" name="radio" value="4"><div id="color5" class="round color5"></div>
+              </div>
+              <label for="radio1">Bedeutung der Farbe lila:<input type="text" id="bedeutung"></label>
+              <div class= "usefilter">
+                <button onclick="{self.print()}"><p>Drucken</p></button>
+              </div>
+            
+  
+      </div>
+  
+  <div class="artikel">
+      <!--<h2>Artikel zum Annotieren</h2>  -->
+      <div id="article-content"></div>
+  </div>
+  </div>
